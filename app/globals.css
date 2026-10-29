@@ -1020,7 +1020,8 @@ a {
 
 .config-sala {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  /* minmax(0, …): nomes longos de tema não alargam a grade */
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 12px;
 }
 
@@ -2539,13 +2540,20 @@ a {
 
   /* celular: uma coluna só, e a página rola normalmente */
   .lobby {
-    grid-template-columns: 1fr;
+    flex-shrink: 0;
+    grid-template-columns: minmax(0, 1fr);
     grid-template-rows: none;
   }
 
   .lobby-principal,
   .lobby-lateral {
     max-height: none;
+    min-height: auto;
+  }
+
+  .lobby-principal > .cartao-jogadores {
+    flex-shrink: 0;
+    min-height: auto;
   }
 
   /* Tela final no celular: rola dentro da própria tela */
@@ -2803,6 +2811,42 @@ a {
   .final-bloco-mesa .mesa {
     --c: var(--linhas);
     --r: var(--colunas);
+  }
+
+  /* a mesa inteira cabe na tela: painel em cima, jogadores embaixo */
+  .jogo-corpo {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .jogo-principal {
+    flex: 1;
+  }
+
+  .jogo-lateral {
+    flex-shrink: 0;
+  }
+
+  .jogo-principal .mesa-caixa {
+    flex: 1;
+    min-height: 0;
+    container-type: size;
+    /* mesas enormes: se a carta ficaria pequena demais, rola só a mesa */
+    overflow-y: auto;
+    place-items: safe center;
+  }
+
+  .jogo-principal .mesa {
+    --gap: 6px;
+    --w: min(
+      110px,
+      calc((100cqw - (var(--c) - 1) * var(--gap) - 4px) / var(--c)),
+      max(
+        44px,
+        calc((100cqh - (var(--r) - 1) * var(--gap) - 4px) / var(--r) / 1.25)
+      )
+    );
   }
 }
 
