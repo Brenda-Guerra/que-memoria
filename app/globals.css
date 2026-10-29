@@ -1,3 +1,4 @@
+
 @import "tailwindcss";
 
 /* =================================================================== */
@@ -2104,13 +2105,13 @@ a {
   place-items: center;
   padding: 16px;
   background: rgba(31, 27, 45, 0.35);
-  pointer-events: none;
+  cursor: pointer;
   animation: aparece 0.2s ease;
 }
 
 /* a primeira carta some sozinha; com a segunda, o zoom fica */
 .zoom-fundo.sozinha {
-  animation: zoom-some 1.3s ease forwards;
+  animation: zoom-some 0.8s ease forwards;
 }
 
 .zoom-cartas {

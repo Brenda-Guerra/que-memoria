@@ -47,7 +47,7 @@ import {
 const TEMPO_ULTIMO_PAR_MS = 1800
 
 /** A primeira carta virada fica ampliada por este tempo na tela de todos. */
-const TEMPO_ZOOM_MS = 1300
+const TEMPO_ZOOM_MS = 800
 
 /** Quem está na vez e sumiu (fechou a aba) perde a vez depois disso. */
 const TEMPO_AUSENTE_MS = 8000
@@ -295,12 +295,13 @@ export default function Jogo() {
   const acertou = jogadaCompleta && cartaA.symbol === cartaB.symbol
 
   // Zoom: a primeira carta aparece sozinha por um instante; com a segunda,
-  // as duas ficam ampliadas até a jogada ser resolvida
+  // as duas ficam ampliadas até a jogada ser resolvida. Um toque fecha antes.
   const [zoomEncerrado, setZoomEncerrado] = useState<string | null>(null)
   const chavePrimeira =
     emJogo && room.first_pick !== null && room.second_pick === null
       ? `${room.turn_number}:${room.first_pick}`
       : null
+  const chaveDupla = jogadaCompleta ? `${room.turn_number}:dupla` : null
 
   useEffect(() => {
     if (!chavePrimeira) return
@@ -311,7 +312,9 @@ export default function Jogo() {
   }, [chavePrimeira])
 
   const cartasZoom = jogadaCompleta
-    ? [cartaA, cartaB]
+    ? zoomEncerrado !== chaveDupla
+      ? [cartaA, cartaB]
+      : []
     : cartaA && chavePrimeira && zoomEncerrado !== chavePrimeira
       ? [cartaA]
       : []
@@ -320,13 +323,17 @@ export default function Jogo() {
   const inicioVez = room?.turn_started_at ? Date.parse(room.turn_started_at) : 0
   const relogioAgora = room?.picked_at ? Date.parse(room.picked_at) : agora
 
+  // Jogando sozinho não há vez para passar: sem relógio
+  const sozinho = players.length === 1
+  const tempoVez = sozinho ? null : room?.turn_time ?? null
+
   const restante =
-    room?.turn_time && emJogo
+    tempoVez && emJogo
       ? Math.max(
           0,
           Math.min(
-            room.turn_time,
-            Math.ceil((inicioVez + room.turn_time * 1000 - relogioAgora) / 1000)
+            tempoVez,
+            Math.ceil((inicioVez + tempoVez * 1000 - relogioAgora) / 1000)
           )
         )
       : null
@@ -478,7 +485,7 @@ export default function Jogo() {
 
   // Tempo esgotado → passa a vez
   useEffect(() => {
-    if (!room || room.status !== 'playing' || !room.turn_time) return
+    if (!room || room.status !== 'playing' || !room.turn_time || sozinho) return
     if (room.second_pick !== null || !room.turn_started_at) return
 
     const prazo =
@@ -492,7 +499,7 @@ export default function Jogo() {
       await passarVez({ room, players, onlineIds: online })
       if (souDaVez) avisar('Acabou o seu tempo! A vez passou.')
     })
-  }, [room, agora, souDaVez, players, online, umaVez, avisar])
+  }, [room, agora, sozinho, souDaVez, players, online, umaVez, avisar])
 
   // Quem está na vez saiu ou fechou a aba → passa a vez
   useEffect(() => {
@@ -859,6 +866,7 @@ export default function Jogo() {
           <CartaZoom
             cartas={cartasZoom}
             resultado={jogadaCompleta ? (acertou ? 'acertou' : 'errou') : null}
+            onFechar={() => setZoomEncerrado(chaveDupla ?? chavePrimeira)}
           />
         </section>
 

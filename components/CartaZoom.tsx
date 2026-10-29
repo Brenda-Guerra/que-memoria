@@ -3,14 +3,16 @@ import { FaceCarta } from '@/components/FaceCarta'
 
 /**
  * Carta recém-virada em tamanho grande, por cima da mesa, na tela de todos.
- * Não bloqueia cliques: quem está na vez pode seguir jogando por baixo.
+ * Um toque em qualquer lugar fecha o zoom — sem virar, sem querer, a carta de baixo.
  */
 export function CartaZoom({
   cartas,
   resultado = null,
+  onFechar,
 }: {
   cartas: Card[]
   resultado?: 'acertou' | 'errou' | null
+  onFechar: () => void
 }) {
   if (cartas.length === 0) return null
 
@@ -18,6 +20,7 @@ export function CartaZoom({
     <div
       className={`zoom-fundo ${cartas.length === 1 ? 'sozinha' : 'dupla'}`}
       aria-hidden="true"
+      onClick={onFechar}
     >
       <div className={`zoom-cartas ${resultado ?? ''}`}>
         {cartas.map((card) => (
