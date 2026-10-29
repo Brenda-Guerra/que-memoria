@@ -1,0 +1,611 @@
+{
+  "id": "racas-de-gatos",
+  "nome": "Raças de gatos",
+  "tipo": "cat breed",
+  "cor": "#efe4d6",
+  "capa": "maine-coon",
+  "ordem": 160,
+  "composicao": "one cat of this breed, full body in a natural three-quarter view (sitting, lying or walking), centered in the upper 80% of the card, accurate breed head shape, ears, coat and eye color",
+  "itens": [
+    {
+      "slug": "vira-lata",
+      "nome": "Vira-lata",
+      "referencia": "Brazilian mixed-breed street cat",
+      "elementos": "orange tabby with white chest, sitting on a sunny windowsill"
+    },
+    {
+      "slug": "persa",
+      "nome": "Persa",
+      "referencia": "Persian cat",
+      "elementos": "very long fluffy white coat, completely flat face, round copper eyes"
+    },
+    {
+      "slug": "maine-coon",
+      "nome": "Maine Coon",
+      "referencia": "Maine Coon",
+      "elementos": "huge, brown tabby long coat, lynx ear tufts, bushy tail"
+    },
+    {
+      "slug": "siames",
+      "nome": "Siamês",
+      "referencia": "Siamese cat",
+      "elementos": "slim body, cream coat with dark brown points, blue almond eyes"
+    },
+    {
+      "slug": "sphynx",
+      "nome": "Sphynx",
+      "referencia": "Sphynx cat",
+      "elementos": "hairless wrinkled pink skin, huge ears, lemon-shaped eyes"
+    },
+    {
+      "slug": "bengal",
+      "nome": "Bengal",
+      "referencia": "Bengal cat",
+      "elementos": "golden coat with leopard-like rosettes, muscular"
+    },
+    {
+      "slug": "ragdoll",
+      "nome": "Ragdoll",
+      "referencia": "Ragdoll cat",
+      "elementos": "large, blue eyes, colorpoint semi-long coat with white mitts, relaxed in someone's arms"
+    },
+    {
+      "slug": "british-shorthair",
+      "nome": "British Shorthair",
+      "referencia": "British Shorthair",
+      "elementos": "round chubby face, dense plush blue-grey coat, copper eyes"
+    },
+    {
+      "slug": "scottish-fold",
+      "nome": "Scottish Fold",
+      "referencia": "Scottish Fold",
+      "elementos": "ears folded forward and down, round owl-like face"
+    },
+    {
+      "slug": "abissinio",
+      "nome": "Abissínio",
+      "referencia": "Abyssinian cat",
+      "elementos": "ticked golden-ruddy coat, large ears, slender"
+    },
+    {
+      "slug": "azul-russo",
+      "nome": "Azul Russo",
+      "referencia": "Russian Blue",
+      "elementos": "short silvery-blue coat, bright green eyes, slim"
+    },
+    {
+      "slug": "bosques-da-noruega",
+      "nome": "Bosques da Noruega",
+      "referencia": "Norwegian Forest Cat",
+      "elementos": "long thick water-resistant coat, snowy forest"
+    },
+    {
+      "slug": "sagrado-da-birmania",
+      "nome": "Sagrado da Birmânia",
+      "referencia": "Birman cat",
+      "elementos": "long cream coat with seal points, pure white gloves on all four paws, deep blue eyes"
+    },
+    {
+      "slug": "exotico",
+      "nome": "Exótico",
+      "referencia": "Exotic Shorthair",
+      "elementos": "flat Persian-like face but short plush coat, round body"
+    },
+    {
+      "slug": "american-shorthair",
+      "nome": "American Shorthair",
+      "referencia": "American Shorthair",
+      "elementos": "silver coat with bold black classic tabby swirls"
+    },
+    {
+      "slug": "devon-rex",
+      "nome": "Devon Rex",
+      "referencia": "Devon Rex",
+      "elementos": "huge low-set ears, pixie face, wavy short coat"
+    },
+    {
+      "slug": "cornish-rex",
+      "nome": "Cornish Rex",
+      "referencia": "Cornish Rex",
+      "elementos": "tight curly marcel-wave coat, slim greyhound body, tall ears"
+    },
+    {
+      "slug": "selkirk-rex",
+      "nome": "Selkirk Rex",
+      "referencia": "Selkirk Rex",
+      "elementos": "thick plush coat with loose curls like a sheep"
+    },
+    {
+      "slug": "laperm",
+      "nome": "LaPerm",
+      "referencia": "LaPerm",
+      "elementos": "loose bouncy ringlet curls, shaggy look"
+    },
+    {
+      "slug": "oriental",
+      "nome": "Oriental",
+      "referencia": "Oriental Shorthair",
+      "elementos": "very slim, huge ears, long wedge head, solid ebony coat, green eyes"
+    },
+    {
+      "slug": "balines",
+      "nome": "Balinês",
+      "referencia": "Balinese cat",
+      "elementos": "Siamese colors with long silky coat and plumed tail"
+    },
+    {
+      "slug": "himalaio",
+      "nome": "Himalaio",
+      "referencia": "Himalayan cat",
+      "elementos": "Persian long coat and flat face with Siamese colorpoints and blue eyes"
+    },
+    {
+      "slug": "angora-turco",
+      "nome": "Angorá Turco",
+      "referencia": "Turkish Angora",
+      "elementos": "long silky pure white coat, odd eyes (one blue one amber)"
+    },
+    {
+      "slug": "van-turco",
+      "nome": "Van Turco",
+      "referencia": "Turkish Van",
+      "elementos": "white body with colored head and tail only, swimming in a lake"
+    },
+    {
+      "slug": "mau-egipcio",
+      "nome": "Mau Egípcio",
+      "referencia": "Egyptian Mau",
+      "elementos": "naturally spotted silver coat, gooseberry-green eyes, Egyptian setting"
+    },
+    {
+      "slug": "ocicat",
+      "nome": "Ocicat",
+      "referencia": "Ocicat",
+      "elementos": "wild-looking large dark spots on a light coat, no wild blood"
+    },
+    {
+      "slug": "savannah",
+      "nome": "Savannah",
+      "referencia": "Savannah cat",
+      "elementos": "very tall, huge ears, serval-like black spots, long legs"
+    },
+    {
+      "slug": "toyger",
+      "nome": "Toyger",
+      "referencia": "Toyger",
+      "elementos": "orange coat with tiger-like vertical stripes"
+    },
+    {
+      "slug": "somali",
+      "nome": "Somali",
+      "referencia": "Somali cat",
+      "elementos": "long-haired ticked ruddy coat, bushy fox-like tail"
+    },
+    {
+      "slug": "siberiano",
+      "nome": "Siberiano",
+      "referencia": "Siberian cat",
+      "elementos": "triple-layered long coat, round sturdy body, snowy setting"
+    },
+    {
+      "slug": "manx",
+      "nome": "Manx",
+      "referencia": "Manx cat",
+      "elementos": "completely tailless, round rump, tall hind legs"
+    },
+    {
+      "slug": "bobtail-japones",
+      "nome": "Bobtail Japonês",
+      "referencia": "Japanese Bobtail",
+      "elementos": "short pom-pom tail, calico white-red-black coat, raised paw"
+    },
+    {
+      "slug": "bobtail-americano",
+      "nome": "Bobtail Americano",
+      "referencia": "American Bobtail",
+      "elementos": "wild tabby look, short bobbed tail, sturdy"
+    },
+    {
+      "slug": "pixie-bob",
+      "nome": "Pixie-bob",
+      "referencia": "Pixie-bob",
+      "elementos": "bobcat-like spotted coat, short tail, lynx-tipped ears"
+    },
+    {
+      "slug": "bobtail-das-curilas",
+      "nome": "Bobtail das Curilas",
+      "referencia": "Kurilian Bobtail",
+      "elementos": "fluffy pom-pom tail, semi-long tabby coat, volcanic island"
+    },
+    {
+      "slug": "munchkin",
+      "nome": "Munchkin",
+      "referencia": "Munchkin cat",
+      "elementos": "very short legs, normal body, standing up like a meerkat"
+    },
+    {
+      "slug": "burmes",
+      "nome": "Burmês",
+      "referencia": "Burmese cat",
+      "elementos": "solid sable-brown glossy coat, round head, golden eyes"
+    },
+    {
+      "slug": "bombaim",
+      "nome": "Bombaim",
+      "referencia": "Bombay cat",
+      "elementos": "glossy jet-black coat, copper-gold eyes, mini-panther"
+    },
+    {
+      "slug": "tonquines",
+      "nome": "Tonquinês",
+      "referencia": "Tonkinese cat",
+      "elementos": "mink coat with soft points, aqua eyes"
+    },
+    {
+      "slug": "singapura",
+      "nome": "Singapura",
+      "referencia": "Singapura cat",
+      "elementos": "tiny, ticked sepia coat, huge eyes and ears"
+    },
+    {
+      "slug": "korat",
+      "nome": "Korat",
+      "referencia": "Korat cat",
+      "elementos": "silver-tipped blue coat, heart-shaped face, green eyes"
+    },
+    {
+      "slug": "chartreux",
+      "nome": "Chartreux",
+      "referencia": "Chartreux",
+      "elementos": "woolly blue-grey coat, smiling face, copper eyes, French monastery"
+    },
+    {
+      "slug": "nebelung",
+      "nome": "Nebelung",
+      "referencia": "Nebelung",
+      "elementos": "long silvery-blue silky coat, green eyes, misty look"
+    },
+    {
+      "slug": "havana-brown",
+      "nome": "Havana Brown",
+      "referencia": "Havana Brown",
+      "elementos": "solid chocolate-brown coat, green eyes, distinct muzzle"
+    },
+    {
+      "slug": "snowshoe",
+      "nome": "Snowshoe",
+      "referencia": "Snowshoe cat",
+      "elementos": "Siamese points, white inverted-V on the face and white paws, blue eyes"
+    },
+    {
+      "slug": "ragamuffin",
+      "nome": "Ragamuffin",
+      "referencia": "Ragamuffin cat",
+      "elementos": "large, fluffy, walnut-shaped eyes, sweet look, various colors"
+    },
+    {
+      "slug": "curl-americano",
+      "nome": "Curl Americano",
+      "referencia": "American Curl",
+      "elementos": "ears curled backward"
+    },
+    {
+      "slug": "peterbald",
+      "nome": "Peterbald",
+      "referencia": "Peterbald",
+      "elementos": "hairless or velvety skin, slim Oriental body, very big ears"
+    },
+    {
+      "slug": "donskoy",
+      "nome": "Donskoy",
+      "referencia": "Donskoy cat",
+      "elementos": "hairless wrinkled skin, sturdy body"
+    },
+    {
+      "slug": "lykoi",
+      "nome": "Lykoi",
+      "referencia": "Lykoi",
+      "elementos": "patchy roan black-and-white coat, werewolf look, hairless around the eyes"
+    },
+    {
+      "slug": "chausie",
+      "nome": "Chausie",
+      "referencia": "Chausie",
+      "elementos": "tall, ticked brown coat, jungle-cat ancestor look, long legs"
+    },
+    {
+      "slug": "khao-manee",
+      "nome": "Khao Manee",
+      "referencia": "Khao Manee",
+      "elementos": "pure white short coat, odd-colored diamond eyes (blue and gold)"
+    },
+    {
+      "slug": "sokoke",
+      "nome": "Sokoke",
+      "referencia": "Sokoke cat",
+      "elementos": "blotched tabby looking like wood grain, slim, African forest"
+    },
+    {
+      "slug": "burmilla",
+      "nome": "Burmilla",
+      "referencia": "Burmilla",
+      "elementos": "shaded silver coat, outlined green eyes as if with eyeliner"
+    },
+    {
+      "slug": "australian-mist",
+      "nome": "Australian Mist",
+      "referencia": "Australian Mist",
+      "elementos": "spotted misty brown coat, gentle face"
+    },
+    {
+      "slug": "cymric",
+      "nome": "Cymric",
+      "referencia": "Cymric cat",
+      "elementos": "tailless like the Manx but with a long fluffy coat"
+    },
+    {
+      "slug": "highlander",
+      "nome": "Highlander",
+      "referencia": "Highlander cat",
+      "elementos": "curled ears, short tail, wild spotted look"
+    },
+    {
+      "slug": "minuet",
+      "nome": "Minuet",
+      "referencia": "Minuet (Napoleon) cat",
+      "elementos": "short legs with a Persian-like round face and long coat"
+    },
+    {
+      "slug": "bambino",
+      "nome": "Bambino",
+      "referencia": "Bambino cat",
+      "elementos": "hairless with very short legs"
+    },
+    {
+      "slug": "levkoy-ucraniano",
+      "nome": "Levkoy Ucraniano",
+      "referencia": "Ukrainian Levkoy",
+      "elementos": "hairless, ears folded forward, dog-like face"
+    },
+    {
+      "slug": "serengeti",
+      "nome": "Serengeti",
+      "referencia": "Serengeti cat",
+      "elementos": "long legs, big upright ears, bold black spots on golden coat"
+    },
+    {
+      "slug": "cheetoh",
+      "nome": "Cheetoh",
+      "referencia": "Cheetoh cat",
+      "elementos": "large, spotted golden coat, wild cheetah look, gentle"
+    },
+    {
+      "slug": "mau-arabe",
+      "nome": "Mau Árabe",
+      "referencia": "Arabian Mau",
+      "elementos": "short coat, large pointed ears, desert setting, athletic"
+    },
+    {
+      "slug": "afrodite",
+      "nome": "Afrodite",
+      "referencia": "Aphrodite Giant (Cyprus cat)",
+      "elementos": "large, long legs, white and red bicolor, Cyprus mountains"
+    },
+    {
+      "slug": "thai",
+      "nome": "Thai",
+      "referencia": "Thai (old-style Siamese) cat",
+      "elementos": "rounder head than modern Siamese, seal points, blue eyes"
+    },
+    {
+      "slug": "bobtail-do-mekong",
+      "nome": "Bobtail do Mekong",
+      "referencia": "Mekong Bobtail",
+      "elementos": "Siamese colorpoints with a short kinked tail"
+    },
+    {
+      "slug": "bobtail-careliano",
+      "nome": "Bobtail Careliano",
+      "referencia": "Karelian Bobtail",
+      "elementos": "semi-long coat, short pom-pom tail, Russian forest"
+    },
+    {
+      "slug": "europeu",
+      "nome": "Europeu",
+      "referencia": "European Shorthair (Celtic)",
+      "elementos": "sturdy classic red tabby with round face"
+    },
+    {
+      "slug": "german-rex",
+      "nome": "German Rex",
+      "referencia": "German Rex",
+      "elementos": "curly short coat, medium round head"
+    },
+    {
+      "slug": "ural-rex",
+      "nome": "Ural Rex",
+      "referencia": "Ural Rex",
+      "elementos": "wavy coat in soft curls, Ural mountains"
+    },
+    {
+      "slug": "pelo-curto-brasileiro",
+      "nome": "Pelo Curto Brasileiro",
+      "referencia": "Brazilian Shorthair",
+      "elementos": "slim, short shiny coat, large ears, tabby, Brazilian street setting"
+    },
+    {
+      "slug": "york-chocolate",
+      "nome": "York Chocolate",
+      "referencia": "York Chocolate cat",
+      "elementos": "long silky solid chocolate-brown coat"
+    },
+    {
+      "slug": "ojos-azules",
+      "nome": "Ojos Azules",
+      "referencia": "Ojos Azules cat",
+      "elementos": "tortoiseshell coat with deep blue eyes"
+    },
+    {
+      "slug": "colorpoint",
+      "nome": "Colorpoint",
+      "referencia": "Colorpoint Shorthair",
+      "elementos": "Siamese shape with red flame points"
+    },
+    {
+      "slug": "seychellois",
+      "nome": "Seychellois",
+      "referencia": "Seychellois cat",
+      "elementos": "white body with colored splashes, huge ears, tropical island"
+    },
+    {
+      "slug": "tiffany",
+      "nome": "Tiffany",
+      "referencia": "Chantilly-Tiffany",
+      "elementos": "long silky chocolate coat, golden eyes, plumed tail"
+    },
+    {
+      "slug": "asian",
+      "nome": "Asian",
+      "referencia": "Asian Semi-longhair (Tiffanie)",
+      "elementos": "silky semi-long shaded coat, green eyes"
+    },
+    {
+      "slug": "british-longhair",
+      "nome": "British Longhair",
+      "referencia": "British Longhair",
+      "elementos": "round face, long plush lilac coat"
+    },
+    {
+      "slug": "exotic-longhair",
+      "nome": "Exotic Longhair",
+      "referencia": "Exotic Longhair",
+      "elementos": "flat face, very long cream coat, round eyes"
+    },
+    {
+      "slug": "persa-chinchila",
+      "nome": "Persa Chinchila",
+      "referencia": "Chinchilla Persian",
+      "elementos": "long white coat with silver-tipped sparkle, green eyes with black eyeliner"
+    },
+    {
+      "slug": "kanaani",
+      "nome": "Kanaani",
+      "referencia": "Kanaani cat",
+      "elementos": "spotted coat, long legs, large ears, Israeli desert setting"
+    },
+    {
+      "slug": "suphalak",
+      "nome": "Suphalak",
+      "referencia": "Suphalak cat",
+      "elementos": "solid copper-red-brown coat, gold eyes, Thai temple"
+    },
+    {
+      "slug": "toybob",
+      "nome": "Toybob",
+      "referencia": "Toybob cat",
+      "elementos": "tiny, Siamese points, very short tail"
+    },
+    {
+      "slug": "scottish-straight",
+      "nome": "Scottish Straight",
+      "referencia": "Scottish Straight",
+      "elementos": "round face like the Scottish Fold but straight upright ears"
+    },
+    {
+      "slug": "highland-fold",
+      "nome": "Highland Fold",
+      "referencia": "Highland Fold",
+      "elementos": "long fluffy coat with folded ears"
+    },
+    {
+      "slug": "bengal-prateado",
+      "nome": "Bengal Prateado",
+      "referencia": "Silver Bengal",
+      "elementos": "silver-white coat with black rosettes"
+    },
+    {
+      "slug": "siames-tradicional",
+      "nome": "Siamês Tradicional",
+      "referencia": "Applehead Siamese",
+      "elementos": "round apple-shaped head, chubby, seal points"
+    },
+    {
+      "slug": "ragdoll-bicolor",
+      "nome": "Ragdoll Bicolor",
+      "referencia": "Bicolor Ragdoll",
+      "elementos": "blue eyes, inverted white V on the face, white legs and chest"
+    },
+    {
+      "slug": "sphynx-elf",
+      "nome": "Sphynx Elf",
+      "referencia": "Elf cat",
+      "elementos": "hairless with ears curled backward"
+    },
+    {
+      "slug": "dwelf",
+      "nome": "Dwelf",
+      "referencia": "Dwelf cat",
+      "elementos": "hairless, short legs and curled ears, elf-like"
+    },
+    {
+      "slug": "kinkalow",
+      "nome": "Kinkalow",
+      "referencia": "Kinkalow cat",
+      "elementos": "short legs and curled ears with a coat"
+    },
+    {
+      "slug": "skookum",
+      "nome": "Skookum",
+      "referencia": "Skookum cat",
+      "elementos": "short legs with curly fur"
+    },
+    {
+      "slug": "lambkin",
+      "nome": "Lambkin",
+      "referencia": "Lambkin cat",
+      "elementos": "short legs with soft curly coat like a lamb"
+    },
+    {
+      "slug": "genetta",
+      "nome": "Genetta",
+      "referencia": "Genetta cat",
+      "elementos": "short legs, spotted coat like a genet"
+    },
+    {
+      "slug": "bramble",
+      "nome": "Bramble",
+      "referencia": "Bramble cat",
+      "elementos": "semi-long coat, sturdy, colorpoint"
+    },
+    {
+      "slug": "raas",
+      "nome": "Raas",
+      "referencia": "Raas cat",
+      "elementos": "stocky, blue-grey coat, Indonesian island setting"
+    },
+    {
+      "slug": "sam-sawet",
+      "nome": "Sam Sawet",
+      "referencia": "Sam Sawet cat",
+      "elementos": "dark grey-blue sleek coat, Thai temple"
+    },
+    {
+      "slug": "ussuri",
+      "nome": "Ussuri",
+      "referencia": "Ussuri cat",
+      "elementos": "brown tabby with wild striped look, Siberian forest"
+    },
+    {
+      "slug": "american-wirehair",
+      "nome": "American Wirehair",
+      "referencia": "American Wirehair",
+      "elementos": "springy crimped wiry coat, red-and-white, sturdy body"
+    },
+    {
+      "slug": "tennessee-rex",
+      "nome": "Tennessee Rex",
+      "referencia": "Tennessee Rex",
+      "elementos": "satin glossy coat with soft curls that shimmer"
+    }
+  ]
+}

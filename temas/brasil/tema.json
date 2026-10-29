@@ -1,0 +1,610 @@
+{
+  "id": "brasil",
+  "nome": "Destinos do Brasil",
+  "tipo": "place in Brazil",
+  "cor": "#e6efd8",
+  "capa": "rio-de-janeiro",
+  "ordem": 110,
+  "itens": [
+    {
+      "slug": "rio-de-janeiro",
+      "nome": "Rio de Janeiro",
+      "referencia": "Rio de Janeiro, Brazil",
+      "elementos": "Christ the Redeemer statue on Corcovado peak, Sugarloaf Mountain with its cable car, Copacabana wave-pattern sidewalk, palm trees and ocean"
+    },
+    {
+      "slug": "sao-paulo",
+      "nome": "São Paulo",
+      "referencia": "São Paulo, Brazil",
+      "elementos": "MASP museum floating red concrete frame on Avenida Paulista, dense skyline of towers, Banespa tower, ipê trees in bloom"
+    },
+    {
+      "slug": "salvador",
+      "nome": "Salvador",
+      "referencia": "Salvador, Bahia, Brazil",
+      "elementos": "Lacerda Elevator art deco tower above the bay, colorful colonial houses of Pelourinho, a baiana in white lace dress, berimbau"
+    },
+    {
+      "slug": "brasilia",
+      "nome": "Brasília",
+      "referencia": "Brasília, Brazil",
+      "elementos": "National Congress twin towers between an upturned and a downturned dome, crown-shaped Cathedral of Brasília, wide modernist esplanade, red earth"
+    },
+    {
+      "slug": "curitiba",
+      "nome": "Curitiba",
+      "referencia": "Curitiba, Brazil",
+      "elementos": "Ópera de Arame wire-and-glass opera house over a lake, Botanical Garden glass greenhouse, araucaria pine trees"
+    },
+    {
+      "slug": "manaus",
+      "nome": "Manaus",
+      "referencia": "Manaus, Brazil",
+      "elementos": "Amazon Theatre with pink facade and colorful tiled dome, Meeting of the Waters with dark and sandy rivers side by side, rainforest edge"
+    },
+    {
+      "slug": "recife",
+      "nome": "Recife",
+      "referencia": "Recife, Brazil",
+      "elementos": "bridges over the Capibaribe river, colorful frevo umbrella, colonial facades of Recife Antigo, reef pools"
+    },
+    {
+      "slug": "florianopolis",
+      "nome": "Florianópolis",
+      "referencia": "Florianópolis, Brazil",
+      "elementos": "Hercílio Luz suspension bridge, Lagoa da Conceição lagoon, green hills and island beaches"
+    },
+    {
+      "slug": "porto-alegre",
+      "nome": "Porto Alegre",
+      "referencia": "Porto Alegre, Brazil",
+      "elementos": "Usina do Gasômetro brick chimney at sunset over Guaíba lake, chimarrão gourd, jacarandá trees"
+    },
+    {
+      "slug": "foz-do-iguacu",
+      "nome": "Foz do Iguaçu",
+      "referencia": "Foz do Iguaçu, Brazil",
+      "elementos": "Iguaçu Falls with the Devil's Throat, mist and rainbow, coati, blue butterflies, lush jungle"
+    },
+    {
+      "slug": "ouro-preto",
+      "nome": "Ouro Preto",
+      "referencia": "Ouro Preto, Brazil",
+      "elementos": "baroque church with twin bell towers, steep cobblestone streets, white colonial houses with colored windows, misty mountains"
+    },
+    {
+      "slug": "fortaleza",
+      "nome": "Fortaleza",
+      "referencia": "Fortaleza, Brazil",
+      "elementos": "jangada raft with triangular sail on green sea, coconut palms, sand dunes, Ponte dos Ingleses pier"
+    },
+    {
+      "slug": "belem",
+      "nome": "Belém",
+      "referencia": "Belém, Brazil",
+      "elementos": "Ver-o-Peso market blue iron towers on the bay, baskets of açaí berries, river boats, mango trees"
+    },
+    {
+      "slug": "belo-horizonte",
+      "nome": "Belo Horizonte",
+      "referencia": "Belo Horizonte, Brazil",
+      "elementos": "Pampulha church with wavy modernist vaults and blue-and-white tile panel, Pampulha lagoon, Serra do Curral mountains"
+    },
+    {
+      "slug": "gramado",
+      "nome": "Gramado",
+      "referencia": "Gramado, Brazil",
+      "elementos": "half-timbered Bavarian-style houses, hydrangeas, pine forest, Christmas lights, hot chocolate"
+    },
+    {
+      "slug": "paraty",
+      "nome": "Paraty",
+      "referencia": "Paraty, Brazil",
+      "elementos": "white colonial houses with colorful doors, irregular stone streets, painted fishing boats, green mountains over the bay"
+    },
+    {
+      "slug": "natal",
+      "nome": "Natal",
+      "referencia": "Natal, Brazil",
+      "elementos": "golden dunes with a beach buggy, star-shaped Forte dos Reis Magos at the sea, giant cashew tree"
+    },
+    {
+      "slug": "olinda",
+      "nome": "Olinda",
+      "referencia": "Olinda, Pernambuco, Brazil",
+      "elementos": "giant carnival puppets dancing on steep streets, colorful colonial houses on the hills, white baroque churches, sea view"
+    },
+    {
+      "slug": "fernando-de-noronha",
+      "nome": "Fernando de Noronha",
+      "referencia": "Fernando de Noronha, Brazil",
+      "elementos": "twin Morro Dois Irmãos peaks rising from turquoise sea, spinner dolphins jumping, sea turtle"
+    },
+    {
+      "slug": "jericoacoara",
+      "nome": "Jericoacoara",
+      "referencia": "Jericoacoara, Ceará, Brazil",
+      "elementos": "Pedra Furada rock arch at sunset, tall sand dune, kitesurf sails, hammocks"
+    },
+    {
+      "slug": "lencois-maranhenses",
+      "nome": "Lençóis Maranhenses",
+      "referencia": "Lençóis Maranhenses, Brazil",
+      "elementos": "endless white sand dunes with blue and green rainwater lagoons, clear sky"
+    },
+    {
+      "slug": "sao-luis",
+      "nome": "São Luís",
+      "referencia": "São Luís, Maranhão, Brazil",
+      "elementos": "colonial mansions covered in blue Portuguese tiles, colorful bumba-meu-boi ox costume with ribbons"
+    },
+    {
+      "slug": "bonito",
+      "nome": "Bonito",
+      "referencia": "Bonito, Mato Grosso do Sul, Brazil",
+      "elementos": "crystal-clear river with colorful fish swimming, Gruta do Lago Azul cave with deep blue lake"
+    },
+    {
+      "slug": "pantanal",
+      "nome": "Pantanal",
+      "referencia": "Pantanal wetlands, Brazil",
+      "elementos": "jabiru stork (tuiuiú) with red neck, caimans in shallow water, flooded plains, jaguar at the river bank"
+    },
+    {
+      "slug": "chapada-diamantina",
+      "nome": "Chapada Diamantina",
+      "referencia": "Chapada Diamantina, Bahia, Brazil",
+      "elementos": "flat-topped Morro do Pai Inácio mesa, Cachoeira da Fumaça waterfall turning into mist, green valley"
+    },
+    {
+      "slug": "chapada-dos-veadeiros",
+      "nome": "Chapada dos Veadeiros",
+      "referencia": "Chapada dos Veadeiros, Goiás, Brazil",
+      "elementos": "waterfalls falling into red rock canyons, cerrado trees, quartz crystals"
+    },
+    {
+      "slug": "chapada-dos-guimaraes",
+      "nome": "Chapada dos Guimarães",
+      "referencia": "Chapada dos Guimarães, Mato Grosso, Brazil",
+      "elementos": "tall Véu de Noiva waterfall falling from red sandstone cliffs, macaws flying"
+    },
+    {
+      "slug": "jalapao",
+      "nome": "Jalapão",
+      "referencia": "Jalapão, Tocantins, Brazil",
+      "elementos": "orange sand dunes, golden grass (capim dourado) handicraft, turquoise fervedouro spring"
+    },
+    {
+      "slug": "alter-do-chao",
+      "nome": "Alter do Chão",
+      "referencia": "Alter do Chão, Pará, Brazil",
+      "elementos": "white river beach Ilha do Amor in the blue Tapajós river, wooden boats, Amazon forest"
+    },
+    {
+      "slug": "ilha-grande",
+      "nome": "Ilha Grande",
+      "referencia": "Ilha Grande, Rio de Janeiro, Brazil",
+      "elementos": "Lopes Mendes white-sand beach, Atlantic rainforest hills, small wooden boats"
+    },
+    {
+      "slug": "buzios",
+      "nome": "Búzios",
+      "referencia": "Búzios, Rio de Janeiro, Brazil",
+      "elementos": "colorful fishing boats in small coves, Rua das Pedras cobblestone street, sunset over the bay"
+    },
+    {
+      "slug": "arraial-do-cabo",
+      "nome": "Arraial do Cabo",
+      "referencia": "Arraial do Cabo, Rio de Janeiro, Brazil",
+      "elementos": "crystal turquoise water with white sand, wooden stairs down to Prainhas do Pontal do Atalaia, cliffs"
+    },
+    {
+      "slug": "petropolis",
+      "nome": "Petrópolis",
+      "referencia": "Petrópolis, Rio de Janeiro, Brazil",
+      "elementos": "pink Imperial Museum palace, gothic cathedral, misty mountains of the serra, hydrangeas"
+    },
+    {
+      "slug": "tiradentes",
+      "nome": "Tiradentes",
+      "referencia": "Tiradentes, Minas Gerais, Brazil",
+      "elementos": "golden baroque Matriz de Santo Antônio church on a hill, Maria Fumaça steam train, colonial houses"
+    },
+    {
+      "slug": "inhotim",
+      "nome": "Inhotim",
+      "referencia": "Inhotim, Minas Gerais, Brazil",
+      "elementos": "colorful contemporary art pavilions and sculptures in a tropical botanical garden, palm-lined lake"
+    },
+    {
+      "slug": "aparecida",
+      "nome": "Aparecida",
+      "referencia": "Aparecida, São Paulo, Brazil",
+      "elementos": "huge red-brick Basilica of Aparecida with its tall tower and dome, pilgrims' blue mantle"
+    },
+    {
+      "slug": "campos-do-jordao",
+      "nome": "Campos do Jordão",
+      "referencia": "Campos do Jordão, São Paulo, Brazil",
+      "elementos": "Swiss-style chalets among araucaria trees, cable car over the hills, morning fog"
+    },
+    {
+      "slug": "ilhabela",
+      "nome": "Ilhabela",
+      "referencia": "Ilhabela, São Paulo, Brazil",
+      "elementos": "sailboat regatta in the channel, waterfall in the Atlantic forest, green island mountains"
+    },
+    {
+      "slug": "ubatuba",
+      "nome": "Ubatuba",
+      "referencia": "Ubatuba, São Paulo, Brazil",
+      "elementos": "green sea turtle swimming, curved beaches framed by Atlantic rainforest, fishing canoe"
+    },
+    {
+      "slug": "santos",
+      "nome": "Santos",
+      "referencia": "Santos, São Paulo, Brazil",
+      "elementos": "historic streetcar, longest beachfront garden in the world, large cargo ships entering the port, coffee museum"
+    },
+    {
+      "slug": "holambra",
+      "nome": "Holambra",
+      "referencia": "Holambra, São Paulo, Brazil",
+      "elementos": "rainbow fields of tulips and flowers, Dutch windmill, wooden clogs"
+    },
+    {
+      "slug": "blumenau",
+      "nome": "Blumenau",
+      "referencia": "Blumenau, Santa Catarina, Brazil",
+      "elementos": "half-timbered German houses, Oktoberfest beer mugs, accordion"
+    },
+    {
+      "slug": "balneario-camboriu",
+      "nome": "Balneário Camboriú",
+      "referencia": "Balneário Camboriú, Santa Catarina, Brazil",
+      "elementos": "very tall skyscrapers lining the beach, Ferris wheel on the hill, cable car over the sea"
+    },
+    {
+      "slug": "canela",
+      "nome": "Canela",
+      "referencia": "Canela, Rio Grande do Sul, Brazil",
+      "elementos": "stone gothic Catedral de Pedra, Cascata do Caracol waterfall in the forest"
+    },
+    {
+      "slug": "cambara-do-sul",
+      "nome": "Cambará do Sul",
+      "referencia": "Cambará do Sul, Rio Grande do Sul, Brazil",
+      "elementos": "huge green Itaimbezinho canyon with waterfalls falling down vertical walls, fog"
+    },
+    {
+      "slug": "bento-goncalves",
+      "nome": "Bento Gonçalves",
+      "referencia": "Bento Gonçalves, Rio Grande do Sul, Brazil",
+      "elementos": "rows of vineyards on rolling hills, bunches of grapes, wine barrels, steam train"
+    },
+    {
+      "slug": "sao-miguel-das-missoes",
+      "nome": "São Miguel das Missões",
+      "referencia": "São Miguel das Missões, Rio Grande do Sul, Brazil",
+      "elementos": "red stone ruins of the Jesuit mission church facade on a green field, sunset"
+    },
+    {
+      "slug": "joao-pessoa",
+      "nome": "João Pessoa",
+      "referencia": "João Pessoa, Paraíba, Brazil",
+      "elementos": "triangular Cabo Branco lighthouse on the cliff, easternmost point of the Americas at sunrise, sailing boats"
+    },
+    {
+      "slug": "maceio",
+      "nome": "Maceió",
+      "referencia": "Maceió, Alagoas, Brazil",
+      "elementos": "jangadas taking people to the natural pools of Pajuçara, coconut palms, filé lace embroidery"
+    },
+    {
+      "slug": "porto-de-galinhas",
+      "nome": "Porto de Galinhas",
+      "referencia": "Porto de Galinhas, Pernambuco, Brazil",
+      "elementos": "natural reef pools with small fish at low tide, colorful jangadas, painted wooden chicken sculptures"
+    },
+    {
+      "slug": "aracaju",
+      "nome": "Aracaju",
+      "referencia": "Aracaju, Sergipe, Brazil",
+      "elementos": "Orla de Atalaia waterfront with lakes and bridges, crab on a plate, coconut palms"
+    },
+    {
+      "slug": "canion-do-xingo",
+      "nome": "Cânion do Xingó",
+      "referencia": "Xingó Canyon, Brazil",
+      "elementos": "green waters of the São Francisco river between tall rock canyon walls, catamaran boat"
+    },
+    {
+      "slug": "teresina",
+      "nome": "Teresina",
+      "referencia": "Teresina, Piauí, Brazil",
+      "elementos": "meeting of the Poti and Parnaíba rivers, cable-stayed bridge, cajuína bottle, carnaúba palms"
+    },
+    {
+      "slug": "serra-da-capivara",
+      "nome": "Serra da Capivara",
+      "referencia": "Serra da Capivara, Piauí, Brazil",
+      "elementos": "prehistoric red rock paintings of animals and people on a sandstone wall, Pedra Furada arch"
+    },
+    {
+      "slug": "delta-do-parnaiba",
+      "nome": "Delta do Parnaíba",
+      "referencia": "Parnaíba Delta, Brazil",
+      "elementos": "flock of scarlet ibis (guarás) over mangrove islands, river channels, sand dunes"
+    },
+    {
+      "slug": "macapa",
+      "nome": "Macapá",
+      "referencia": "Macapá, Amapá, Brazil",
+      "elementos": "Marco Zero equator monument with the line on the ground, star-shaped Fortaleza de São José, Amazon river mouth"
+    },
+    {
+      "slug": "monte-roraima",
+      "nome": "Monte Roraima",
+      "referencia": "Mount Roraima, Brazil",
+      "elementos": "flat-topped tepui mountain with sheer cliffs and waterfalls, savanna with buriti palms"
+    },
+    {
+      "slug": "porto-velho",
+      "nome": "Porto Velho",
+      "referencia": "Porto Velho, Rondônia, Brazil",
+      "elementos": "old steam locomotive of the Madeira-Mamoré railway, three historic water tanks, Madeira river"
+    },
+    {
+      "slug": "parintins",
+      "nome": "Parintins",
+      "referencia": "Parintins, Amazonas, Brazil",
+      "elementos": "giant festival allegories of the red ox Garantido and the blue ox Caprichoso, Bumbódromo arena, river boats"
+    },
+    {
+      "slug": "anavilhanas",
+      "nome": "Anavilhanas",
+      "referencia": "Anavilhanas, Amazonas, Brazil",
+      "elementos": "maze of forest islands in the dark Rio Negro, pink river dolphin, canoe"
+    },
+    {
+      "slug": "ilha-de-marajo",
+      "nome": "Ilha de Marajó",
+      "referencia": "Marajó Island, Brazil",
+      "elementos": "water buffalo with rider in the wetlands, Marajoara ceramic vase with geometric patterns, scarlet ibis"
+    },
+    {
+      "slug": "cidade-de-goias",
+      "nome": "Cidade de Goiás",
+      "referencia": "City of Goiás, Brazil",
+      "elementos": "colonial houses on stone streets, white baroque church, river with stone bridge, sweets in jars"
+    },
+    {
+      "slug": "pirenopolis",
+      "nome": "Pirenópolis",
+      "referencia": "Pirenópolis, Goiás, Brazil",
+      "elementos": "horse riders in colorful masks and costumes of the Cavalhadas festival, colonial church, waterfalls"
+    },
+    {
+      "slug": "vitoria",
+      "nome": "Vitória",
+      "referencia": "Vitória, Espírito Santo, Brazil",
+      "elementos": "Convento da Penha monastery on a forested hilltop, Terceira Ponte bridge over the bay, moqueca in a black clay pot"
+    },
+    {
+      "slug": "pedra-azul",
+      "nome": "Pedra Azul",
+      "referencia": "Pedra Azul, Espírito Santo, Brazil",
+      "elementos": "giant bluish granite rock with a lizard-shaped formation, mountain forest, misty valleys"
+    },
+    {
+      "slug": "itacare",
+      "nome": "Itacaré",
+      "referencia": "Itacaré, Bahia, Brazil",
+      "elementos": "surfers on waves near coconut palms, cocoa pods on the tree, jungle river meeting the sea"
+    },
+    {
+      "slug": "porto-seguro",
+      "nome": "Porto Seguro",
+      "referencia": "Porto Seguro, Bahia, Brazil",
+      "elementos": "Portuguese caravel ship on the sea, historic white church on the hill, colorful cliffs"
+    },
+    {
+      "slug": "trancoso",
+      "nome": "Trancoso",
+      "referencia": "Trancoso, Bahia, Brazil",
+      "elementos": "Quadrado square with white church and small colorful houses under big trees, cliffs over the beach"
+    },
+    {
+      "slug": "morro-de-sao-paulo",
+      "nome": "Morro de São Paulo",
+      "referencia": "Morro de São Paulo, Bahia, Brazil",
+      "elementos": "lighthouse on the hill, zipline over the beach, island beaches with clear water"
+    },
+    {
+      "slug": "praia-do-forte",
+      "nome": "Praia do Forte",
+      "referencia": "Praia do Forte, Bahia, Brazil",
+      "elementos": "baby sea turtles walking to the ocean, ruins of the Garcia d'Ávila castle, coconut palms"
+    },
+    {
+      "slug": "canoa-quebrada",
+      "nome": "Canoa Quebrada",
+      "referencia": "Canoa Quebrada, Ceará, Brazil",
+      "elementos": "red and orange cliffs over the beach, crescent moon and star carved symbol, jangadas"
+    },
+    {
+      "slug": "pipa",
+      "nome": "Pipa",
+      "referencia": "Pipa, Rio Grande do Norte, Brazil",
+      "elementos": "dolphins in a bay surrounded by tall colored cliffs, beach full of palm trees"
+    },
+    {
+      "slug": "campina-grande",
+      "nome": "Campina Grande",
+      "referencia": "Campina Grande, Paraíba, Brazil",
+      "elementos": "São João festival with bonfire, colorful paper flags, accordion and forró dancers"
+    },
+    {
+      "slug": "caruaru",
+      "nome": "Caruaru",
+      "referencia": "Caruaru, Pernambuco, Brazil",
+      "elementos": "painted clay figurines of northeastern folk life, open-air market, São João flags"
+    },
+    {
+      "slug": "juazeiro-do-norte",
+      "nome": "Juazeiro do Norte",
+      "referencia": "Juazeiro do Norte, Ceará, Brazil",
+      "elementos": "giant white statue of Padre Cícero with hat and cane on a hill, pilgrims, dry sertão landscape"
+    },
+    {
+      "slug": "ilha-do-mel",
+      "nome": "Ilha do Mel",
+      "referencia": "Ilha do Mel, Paraná, Brazil",
+      "elementos": "Farol das Conchas lighthouse on the hill, old stone fortress, wooden trails and quiet beaches"
+    },
+    {
+      "slug": "morretes",
+      "nome": "Morretes",
+      "referencia": "Morretes, Paraná, Brazil",
+      "elementos": "old train crossing a viaduct over the green Serra do Mar, barreado clay pot, colonial houses by the river"
+    },
+    {
+      "slug": "itaipu",
+      "nome": "Itaipu",
+      "referencia": "Itaipu Dam, Brazil",
+      "elementos": "gigantic hydroelectric dam with water rushing down the spillway, huge reservoir lake"
+    },
+    {
+      "slug": "garopaba",
+      "nome": "Garopaba",
+      "referencia": "Garopaba, Santa Catarina, Brazil",
+      "elementos": "southern right whale with calf near the coast, green headlands, surfboards"
+    },
+    {
+      "slug": "torres",
+      "nome": "Torres",
+      "referencia": "Torres, Rio Grande do Sul, Brazil",
+      "elementos": "basalt cliffs rising from the sea, colorful hot air balloons in the sky"
+    },
+    {
+      "slug": "congonhas",
+      "nome": "Congonhas",
+      "referencia": "Congonhas, Minas Gerais, Brazil",
+      "elementos": "soapstone prophet statues by Aleijadinho in front of the Bom Jesus sanctuary, hilltop church"
+    },
+    {
+      "slug": "capitolio",
+      "nome": "Capitólio",
+      "referencia": "Capitólio, Minas Gerais, Brazil",
+      "elementos": "towering canyon walls of Furnas lake with motorboats, emerald water, waterfalls"
+    },
+    {
+      "slug": "diamantina",
+      "nome": "Diamantina",
+      "referencia": "Diamantina, Minas Gerais, Brazil",
+      "elementos": "colonial balconies with musicians playing at night (Vesperata), cobblestone streets, colorful facades"
+    },
+    {
+      "slug": "serra-do-cipo",
+      "nome": "Serra do Cipó",
+      "referencia": "Serra do Cipó, Minas Gerais, Brazil",
+      "elementos": "tall waterfall in rocky mountains, canela-de-ema shrubs, cerrado flowers"
+    },
+    {
+      "slug": "pocos-de-caldas",
+      "nome": "Poços de Caldas",
+      "referencia": "Poços de Caldas, Minas Gerais, Brazil",
+      "elementos": "giant flower clock in the park, thermal bath building, cable car up the mountain"
+    },
+    {
+      "slug": "angra-dos-reis",
+      "nome": "Angra dos Reis",
+      "referencia": "Angra dos Reis, Rio de Janeiro, Brazil",
+      "elementos": "green islands scattered in an emerald bay, schooner boats, Atlantic forest"
+    },
+    {
+      "slug": "niteroi",
+      "nome": "Niterói",
+      "referencia": "Niterói, Rio de Janeiro, Brazil",
+      "elementos": "flying-saucer-shaped Contemporary Art Museum over the bay, Sugarloaf Mountain across the water"
+    },
+    {
+      "slug": "itatiaia",
+      "nome": "Itatiaia",
+      "referencia": "Itatiaia, Rio de Janeiro, Brazil",
+      "elementos": "jagged Agulhas Negras peak, mountain waterfall, highland grasslands and mist"
+    },
+    {
+      "slug": "brotas",
+      "nome": "Brotas",
+      "referencia": "Brotas, São Paulo, Brazil",
+      "elementos": "rafting boat on whitewater rapids, waterfalls in the forest, adventure ropes"
+    },
+    {
+      "slug": "sete-cidades",
+      "nome": "Sete Cidades",
+      "referencia": "Sete Cidades, Piauí, Brazil",
+      "elementos": "strange giant rock formations shaped like towers and turtles, cerrado vegetation"
+    },
+    {
+      "slug": "palmas",
+      "nome": "Palmas",
+      "referencia": "Palmas, Tocantins, Brazil",
+      "elementos": "Praça dos Girassóis square with sunflowers, Palácio Araguaia, river beach at sunset"
+    },
+    {
+      "slug": "mamiraua",
+      "nome": "Mamirauá",
+      "referencia": "Mamirauá, Amazonas, Brazil",
+      "elementos": "white uakari monkey with red face in a flooded forest, floating house, canoe"
+    },
+    {
+      "slug": "rio-araguaia",
+      "nome": "Rio Araguaia",
+      "referencia": "Araguaia River, Brazil",
+      "elementos": "wide river with white sand beaches in the dry season, pink river dolphins, camping tents"
+    },
+    {
+      "slug": "abrolhos",
+      "nome": "Abrolhos",
+      "referencia": "Abrolhos, Bahia, Brazil",
+      "elementos": "humpback whale jumping near the archipelago, black-and-white lighthouse, coral reef"
+    },
+    {
+      "slug": "rio-sao-francisco",
+      "nome": "Rio São Francisco",
+      "referencia": "São Francisco River, Brazil",
+      "elementos": "wooden boat with a carved carranca figurehead, wide river in the dry sertão"
+    },
+    {
+      "slug": "petrolina",
+      "nome": "Petrolina",
+      "referencia": "Petrolina, Pernambuco, Brazil",
+      "elementos": "green vineyards and mango orchards in the dry sertão, irrigation canal, cacti"
+    },
+    {
+      "slug": "ilheus",
+      "nome": "Ilhéus",
+      "referencia": "Ilhéus, Bahia, Brazil",
+      "elementos": "cocoa pods and beans, historic colonial bar and cathedral by the sea, coconut palms"
+    },
+    {
+      "slug": "itaunas",
+      "nome": "Itaúnas",
+      "referencia": "Itaúnas, Espírito Santo, Brazil",
+      "elementos": "huge dunes that buried an old village, river with reflection, forró dancers at night"
+    },
+    {
+      "slug": "piranhas",
+      "nome": "Piranhas",
+      "referencia": "Piranhas, Alagoas, Brazil",
+      "elementos": "colorful hillside village on the São Francisco river, old train station, cangaço leather hat"
+    },
+    {
+      "slug": "penedo",
+      "nome": "Penedo",
+      "referencia": "Penedo, Alagoas, Brazil",
+      "elementos": "baroque churches on the banks of the São Francisco river, colonial riverside houses, boats at sunset"
+    }
+  ]
+}

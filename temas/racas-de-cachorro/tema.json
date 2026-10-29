@@ -1,0 +1,611 @@
+{
+  "id": "racas-de-cachorro",
+  "nome": "Raças de cachorro",
+  "tipo": "dog breed",
+  "cor": "#f3e4cf",
+  "capa": "golden-retriever",
+  "ordem": 150,
+  "composicao": "one dog of this breed, full body in a natural three-quarter view (standing or sitting), centered in the upper 80% of the card, accurate breed proportions, coat and colors",
+  "itens": [
+    {
+      "slug": "vira-lata-caramelo",
+      "nome": "Vira-lata caramelo",
+      "referencia": "Brazilian caramel mixed-breed street dog",
+      "elementos": "medium size, short caramel-golden coat, floppy ears, friendly face, sitting on a sidewalk"
+    },
+    {
+      "slug": "labrador",
+      "nome": "Labrador",
+      "referencia": "Labrador Retriever",
+      "elementos": "short dense yellow coat, otter tail, broad head, kind eyes"
+    },
+    {
+      "slug": "golden-retriever",
+      "nome": "Golden Retriever",
+      "referencia": "Golden Retriever",
+      "elementos": "long feathered golden coat, friendly smile, holding a ball"
+    },
+    {
+      "slug": "pastor-alemao",
+      "nome": "Pastor-alemão",
+      "referencia": "German Shepherd",
+      "elementos": "black-and-tan coat, erect ears, sloping back"
+    },
+    {
+      "slug": "bulldog-ingles",
+      "nome": "Bulldog Inglês",
+      "referencia": "English Bulldog",
+      "elementos": "wrinkled face, pushed-in nose, wide stocky body, underbite"
+    },
+    {
+      "slug": "bulldog-frances",
+      "nome": "Bulldog Francês",
+      "referencia": "French Bulldog",
+      "elementos": "large bat ears, compact muscular body, flat face"
+    },
+    {
+      "slug": "poodle",
+      "nome": "Poodle",
+      "referencia": "standard Poodle",
+      "elementos": "curly white coat in a classic pom-pom clip"
+    },
+    {
+      "slug": "beagle",
+      "nome": "Beagle",
+      "referencia": "Beagle",
+      "elementos": "tricolor coat, long droopy ears, white-tipped tail"
+    },
+    {
+      "slug": "rottweiler",
+      "nome": "Rottweiler",
+      "referencia": "Rottweiler",
+      "elementos": "black coat with rust markings, muscular build"
+    },
+    {
+      "slug": "dachshund",
+      "nome": "Dachshund",
+      "referencia": "Dachshund",
+      "elementos": "very long body, short legs, red short coat"
+    },
+    {
+      "slug": "yorkshire",
+      "nome": "Yorkshire",
+      "referencia": "Yorkshire Terrier",
+      "elementos": "tiny, long silky steel-blue and tan hair, bow on the head"
+    },
+    {
+      "slug": "boxer",
+      "nome": "Boxer",
+      "referencia": "Boxer",
+      "elementos": "fawn coat with white chest, square muzzle, athletic body"
+    },
+    {
+      "slug": "husky-siberiano",
+      "nome": "Husky Siberiano",
+      "referencia": "Siberian Husky",
+      "elementos": "grey and white thick coat, blue eyes, face mask, curled tail"
+    },
+    {
+      "slug": "dogue-alemao",
+      "nome": "Dogue Alemão",
+      "referencia": "Great Dane",
+      "elementos": "giant tall dog, harlequin coat, long legs"
+    },
+    {
+      "slug": "dobermann",
+      "nome": "Dobermann",
+      "referencia": "Dobermann",
+      "elementos": "sleek black-and-rust coat, pointed ears, elegant athletic body"
+    },
+    {
+      "slug": "shih-tzu",
+      "nome": "Shih Tzu",
+      "referencia": "Shih Tzu",
+      "elementos": "long flowing gold-and-white hair, topknot, short muzzle"
+    },
+    {
+      "slug": "chihuahua",
+      "nome": "Chihuahua",
+      "referencia": "Chihuahua",
+      "elementos": "tiny, apple-shaped head, huge ears, big eyes"
+    },
+    {
+      "slug": "pug",
+      "nome": "Pug",
+      "referencia": "Pug",
+      "elementos": "wrinkled black mask face, curly tail, fawn coat"
+    },
+    {
+      "slug": "border-collie",
+      "nome": "Border Collie",
+      "referencia": "Border Collie",
+      "elementos": "black-and-white coat, intense stare, herding sheep"
+    },
+    {
+      "slug": "pastor-australiano",
+      "nome": "Pastor-australiano",
+      "referencia": "Australian Shepherd",
+      "elementos": "blue merle coat, one blue eye, fluffy chest"
+    },
+    {
+      "slug": "cocker-spaniel",
+      "nome": "Cocker Spaniel",
+      "referencia": "English Cocker Spaniel",
+      "elementos": "long wavy ears, golden coat, gentle eyes"
+    },
+    {
+      "slug": "cavalier-king-charles",
+      "nome": "Cavalier King Charles",
+      "referencia": "Cavalier King Charles Spaniel",
+      "elementos": "feathered chestnut-and-white coat, long ears, sweet round eyes"
+    },
+    {
+      "slug": "lulu-da-pomerania",
+      "nome": "Lulu da Pomerânia",
+      "referencia": "Pomeranian",
+      "elementos": "tiny fluffy orange ball of fur, fox-like face"
+    },
+    {
+      "slug": "maltes",
+      "nome": "Maltês",
+      "referencia": "Maltese",
+      "elementos": "small, long straight pure white coat, black button eyes"
+    },
+    {
+      "slug": "bichon-frise",
+      "nome": "Bichon Frisé",
+      "referencia": "Bichon Frisé",
+      "elementos": "white fluffy cotton-ball coat, round head"
+    },
+    {
+      "slug": "schnauzer",
+      "nome": "Schnauzer",
+      "referencia": "Miniature Schnauzer",
+      "elementos": "salt-and-pepper coat, bushy eyebrows and beard"
+    },
+    {
+      "slug": "shiba-inu",
+      "nome": "Shiba Inu",
+      "referencia": "Shiba Inu",
+      "elementos": "red coat, fox-like face, curled tail, cream cheeks"
+    },
+    {
+      "slug": "akita",
+      "nome": "Akita",
+      "referencia": "Akita Inu",
+      "elementos": "large, red-and-white coat, thick curled tail, small triangular ears"
+    },
+    {
+      "slug": "chow-chow",
+      "nome": "Chow Chow",
+      "referencia": "Chow Chow",
+      "elementos": "lion-like mane, blue-black tongue, very fluffy red coat"
+    },
+    {
+      "slug": "shar-pei",
+      "nome": "Shar-pei",
+      "referencia": "Shar-Pei",
+      "elementos": "deep loose skin wrinkles, hippo-like muzzle"
+    },
+    {
+      "slug": "dalmata",
+      "nome": "Dálmata",
+      "referencia": "Dalmatian",
+      "elementos": "white coat with black spots, near a fire hydrant"
+    },
+    {
+      "slug": "boiadeiro-bernes",
+      "nome": "Boiadeiro Bernês",
+      "referencia": "Bernese Mountain Dog",
+      "elementos": "tricolor long coat black, white and rust, mountain meadow"
+    },
+    {
+      "slug": "sao-bernardo",
+      "nome": "São Bernardo",
+      "referencia": "Saint Bernard",
+      "elementos": "huge, red-and-white coat, small barrel on the collar, snowy Alps"
+    },
+    {
+      "slug": "terra-nova",
+      "nome": "Terra-nova",
+      "referencia": "Newfoundland",
+      "elementos": "huge black shaggy dog, near water"
+    },
+    {
+      "slug": "basset-hound",
+      "nome": "Basset Hound",
+      "referencia": "Basset Hound",
+      "elementos": "very long ears touching the ground, droopy eyes, short legs"
+    },
+    {
+      "slug": "bloodhound",
+      "nome": "Bloodhound",
+      "referencia": "Bloodhound",
+      "elementos": "very wrinkled droopy face, long ears, sniffing a trail"
+    },
+    {
+      "slug": "galgo-ingles",
+      "nome": "Galgo Inglês",
+      "referencia": "Greyhound",
+      "elementos": "very slim, deep chest, running at full speed"
+    },
+    {
+      "slug": "whippet",
+      "nome": "Whippet",
+      "referencia": "Whippet",
+      "elementos": "small slim sighthound, short grey coat, curled on a cushion"
+    },
+    {
+      "slug": "galgo-afegao",
+      "nome": "Galgo Afegão",
+      "referencia": "Afghan Hound",
+      "elementos": "long silky flowing coat, elegant topknot, ring tail"
+    },
+    {
+      "slug": "borzoi",
+      "nome": "Borzoi",
+      "referencia": "Borzoi",
+      "elementos": "long narrow head, silky wavy white coat, elegant"
+    },
+    {
+      "slug": "wolfhound-irlandes",
+      "nome": "Wolfhound Irlandês",
+      "referencia": "Irish Wolfhound",
+      "elementos": "giant, rough wiry grey coat, long legs"
+    },
+    {
+      "slug": "weimaraner",
+      "nome": "Weimaraner",
+      "referencia": "Weimaraner",
+      "elementos": "sleek silver-grey coat, light amber eyes"
+    },
+    {
+      "slug": "vizsla",
+      "nome": "Vizsla",
+      "referencia": "Vizsla",
+      "elementos": "short golden-rust coat, lean athletic body, pointing"
+    },
+    {
+      "slug": "pointer-alemao",
+      "nome": "Pointer Alemão",
+      "referencia": "German Shorthaired Pointer",
+      "elementos": "liver-roan ticked coat, pointing pose in a field"
+    },
+    {
+      "slug": "setter-irlandes",
+      "nome": "Setter Irlandês",
+      "referencia": "Irish Setter",
+      "elementos": "long silky mahogany red coat, feathered ears"
+    },
+    {
+      "slug": "springer-spaniel",
+      "nome": "Springer Spaniel",
+      "referencia": "English Springer Spaniel",
+      "elementos": "liver-and-white coat, feathered ears, jumping through grass"
+    },
+    {
+      "slug": "jack-russell",
+      "nome": "Jack Russell",
+      "referencia": "Jack Russell Terrier",
+      "elementos": "small white dog with tan patches, energetic, jumping"
+    },
+    {
+      "slug": "bull-terrier",
+      "nome": "Bull Terrier",
+      "referencia": "Bull Terrier",
+      "elementos": "egg-shaped head, small triangular eyes, white coat with a brindle patch"
+    },
+    {
+      "slug": "pit-bull",
+      "nome": "Pit Bull",
+      "referencia": "American Pit Bull Terrier",
+      "elementos": "muscular, broad head, short blue-grey coat"
+    },
+    {
+      "slug": "westie",
+      "nome": "Westie",
+      "referencia": "West Highland White Terrier",
+      "elementos": "small white wiry coat, carrot-shaped tail, upright ears"
+    },
+    {
+      "slug": "scottish-terrier",
+      "nome": "Scottish Terrier",
+      "referencia": "Scottish Terrier",
+      "elementos": "black wiry coat, long beard and eyebrows, short legs"
+    },
+    {
+      "slug": "airedale",
+      "nome": "Airedale",
+      "referencia": "Airedale Terrier",
+      "elementos": "large terrier, black saddle on a tan wiry coat, beard"
+    },
+    {
+      "slug": "bedlington-terrier",
+      "nome": "Bedlington Terrier",
+      "referencia": "Bedlington Terrier",
+      "elementos": "lamb-like curly fleece coat, pear-shaped head"
+    },
+    {
+      "slug": "cairn-terrier",
+      "nome": "Cairn Terrier",
+      "referencia": "Cairn Terrier",
+      "elementos": "small shaggy wheaten coat, fox-like face"
+    },
+    {
+      "slug": "corgi",
+      "nome": "Corgi",
+      "referencia": "Pembroke Welsh Corgi",
+      "elementos": "short legs, big upright ears, red-and-white coat, fluffy bottom"
+    },
+    {
+      "slug": "collie",
+      "nome": "Collie",
+      "referencia": "Rough Collie",
+      "elementos": "long sable-and-white coat, narrow face, white mane"
+    },
+    {
+      "slug": "old-english-sheepdog",
+      "nome": "Old English Sheepdog",
+      "referencia": "Old English Sheepdog",
+      "elementos": "shaggy grey-and-white coat covering the eyes"
+    },
+    {
+      "slug": "komondor",
+      "nome": "Komondor",
+      "referencia": "Komondor",
+      "elementos": "large white dog covered in long cords like dreadlocks"
+    },
+    {
+      "slug": "puli",
+      "nome": "Puli",
+      "referencia": "Puli",
+      "elementos": "medium black dog with corded coat like a mop"
+    },
+    {
+      "slug": "samoieda",
+      "nome": "Samoieda",
+      "referencia": "Samoyed",
+      "elementos": "fluffy pure white coat, smiling face, snow"
+    },
+    {
+      "slug": "malamute-do-alasca",
+      "nome": "Malamute do Alasca",
+      "referencia": "Alaskan Malamute",
+      "elementos": "bigger and heavier than a husky, brown eyes, plush tail over the back, pulling a sled"
+    },
+    {
+      "slug": "pequines",
+      "nome": "Pequinês",
+      "referencia": "Pekingese",
+      "elementos": "flat face, long flowing mane, lion-like small dog"
+    },
+    {
+      "slug": "lhasa-apso",
+      "nome": "Lhasa Apso",
+      "referencia": "Lhasa Apso",
+      "elementos": "long straight golden coat to the floor, parted hair, tail over back"
+    },
+    {
+      "slug": "chin-japones",
+      "nome": "Chin Japonês",
+      "referencia": "Japanese Chin",
+      "elementos": "black-and-white silky coat, large wide-set eyes, flat face"
+    },
+    {
+      "slug": "papillon",
+      "nome": "Papillon",
+      "referencia": "Papillon",
+      "elementos": "butterfly-shaped fringed ears, small, white with patches"
+    },
+    {
+      "slug": "cao-de-crista-chines",
+      "nome": "Cão de Crista Chinês",
+      "referencia": "Chinese Crested",
+      "elementos": "hairless body with silky hair on head, tail and feet"
+    },
+    {
+      "slug": "xoloitzcuintle",
+      "nome": "Xoloitzcuintle",
+      "referencia": "Xoloitzcuintle",
+      "elementos": "hairless dark grey skin, large ears, elegant, Mexican setting"
+    },
+    {
+      "slug": "basenji",
+      "nome": "Basenji",
+      "referencia": "Basenji",
+      "elementos": "curled tail, wrinkled forehead, red-and-white short coat"
+    },
+    {
+      "slug": "rhodesian-ridgeback",
+      "nome": "Rhodesian Ridgeback",
+      "referencia": "Rhodesian Ridgeback",
+      "elementos": "wheaten coat with a ridge of hair growing backwards along the spine"
+    },
+    {
+      "slug": "boston-terrier",
+      "nome": "Boston Terrier",
+      "referencia": "Boston Terrier",
+      "elementos": "tuxedo black-and-white coat, big round eyes, upright ears"
+    },
+    {
+      "slug": "cane-corso",
+      "nome": "Cane Corso",
+      "referencia": "Cane Corso",
+      "elementos": "large black Italian mastiff, muscular, square head"
+    },
+    {
+      "slug": "mastim-ingles",
+      "nome": "Mastim Inglês",
+      "referencia": "English Mastiff",
+      "elementos": "giant, apricot coat, black mask, heavy jowls"
+    },
+    {
+      "slug": "mastim-napolitano",
+      "nome": "Mastim Napolitano",
+      "referencia": "Neapolitan Mastiff",
+      "elementos": "massive, grey, extremely loose folded skin"
+    },
+    {
+      "slug": "dogue-de-bordeaux",
+      "nome": "Dogue de Bordeaux",
+      "referencia": "Dogue de Bordeaux",
+      "elementos": "huge red-mahogany head, wrinkles, no black mask"
+    },
+    {
+      "slug": "fila-brasileiro",
+      "nome": "Fila Brasileiro",
+      "referencia": "Fila Brasileiro",
+      "elementos": "large Brazilian mastiff, brindle coat, loose skin, camel-like walk"
+    },
+    {
+      "slug": "dogo-argentino",
+      "nome": "Dogo Argentino",
+      "referencia": "Dogo Argentino",
+      "elementos": "large pure white muscular dog, short coat"
+    },
+    {
+      "slug": "cao-dos-pirineus",
+      "nome": "Cão dos Pirineus",
+      "referencia": "Great Pyrenees",
+      "elementos": "large fluffy white dog guarding sheep in the mountains"
+    },
+    {
+      "slug": "leonberger",
+      "nome": "Leonberger",
+      "referencia": "Leonberger",
+      "elementos": "giant, lion-like golden mane, black mask"
+    },
+    {
+      "slug": "pastor-belga-malinois",
+      "nome": "Pastor-belga Malinois",
+      "referencia": "Belgian Malinois",
+      "elementos": "fawn short coat, black mask, alert and lean, jumping"
+    },
+    {
+      "slug": "boiadeiro-australiano",
+      "nome": "Boiadeiro Australiano",
+      "referencia": "Australian Cattle Dog",
+      "elementos": "blue speckled coat, tan points, sturdy"
+    },
+    {
+      "slug": "terrier-brasileiro",
+      "nome": "Terrier Brasileiro",
+      "referencia": "Brazilian Terrier (Fox Paulistinha)",
+      "elementos": "small tricolor white, black and tan short coat, triangular folded ears"
+    },
+    {
+      "slug": "keeshond",
+      "nome": "Keeshond",
+      "referencia": "Keeshond",
+      "elementos": "plush grey-black-cream coat, spectacles marking around the eyes"
+    },
+    {
+      "slug": "mastim-tibetano",
+      "nome": "Mastim Tibetano",
+      "referencia": "Tibetan Mastiff",
+      "elementos": "huge lion-like mane, black-and-tan, Himalayan setting"
+    },
+    {
+      "slug": "cao-d-agua-portugues",
+      "nome": "Cão d'Água Português",
+      "referencia": "Portuguese Water Dog",
+      "elementos": "black curly coat in a lion clip, swimming by a boat"
+    },
+    {
+      "slug": "labradoodle",
+      "nome": "Labradoodle",
+      "referencia": "Labradoodle",
+      "elementos": "wavy fluffy apricot coat, teddy-bear look"
+    },
+    {
+      "slug": "affenpinscher",
+      "nome": "Affenpinscher",
+      "referencia": "Affenpinscher",
+      "elementos": "small black dog with monkey-like face and shaggy beard"
+    },
+    {
+      "slug": "griffon-de-bruxelas",
+      "nome": "Griffon de Bruxelas",
+      "referencia": "Brussels Griffon",
+      "elementos": "small red dog with a human-like expressive face and beard"
+    },
+    {
+      "slug": "pinscher-miniatura",
+      "nome": "Pinscher Miniatura",
+      "referencia": "Miniature Pinscher",
+      "elementos": "tiny, sleek black-and-rust coat, high-stepping gait"
+    },
+    {
+      "slug": "coton-de-tulear",
+      "nome": "Coton de Tulear",
+      "referencia": "Coton de Tulear",
+      "elementos": "small white dog with soft cotton-like fluffy coat"
+    },
+    {
+      "slug": "havanes",
+      "nome": "Havanês",
+      "referencia": "Havanese",
+      "elementos": "small, long silky wavy coat, playful"
+    },
+    {
+      "slug": "bulldog-campeiro",
+      "nome": "Bulldog Campeiro",
+      "referencia": "Bulldog Campeiro (Brazilian)",
+      "elementos": "muscular medium bulldog, brindle-and-white coat, southern Brazilian farm"
+    },
+    {
+      "slug": "catahoula",
+      "nome": "Catahoula",
+      "referencia": "Catahoula Leopard Dog",
+      "elementos": "merle patchwork coat, striking glass-blue eyes"
+    },
+    {
+      "slug": "lagotto-romagnolo",
+      "nome": "Lagotto Romagnolo",
+      "referencia": "Lagotto Romagnolo",
+      "elementos": "woolly curly coat, digging for truffles"
+    },
+    {
+      "slug": "cao-do-farao",
+      "nome": "Cão do Faraó",
+      "referencia": "Pharaoh Hound",
+      "elementos": "amber-red coat, very large upright ears, Egyptian-like elegance"
+    },
+    {
+      "slug": "dandie-dinmont",
+      "nome": "Dandie Dinmont",
+      "referencia": "Dandie Dinmont Terrier",
+      "elementos": "long low body, big silky topknot on the head, pepper coat"
+    },
+    {
+      "slug": "spitz-japones",
+      "nome": "Spitz Japonês",
+      "referencia": "Japanese Spitz",
+      "elementos": "pure white fluffy coat, pointed ears, dark eyes"
+    },
+    {
+      "slug": "pastor-de-shetland",
+      "nome": "Pastor-de-shetland",
+      "referencia": "Shetland Sheepdog",
+      "elementos": "small sable-and-white long coat, lion mane, like a miniature collie"
+    },
+    {
+      "slug": "pastor-branco-suico",
+      "nome": "Pastor-branco-suíço",
+      "referencia": "White Swiss Shepherd",
+      "elementos": "pure white German-shepherd-like dog, erect ears, long white coat"
+    },
+    {
+      "slug": "cocker-americano",
+      "nome": "Cocker Americano",
+      "referencia": "American Cocker Spaniel",
+      "elementos": "domed rounded head, short muzzle, long silky skirt coat in buff color"
+    },
+    {
+      "slug": "pointer-ingles",
+      "nome": "Pointer Inglês",
+      "referencia": "English Pointer",
+      "elementos": "white coat with lemon-yellow patches, classic pointing pose with one paw raised"
+    }
+  ]
+}

@@ -1,0 +1,611 @@
+{
+  "id": "animais",
+  "nome": "Animais",
+  "tipo": "animal",
+  "cor": "#f1e6d0",
+  "capa": "leao",
+  "ordem": 130,
+  "composicao": "one animal of this species, full body in a characteristic pose with a hint of its natural habitat, centered in the upper 80% of the card",
+  "itens": [
+    {
+      "slug": "leao",
+      "nome": "Leão",
+      "referencia": "lion",
+      "elementos": "male lion with big golden mane on the savanna"
+    },
+    {
+      "slug": "tigre",
+      "nome": "Tigre",
+      "referencia": "Bengal tiger",
+      "elementos": "orange tiger with black stripes walking through tall grass"
+    },
+    {
+      "slug": "elefante",
+      "nome": "Elefante",
+      "referencia": "African elephant",
+      "elementos": "big ears, long trunk and ivory tusks, savanna"
+    },
+    {
+      "slug": "girafa",
+      "nome": "Girafa",
+      "referencia": "giraffe",
+      "elementos": "very long neck, brown patch pattern, eating acacia leaves"
+    },
+    {
+      "slug": "zebra",
+      "nome": "Zebra",
+      "referencia": "zebra",
+      "elementos": "black-and-white stripes, short mane, savanna grass"
+    },
+    {
+      "slug": "hipopotamo",
+      "nome": "Hipopótamo",
+      "referencia": "hippopotamus",
+      "elementos": "huge mouth open in a river, small ears, grey-pink skin"
+    },
+    {
+      "slug": "rinoceronte",
+      "nome": "Rinoceronte",
+      "referencia": "white rhinoceros",
+      "elementos": "two horns on the snout, thick grey armored skin"
+    },
+    {
+      "slug": "gorila",
+      "nome": "Gorila",
+      "referencia": "mountain gorilla",
+      "elementos": "big silverback sitting in the green forest"
+    },
+    {
+      "slug": "chimpanze",
+      "nome": "Chimpanzé",
+      "referencia": "chimpanzee",
+      "elementos": "dark fur, expressive face, holding a stick"
+    },
+    {
+      "slug": "orangotango",
+      "nome": "Orangotango",
+      "referencia": "orangutan",
+      "elementos": "long orange-red hair, long arms hanging from a branch"
+    },
+    {
+      "slug": "guepardo",
+      "nome": "Guepardo",
+      "referencia": "cheetah",
+      "elementos": "slim body, solid black spots, black tear lines on the face, running"
+    },
+    {
+      "slug": "leopardo",
+      "nome": "Leopardo",
+      "referencia": "leopard",
+      "elementos": "rosette spots, resting on a tree branch"
+    },
+    {
+      "slug": "hiena",
+      "nome": "Hiena",
+      "referencia": "spotted hyena",
+      "elementos": "sloped back, spotted coat, rounded ears, laughing pose"
+    },
+    {
+      "slug": "suricato",
+      "nome": "Suricato",
+      "referencia": "meerkat",
+      "elementos": "standing upright on hind legs on guard, desert sand"
+    },
+    {
+      "slug": "javali",
+      "nome": "Javali",
+      "referencia": "warthog",
+      "elementos": "tusks curving up, warts on the face, thin tail raised"
+    },
+    {
+      "slug": "camelo",
+      "nome": "Camelo",
+      "referencia": "dromedary camel",
+      "elementos": "one hump, long legs, desert dunes"
+    },
+    {
+      "slug": "canguru",
+      "nome": "Canguru",
+      "referencia": "red kangaroo",
+      "elementos": "jumping on strong hind legs, joey in the pouch"
+    },
+    {
+      "slug": "coala",
+      "nome": "Coala",
+      "referencia": "koala",
+      "elementos": "grey fluffy ears, big black nose, hugging a eucalyptus branch"
+    },
+    {
+      "slug": "ornitorrinco",
+      "nome": "Ornitorrinco",
+      "referencia": "platypus",
+      "elementos": "duck bill, flat beaver tail, swimming in a stream"
+    },
+    {
+      "slug": "vombate",
+      "nome": "Vombate",
+      "referencia": "wombat",
+      "elementos": "stocky round body, short legs, near its burrow"
+    },
+    {
+      "slug": "panda",
+      "nome": "Panda",
+      "referencia": "giant panda",
+      "elementos": "black-and-white fur, eating bamboo"
+    },
+    {
+      "slug": "panda-vermelho",
+      "nome": "Panda-vermelho",
+      "referencia": "red panda",
+      "elementos": "red fur, white face markings, ringed bushy tail, on a branch"
+    },
+    {
+      "slug": "urso-polar",
+      "nome": "Urso-polar",
+      "referencia": "polar bear",
+      "elementos": "white fur on ice floe, Arctic sea"
+    },
+    {
+      "slug": "urso-pardo",
+      "nome": "Urso-pardo",
+      "referencia": "grizzly bear",
+      "elementos": "brown fur, shoulder hump, catching a salmon in a river"
+    },
+    {
+      "slug": "lobo",
+      "nome": "Lobo",
+      "referencia": "grey wolf",
+      "elementos": "howling at the moon on a snowy hill"
+    },
+    {
+      "slug": "raposa",
+      "nome": "Raposa",
+      "referencia": "red fox",
+      "elementos": "orange fur, white-tipped bushy tail, autumn forest"
+    },
+    {
+      "slug": "raposa-do-artico",
+      "nome": "Raposa-do-ártico",
+      "referencia": "arctic fox",
+      "elementos": "pure white fluffy winter coat in the snow"
+    },
+    {
+      "slug": "guaxinim",
+      "nome": "Guaxinim",
+      "referencia": "raccoon",
+      "elementos": "black eye mask, ringed tail, washing food in water"
+    },
+    {
+      "slug": "gamba-listrado",
+      "nome": "Gambá-listrado",
+      "referencia": "striped skunk",
+      "elementos": "black fur with white stripe, fluffy raised tail"
+    },
+    {
+      "slug": "castor",
+      "nome": "Castor",
+      "referencia": "beaver",
+      "elementos": "flat paddle tail, big orange teeth, building a dam of sticks"
+    },
+    {
+      "slug": "alce",
+      "nome": "Alce",
+      "referencia": "moose",
+      "elementos": "huge flat antlers, long face, standing in a lake"
+    },
+    {
+      "slug": "rena",
+      "nome": "Rena",
+      "referencia": "reindeer",
+      "elementos": "branching antlers, thick coat, snowy tundra"
+    },
+    {
+      "slug": "bisao",
+      "nome": "Bisão",
+      "referencia": "American bison",
+      "elementos": "massive shaggy head and hump, prairie"
+    },
+    {
+      "slug": "cervo",
+      "nome": "Cervo",
+      "referencia": "red deer",
+      "elementos": "stag with tall branching antlers in a forest clearing"
+    },
+    {
+      "slug": "ourico",
+      "nome": "Ouriço",
+      "referencia": "hedgehog",
+      "elementos": "small spiky ball with a tiny nose, among autumn leaves"
+    },
+    {
+      "slug": "esquilo",
+      "nome": "Esquilo",
+      "referencia": "red squirrel",
+      "elementos": "bushy tail, ear tufts, holding an acorn"
+    },
+    {
+      "slug": "coelho",
+      "nome": "Coelho",
+      "referencia": "rabbit",
+      "elementos": "long upright ears, fluffy white tail, in a meadow"
+    },
+    {
+      "slug": "morcego",
+      "nome": "Morcego",
+      "referencia": "fruit bat",
+      "elementos": "leathery wings spread, hanging upside down"
+    },
+    {
+      "slug": "coruja",
+      "nome": "Coruja",
+      "referencia": "barn owl",
+      "elementos": "white heart-shaped face, golden wings, perched at night"
+    },
+    {
+      "slug": "aguia",
+      "nome": "Águia",
+      "referencia": "bald eagle",
+      "elementos": "white head, yellow hooked beak, wings spread"
+    },
+    {
+      "slug": "flamingo",
+      "nome": "Flamingo",
+      "referencia": "flamingo",
+      "elementos": "pink feathers, standing on one leg in shallow water"
+    },
+    {
+      "slug": "pinguim",
+      "nome": "Pinguim",
+      "referencia": "emperor penguin",
+      "elementos": "black and white with yellow neck patch, chick on its feet, ice"
+    },
+    {
+      "slug": "pavao",
+      "nome": "Pavão",
+      "referencia": "peacock",
+      "elementos": "huge fan of iridescent tail feathers with eye spots"
+    },
+    {
+      "slug": "cacatua",
+      "nome": "Cacatua",
+      "referencia": "sulphur-crested cockatoo",
+      "elementos": "white feathers, yellow crest raised"
+    },
+    {
+      "slug": "pelicano",
+      "nome": "Pelicano",
+      "referencia": "pelican",
+      "elementos": "huge pouch under the long bill, near the sea"
+    },
+    {
+      "slug": "cisne",
+      "nome": "Cisne",
+      "referencia": "mute swan",
+      "elementos": "white neck curved in an S, orange bill, gliding on a lake"
+    },
+    {
+      "slug": "avestruz",
+      "nome": "Avestruz",
+      "referencia": "ostrich",
+      "elementos": "very long neck and legs, fluffy black-and-white feathers, savanna"
+    },
+    {
+      "slug": "papagaio-do-mar",
+      "nome": "Papagaio-do-mar",
+      "referencia": "Atlantic puffin",
+      "elementos": "colorful striped beak, fish in its beak, cliff by the sea"
+    },
+    {
+      "slug": "pica-pau",
+      "nome": "Pica-pau",
+      "referencia": "woodpecker",
+      "elementos": "red head, pecking a tree trunk"
+    },
+    {
+      "slug": "galo",
+      "nome": "Galo",
+      "referencia": "rooster",
+      "elementos": "red comb, colorful tail feathers, crowing on a fence"
+    },
+    {
+      "slug": "pato",
+      "nome": "Pato",
+      "referencia": "mallard duck",
+      "elementos": "green shiny head, swimming in a pond"
+    },
+    {
+      "slug": "vaca",
+      "nome": "Vaca",
+      "referencia": "dairy cow",
+      "elementos": "black-and-white patches, grazing in a green pasture"
+    },
+    {
+      "slug": "porco",
+      "nome": "Porco",
+      "referencia": "pig",
+      "elementos": "pink, curly tail, in a muddy farmyard"
+    },
+    {
+      "slug": "ovelha",
+      "nome": "Ovelha",
+      "referencia": "sheep",
+      "elementos": "fluffy white wool, green hill"
+    },
+    {
+      "slug": "cabra",
+      "nome": "Cabra",
+      "referencia": "mountain goat",
+      "elementos": "white coat, beard, standing on a steep rock"
+    },
+    {
+      "slug": "cavalo",
+      "nome": "Cavalo",
+      "referencia": "horse",
+      "elementos": "chestnut coat, flowing mane, galloping in a field"
+    },
+    {
+      "slug": "burro",
+      "nome": "Burro",
+      "referencia": "donkey",
+      "elementos": "grey, very long ears, carrying a small load"
+    },
+    {
+      "slug": "lhama",
+      "nome": "Lhama",
+      "referencia": "llama",
+      "elementos": "long neck, woolly coat, colorful tassels on the ears, Andes"
+    },
+    {
+      "slug": "iaque",
+      "nome": "Iaque",
+      "referencia": "yak",
+      "elementos": "long shaggy black hair, curved horns, Himalayan mountains"
+    },
+    {
+      "slug": "lemure",
+      "nome": "Lêmure",
+      "referencia": "ring-tailed lemur",
+      "elementos": "black-and-white ringed tail held up, orange eyes"
+    },
+    {
+      "slug": "camaleao",
+      "nome": "Camaleão",
+      "referencia": "chameleon",
+      "elementos": "curled tail, turret eyes, bright color-changing skin, on a twig"
+    },
+    {
+      "slug": "crocodilo",
+      "nome": "Crocodilo",
+      "referencia": "Nile crocodile",
+      "elementos": "long toothy snout, armored back, lying on a river bank"
+    },
+    {
+      "slug": "tartaruga-gigante",
+      "nome": "Tartaruga-gigante",
+      "referencia": "Galápagos giant tortoise",
+      "elementos": "huge domed shell, long wrinkled neck"
+    },
+    {
+      "slug": "naja",
+      "nome": "Naja",
+      "referencia": "king cobra",
+      "elementos": "hood spread, raised up, coiled body"
+    },
+    {
+      "slug": "polvo",
+      "nome": "Polvo",
+      "referencia": "octopus",
+      "elementos": "eight curling tentacles with suckers, coral reef"
+    },
+    {
+      "slug": "agua-viva",
+      "nome": "Água-viva",
+      "referencia": "jellyfish",
+      "elementos": "translucent glowing bell, long trailing tentacles"
+    },
+    {
+      "slug": "estrela-do-mar",
+      "nome": "Estrela-do-mar",
+      "referencia": "starfish",
+      "elementos": "five arms, orange, on wet sand with shells"
+    },
+    {
+      "slug": "cavalo-marinho",
+      "nome": "Cavalo-marinho",
+      "referencia": "seahorse",
+      "elementos": "curled tail around seaweed, horse-like head"
+    },
+    {
+      "slug": "caranguejo",
+      "nome": "Caranguejo",
+      "referencia": "red crab",
+      "elementos": "big claws raised, walking sideways on the beach"
+    },
+    {
+      "slug": "lagosta",
+      "nome": "Lagosta",
+      "referencia": "lobster",
+      "elementos": "long antennae, big claws, red shell"
+    },
+    {
+      "slug": "tubarao",
+      "nome": "Tubarão",
+      "referencia": "great white shark",
+      "elementos": "pointed snout, rows of teeth, dorsal fin"
+    },
+    {
+      "slug": "baleia-azul",
+      "nome": "Baleia-azul",
+      "referencia": "blue whale",
+      "elementos": "enormous long body, blowing a spout in the ocean"
+    },
+    {
+      "slug": "golfinho",
+      "nome": "Golfinho",
+      "referencia": "bottlenose dolphin",
+      "elementos": "leaping out of the waves, friendly smile"
+    },
+    {
+      "slug": "orca",
+      "nome": "Orca",
+      "referencia": "orca",
+      "elementos": "black-and-white pattern, tall dorsal fin, breaching"
+    },
+    {
+      "slug": "foca",
+      "nome": "Foca",
+      "referencia": "harbor seal",
+      "elementos": "spotted grey body, whiskers, lying on a rock"
+    },
+    {
+      "slug": "morsa",
+      "nome": "Morsa",
+      "referencia": "walrus",
+      "elementos": "long ivory tusks, whiskers, on an ice floe"
+    },
+    {
+      "slug": "lontra-marinha",
+      "nome": "Lontra-marinha",
+      "referencia": "sea otter",
+      "elementos": "floating on its back holding a shell, kelp forest"
+    },
+    {
+      "slug": "raia-manta",
+      "nome": "Raia-manta",
+      "referencia": "manta ray",
+      "elementos": "huge wing-like fins gliding in blue water"
+    },
+    {
+      "slug": "peixe-palhaco",
+      "nome": "Peixe-palhaço",
+      "referencia": "clownfish",
+      "elementos": "orange with white stripes, hiding in a sea anemone"
+    },
+    {
+      "slug": "baiacu",
+      "nome": "Baiacu",
+      "referencia": "pufferfish",
+      "elementos": "inflated round body covered in spikes"
+    },
+    {
+      "slug": "borboleta-monarca",
+      "nome": "Borboleta-monarca",
+      "referencia": "monarch butterfly",
+      "elementos": "orange wings with black veins and white dots, on a flower"
+    },
+    {
+      "slug": "abelha",
+      "nome": "Abelha",
+      "referencia": "honeybee",
+      "elementos": "fuzzy yellow-and-black body, on a flower with honeycomb"
+    },
+    {
+      "slug": "joaninha",
+      "nome": "Joaninha",
+      "referencia": "ladybug",
+      "elementos": "red shell with black dots, on a green leaf"
+    },
+    {
+      "slug": "libelula",
+      "nome": "Libélula",
+      "referencia": "dragonfly",
+      "elementos": "four transparent wings, long blue body, over a pond"
+    },
+    {
+      "slug": "caracol",
+      "nome": "Caracol",
+      "referencia": "snail",
+      "elementos": "spiral shell, long eye stalks, on a wet leaf"
+    },
+    {
+      "slug": "escorpiao",
+      "nome": "Escorpião",
+      "referencia": "scorpion",
+      "elementos": "curled stinger tail, pincers, desert sand"
+    },
+    {
+      "slug": "dragao-de-komodo",
+      "nome": "Dragão-de-komodo",
+      "referencia": "Komodo dragon",
+      "elementos": "huge lizard, forked tongue, rocky island"
+    },
+    {
+      "slug": "axolote",
+      "nome": "Axolote",
+      "referencia": "axolotl",
+      "elementos": "pink, feathery gills, gentle smile, underwater"
+    },
+    {
+      "slug": "narval",
+      "nome": "Narval",
+      "referencia": "narwhal",
+      "elementos": "long spiral tusk, Arctic water with ice"
+    },
+    {
+      "slug": "ocapi",
+      "nome": "Ocapi",
+      "referencia": "okapi",
+      "elementos": "zebra-striped legs, brown body, forest"
+    },
+    {
+      "slug": "mandril",
+      "nome": "Mandril",
+      "referencia": "mandrill",
+      "elementos": "colorful red-and-blue face, golden beard"
+    },
+    {
+      "slug": "gazela",
+      "nome": "Gazela",
+      "referencia": "Thomson's gazelle",
+      "elementos": "slender, curved horns, black side stripe, leaping"
+    },
+    {
+      "slug": "gnu",
+      "nome": "Gnu",
+      "referencia": "wildebeest",
+      "elementos": "curved horns, beard, herd crossing a river"
+    },
+    {
+      "slug": "bufalo-africano",
+      "nome": "Búfalo-africano",
+      "referencia": "African buffalo",
+      "elementos": "massive horns joined at the forehead, savanna"
+    },
+    {
+      "slug": "leopardo-das-neves",
+      "nome": "Leopardo-das-neves",
+      "referencia": "snow leopard",
+      "elementos": "thick pale spotted fur, very long tail, snowy mountains"
+    },
+    {
+      "slug": "lince",
+      "nome": "Lince",
+      "referencia": "Eurasian lynx",
+      "elementos": "black ear tufts, short tail, snowy forest"
+    },
+    {
+      "slug": "abutre",
+      "nome": "Abutre",
+      "referencia": "vulture",
+      "elementos": "bald head, large brown wings, on a dead branch"
+    },
+    {
+      "slug": "quokka",
+      "nome": "Quokka",
+      "referencia": "quokka",
+      "elementos": "small, round, smiling face, Australian island"
+    },
+    {
+      "slug": "diabo-da-tasmania",
+      "nome": "Diabo-da-tasmânia",
+      "referencia": "Tasmanian devil",
+      "elementos": "black fur with white chest stripe, open mouth"
+    },
+    {
+      "slug": "equidna",
+      "nome": "Equidna",
+      "referencia": "echidna",
+      "elementos": "spiny back, long thin snout, digging for ants"
+    }
+  ]
+}

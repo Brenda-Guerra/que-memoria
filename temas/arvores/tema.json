@@ -1,0 +1,611 @@
+{
+  "id": "arvores",
+  "nome": "Árvores",
+  "tipo": "tree",
+  "cor": "#e6ead3",
+  "capa": "baoba",
+  "ordem": 170,
+  "composicao": "one whole tree from roots to crown in its typical landscape, centered in the upper 80% of the card",
+  "itens": [
+    {
+      "slug": "carvalho",
+      "nome": "Carvalho",
+      "referencia": "English oak",
+      "elementos": "wide spreading crown, gnarled trunk, acorns and lobed leaves, English meadow"
+    },
+    {
+      "slug": "bordo-japones",
+      "nome": "Bordo-japonês",
+      "referencia": "Japanese maple",
+      "elementos": "delicate red lace leaves, small graceful tree in a Japanese garden"
+    },
+    {
+      "slug": "bordo-acucareiro",
+      "nome": "Bordo-açucareiro",
+      "referencia": "sugar maple",
+      "elementos": "bright orange and red autumn crown, Canadian forest"
+    },
+    {
+      "slug": "betula",
+      "nome": "Bétula",
+      "referencia": "silver birch",
+      "elementos": "slender white peeling bark with black marks, yellow leaves"
+    },
+    {
+      "slug": "salgueiro-chorao",
+      "nome": "Salgueiro-chorão",
+      "referencia": "weeping willow",
+      "elementos": "long drooping branches touching a pond"
+    },
+    {
+      "slug": "pinheiro-silvestre",
+      "nome": "Pinheiro-silvestre",
+      "referencia": "Scots pine",
+      "elementos": "orange upper bark, flat-topped crown, Highland hillside"
+    },
+    {
+      "slug": "abeto",
+      "nome": "Abeto",
+      "referencia": "Nordmann fir",
+      "elementos": "perfect cone shape, snow on branches, Christmas tree"
+    },
+    {
+      "slug": "sequoia-gigante",
+      "nome": "Sequoia-gigante",
+      "referencia": "giant sequoia",
+      "elementos": "enormous reddish trunk, tiny person at the base for scale, mountain forest"
+    },
+    {
+      "slug": "baoba",
+      "nome": "Baobá",
+      "referencia": "baobab",
+      "elementos": "massive bottle-shaped trunk, sparse branches like roots, African savanna"
+    },
+    {
+      "slug": "oliveira",
+      "nome": "Oliveira",
+      "referencia": "olive tree",
+      "elementos": "twisted silver-grey trunk, small olives, Mediterranean hill"
+    },
+    {
+      "slug": "cerejeira",
+      "nome": "Cerejeira",
+      "referencia": "Japanese cherry tree",
+      "elementos": "crown full of pink blossoms, petals falling, temple path"
+    },
+    {
+      "slug": "macieira",
+      "nome": "Macieira",
+      "referencia": "apple tree",
+      "elementos": "round crown with red apples, orchard"
+    },
+    {
+      "slug": "laranjeira",
+      "nome": "Laranjeira",
+      "referencia": "orange tree",
+      "elementos": "glossy leaves full of oranges and white blossoms"
+    },
+    {
+      "slug": "limoeiro",
+      "nome": "Limoeiro",
+      "referencia": "lemon tree",
+      "elementos": "yellow lemons among glossy leaves, terracotta pot, Amalfi coast"
+    },
+    {
+      "slug": "bananeira",
+      "nome": "Bananeira",
+      "referencia": "banana plant",
+      "elementos": "huge torn leaves, hanging bunch of green bananas and purple flower"
+    },
+    {
+      "slug": "coqueiro",
+      "nome": "Coqueiro",
+      "referencia": "coconut palm",
+      "elementos": "tall leaning slender trunk, coconuts, tropical beach"
+    },
+    {
+      "slug": "tamareira",
+      "nome": "Tamareira",
+      "referencia": "date palm",
+      "elementos": "rough trunk, feathery fronds, clusters of orange dates, oasis"
+    },
+    {
+      "slug": "mangueira",
+      "nome": "Mangueira",
+      "referencia": "mango tree",
+      "elementos": "dense dark green crown, hanging mangoes"
+    },
+    {
+      "slug": "figueira",
+      "nome": "Figueira",
+      "referencia": "fig tree",
+      "elementos": "large lobed leaves, purple figs, Mediterranean courtyard"
+    },
+    {
+      "slug": "faia",
+      "nome": "Faia",
+      "referencia": "European beech",
+      "elementos": "smooth grey trunk, golden autumn canopy"
+    },
+    {
+      "slug": "castanheiro-da-india",
+      "nome": "Castanheiro-da-índia",
+      "referencia": "horse chestnut",
+      "elementos": "white flower candles, spiky green fruit with shiny conkers"
+    },
+    {
+      "slug": "nogueira",
+      "nome": "Nogueira",
+      "referencia": "walnut tree",
+      "elementos": "broad crown, green husks with walnuts"
+    },
+    {
+      "slug": "cedro-do-libano",
+      "nome": "Cedro-do-líbano",
+      "referencia": "cedar of Lebanon",
+      "elementos": "horizontal flat layered branches, snowy mountain"
+    },
+    {
+      "slug": "cipreste-italiano",
+      "nome": "Cipreste-italiano",
+      "referencia": "Italian cypress",
+      "elementos": "tall narrow dark green column, Tuscan road"
+    },
+    {
+      "slug": "zimbro",
+      "nome": "Zimbro",
+      "referencia": "juniper",
+      "elementos": "twisted windswept trunk, blue berries, rocky cliff"
+    },
+    {
+      "slug": "ginkgo",
+      "nome": "Ginkgo",
+      "referencia": "ginkgo",
+      "elementos": "fan-shaped golden leaves, falling like confetti"
+    },
+    {
+      "slug": "bonsai",
+      "nome": "Bonsai",
+      "referencia": "bonsai tree",
+      "elementos": "miniature twisted pine in a shallow ceramic tray"
+    },
+    {
+      "slug": "figueira-de-bengala",
+      "nome": "Figueira-de-bengala",
+      "referencia": "banyan tree",
+      "elementos": "aerial roots dropping from branches forming many trunks"
+    },
+    {
+      "slug": "dragoeiro-de-socotra",
+      "nome": "Dragoeiro-de-socotra",
+      "referencia": "dragon's blood tree (Socotra)",
+      "elementos": "umbrella-shaped dense crown on thick branches, rocky island"
+    },
+    {
+      "slug": "arvore-de-josue",
+      "nome": "Árvore-de-josué",
+      "referencia": "Joshua tree",
+      "elementos": "spiky twisted branches with pom-pom leaves, Mojave desert"
+    },
+    {
+      "slug": "eucalipto-arco-iris",
+      "nome": "Eucalipto-arco-íris",
+      "referencia": "rainbow eucalyptus",
+      "elementos": "trunk with peeling bark in streaks of green, orange, blue and purple"
+    },
+    {
+      "slug": "acacia",
+      "nome": "Acácia",
+      "referencia": "umbrella thorn acacia",
+      "elementos": "flat umbrella-shaped crown, African savanna at sunset"
+    },
+    {
+      "slug": "jacaranda",
+      "nome": "Jacarandá",
+      "referencia": "jacaranda",
+      "elementos": "crown covered in violet-blue flowers, purple carpet below"
+    },
+    {
+      "slug": "flamboyant",
+      "nome": "Flamboyant",
+      "referencia": "flame tree (royal poinciana)",
+      "elementos": "wide umbrella crown of bright scarlet flowers"
+    },
+    {
+      "slug": "sobreiro",
+      "nome": "Sobreiro",
+      "referencia": "cork oak",
+      "elementos": "thick cork bark partly stripped showing orange trunk, Portuguese field"
+    },
+    {
+      "slug": "bambu",
+      "nome": "Bambu",
+      "referencia": "giant bamboo",
+      "elementos": "tall green segmented stems, bamboo forest path"
+    },
+    {
+      "slug": "pinheiro-bristlecone",
+      "nome": "Pinheiro-bristlecone",
+      "referencia": "Great Basin bristlecone pine",
+      "elementos": "ancient twisted silver wood, high desert mountain"
+    },
+    {
+      "slug": "choupo-tremedor",
+      "nome": "Choupo-tremedor",
+      "referencia": "quaking aspen",
+      "elementos": "white trunks, shimmering golden leaves, Colorado hills"
+    },
+    {
+      "slug": "larico",
+      "nome": "Lariço",
+      "referencia": "larch",
+      "elementos": "conifer with golden needles in autumn, Alpine slope"
+    },
+    {
+      "slug": "teixo",
+      "nome": "Teixo",
+      "referencia": "English yew",
+      "elementos": "dark green dense foliage, red berries, old churchyard"
+    },
+    {
+      "slug": "azevinho",
+      "nome": "Azevinho",
+      "referencia": "holly",
+      "elementos": "glossy spiky leaves with bright red berries, winter"
+    },
+    {
+      "slug": "loureiro",
+      "nome": "Loureiro",
+      "referencia": "bay laurel",
+      "elementos": "aromatic dark leaves, crown of laurel"
+    },
+    {
+      "slug": "platano",
+      "nome": "Plátano",
+      "referencia": "London plane tree",
+      "elementos": "patchy camouflage bark, maple-like leaves, city avenue"
+    },
+    {
+      "slug": "tilia",
+      "nome": "Tília",
+      "referencia": "linden tree",
+      "elementos": "heart-shaped leaves, pale yellow flower clusters, village square"
+    },
+    {
+      "slug": "choupo-italiano",
+      "nome": "Choupo-italiano",
+      "referencia": "Lombardy poplar",
+      "elementos": "very tall narrow columns in a row along a field"
+    },
+    {
+      "slug": "sorveira",
+      "nome": "Sorveira",
+      "referencia": "rowan tree",
+      "elementos": "clusters of bright red-orange berries, feathery leaves"
+    },
+    {
+      "slug": "amoreira",
+      "nome": "Amoreira",
+      "referencia": "mulberry tree",
+      "elementos": "dark purple berries among green leaves"
+    },
+    {
+      "slug": "romazeira",
+      "nome": "Romãzeira",
+      "referencia": "pomegranate tree",
+      "elementos": "red pomegranates and orange flowers"
+    },
+    {
+      "slug": "pessegueiro",
+      "nome": "Pessegueiro",
+      "referencia": "peach tree",
+      "elementos": "pink blossoms on bare branches, orchard in spring"
+    },
+    {
+      "slug": "abacateiro",
+      "nome": "Abacateiro",
+      "referencia": "avocado tree",
+      "elementos": "dense crown with hanging green avocados"
+    },
+    {
+      "slug": "cacaueiro",
+      "nome": "Cacaueiro",
+      "referencia": "cacao tree",
+      "elementos": "colorful pods growing directly from the trunk, rainforest"
+    },
+    {
+      "slug": "cafeeiro",
+      "nome": "Cafeeiro",
+      "referencia": "coffee plant",
+      "elementos": "glossy leaves with red coffee cherries, mountain plantation"
+    },
+    {
+      "slug": "jaqueira",
+      "nome": "Jaqueira",
+      "referencia": "jackfruit tree",
+      "elementos": "huge spiky jackfruits hanging from the trunk"
+    },
+    {
+      "slug": "mamoeiro",
+      "nome": "Mamoeiro",
+      "referencia": "papaya tree",
+      "elementos": "single trunk, umbrella of big leaves, papayas clustered at the top"
+    },
+    {
+      "slug": "pereira",
+      "nome": "Pereira",
+      "referencia": "pear tree",
+      "elementos": "white blossoms and green pears"
+    },
+    {
+      "slug": "amendoeira",
+      "nome": "Amendoeira",
+      "referencia": "almond tree",
+      "elementos": "white-pink blossoms on bare branches, Mediterranean spring"
+    },
+    {
+      "slug": "corniso",
+      "nome": "Corniso",
+      "referencia": "flowering dogwood",
+      "elementos": "layered branches with white four-petal flowers"
+    },
+    {
+      "slug": "olaia",
+      "nome": "Olaia",
+      "referencia": "redbud (Judas tree)",
+      "elementos": "bare branches covered in magenta-pink blossoms"
+    },
+    {
+      "slug": "tulipeira",
+      "nome": "Tulipeira",
+      "referencia": "tulip tree",
+      "elementos": "tulip-shaped orange-green flowers, tall straight trunk"
+    },
+    {
+      "slug": "arvore-aljava",
+      "nome": "Árvore-aljava",
+      "referencia": "quiver tree",
+      "elementos": "thick pale trunk with forked branches and spiky tufts, Namibian rocks"
+    },
+    {
+      "slug": "ravenala",
+      "nome": "Ravenala",
+      "referencia": "traveller's palm",
+      "elementos": "giant fan of banana-like leaves in a single plane"
+    },
+    {
+      "slug": "palmeira-imperial",
+      "nome": "Palmeira-imperial",
+      "referencia": "royal palm",
+      "elementos": "very tall smooth grey column trunk with a green crownshaft, avenue"
+    },
+    {
+      "slug": "palmeira-leque",
+      "nome": "Palmeira-leque",
+      "referencia": "Mexican fan palm",
+      "elementos": "very tall thin trunk with a small fan crown, sunset boulevard"
+    },
+    {
+      "slug": "teca",
+      "nome": "Teca",
+      "referencia": "teak",
+      "elementos": "tall straight trunk, very large leaves, Asian forest"
+    },
+    {
+      "slug": "mogno",
+      "nome": "Mogno",
+      "referencia": "mahogany",
+      "elementos": "buttressed trunk, red wood, tropical forest"
+    },
+    {
+      "slug": "nim",
+      "nome": "Nim",
+      "referencia": "neem tree",
+      "elementos": "dense evergreen crown, Indian village"
+    },
+    {
+      "slug": "tamarindeiro",
+      "nome": "Tamarindeiro",
+      "referencia": "tamarind tree",
+      "elementos": "feathery leaves, brown tamarind pods"
+    },
+    {
+      "slug": "samambaia-gigante",
+      "nome": "Samambaia-gigante",
+      "referencia": "tree fern",
+      "elementos": "tall trunk topped with huge lacy fronds, misty forest"
+    },
+    {
+      "slug": "cica",
+      "nome": "Cica",
+      "referencia": "cycad",
+      "elementos": "stiff palm-like fronds from a thick trunk, prehistoric look"
+    },
+    {
+      "slug": "pinheiro-manso",
+      "nome": "Pinheiro-manso",
+      "referencia": "stone pine",
+      "elementos": "flat umbrella crown, Roman countryside"
+    },
+    {
+      "slug": "cipreste-calvo",
+      "nome": "Cipreste-calvo",
+      "referencia": "bald cypress",
+      "elementos": "knees rising from the swamp water, Spanish moss"
+    },
+    {
+      "slug": "carvalho-vivo",
+      "nome": "Carvalho-vivo",
+      "referencia": "southern live oak",
+      "elementos": "huge spreading horizontal branches draped with Spanish moss"
+    },
+    {
+      "slug": "arvore-de-cha",
+      "nome": "Árvore-de-chá",
+      "referencia": "tea tree (camellia sinensis) bushes",
+      "elementos": "rows of trimmed tea bushes on terraced hills"
+    },
+    {
+      "slug": "canela",
+      "nome": "Canela",
+      "referencia": "cinnamon tree",
+      "elementos": "peeling inner bark rolled into cinnamon sticks"
+    },
+    {
+      "slug": "moscadeira",
+      "nome": "Moscadeira",
+      "referencia": "nutmeg tree",
+      "elementos": "split fruit showing red mace around the nut"
+    },
+    {
+      "slug": "sandalo",
+      "nome": "Sândalo",
+      "referencia": "sandalwood",
+      "elementos": "small evergreen tree, fragrant wood pieces, incense"
+    },
+    {
+      "slug": "ebano",
+      "nome": "Ébano",
+      "referencia": "ebony",
+      "elementos": "very dark black heartwood, tropical tree"
+    },
+    {
+      "slug": "arvore-da-borracha",
+      "nome": "Árvore-da-borracha",
+      "referencia": "Indian rubber fig",
+      "elementos": "glossy large dark leaves, potted giant"
+    },
+    {
+      "slug": "baoba-australiano",
+      "nome": "Baobá-australiano",
+      "referencia": "Australian boab",
+      "elementos": "bottle-shaped trunk, Kimberley red rocks"
+    },
+    {
+      "slug": "pandano",
+      "nome": "Pândano",
+      "referencia": "pandanus (screw pine)",
+      "elementos": "stilt roots, spiral leaves, beach"
+    },
+    {
+      "slug": "kauri",
+      "nome": "Kauri",
+      "referencia": "kauri tree",
+      "elementos": "massive straight trunk, New Zealand forest"
+    },
+    {
+      "slug": "eucalipto",
+      "nome": "Eucalipto",
+      "referencia": "eucalyptus",
+      "elementos": "tall smooth pale trunk, hanging leaves, koala in the branches"
+    },
+    {
+      "slug": "dragoeiro-das-canarias",
+      "nome": "Dragoeiro-das-canárias",
+      "referencia": "Canary Islands dragon tree",
+      "elementos": "thick trunk branching into many stiff sword-leaf crowns"
+    },
+    {
+      "slug": "wollemi",
+      "nome": "Wollemi",
+      "referencia": "Wollemi pine",
+      "elementos": "bubbly bark, prehistoric conifer, sandstone gorge"
+    },
+    {
+      "slug": "cedro-vermelho",
+      "nome": "Cedro-vermelho",
+      "referencia": "western red cedar",
+      "elementos": "huge buttressed trunk, drooping branches, Pacific rainforest"
+    },
+    {
+      "slug": "abeto-de-douglas",
+      "nome": "Abeto-de-douglas",
+      "referencia": "Douglas fir",
+      "elementos": "very tall conifer with cones with mouse-tail bracts"
+    },
+    {
+      "slug": "pinheiro-torcido",
+      "nome": "Pinheiro-torcido",
+      "referencia": "lodgepole pine",
+      "elementos": "very straight thin trunks, mountain forest"
+    },
+    {
+      "slug": "espinheiro-branco",
+      "nome": "Espinheiro-branco",
+      "referencia": "hawthorn",
+      "elementos": "white blossoms and red haws, hedgerow"
+    },
+    {
+      "slug": "sabugueiro",
+      "nome": "Sabugueiro",
+      "referencia": "elderberry",
+      "elementos": "flat clusters of tiny white flowers and dark berries"
+    },
+    {
+      "slug": "avelaneira",
+      "nome": "Avelaneira",
+      "referencia": "hazel",
+      "elementos": "catkins and hazelnuts in green husks"
+    },
+    {
+      "slug": "castanheiro",
+      "nome": "Castanheiro",
+      "referencia": "sweet chestnut",
+      "elementos": "spiky burrs open showing brown chestnuts, autumn"
+    },
+    {
+      "slug": "freixo",
+      "nome": "Freixo",
+      "referencia": "European ash",
+      "elementos": "winged seed clusters (keys), tall straight trunk"
+    },
+    {
+      "slug": "olmo",
+      "nome": "Olmo",
+      "referencia": "elm tree",
+      "elementos": "vase-shaped crown, country lane"
+    },
+    {
+      "slug": "catalpa",
+      "nome": "Catalpa",
+      "referencia": "catalpa",
+      "elementos": "big heart-shaped leaves, long bean pods, white flowers"
+    },
+    {
+      "slug": "fruta-pao",
+      "nome": "Fruta-pão",
+      "referencia": "breadfruit tree",
+      "elementos": "large lobed leaves, round green breadfruit"
+    },
+    {
+      "slug": "lichieira",
+      "nome": "Lichieira",
+      "referencia": "lychee tree",
+      "elementos": "clusters of red bumpy lychees"
+    },
+    {
+      "slug": "arvore-guarda-chuva",
+      "nome": "Árvore-guarda-chuva",
+      "referencia": "umbrella tree (schefflera)",
+      "elementos": "leaflets arranged like umbrella spokes"
+    },
+    {
+      "slug": "ficus-lira",
+      "nome": "Ficus-lira",
+      "referencia": "fiddle-leaf fig",
+      "elementos": "large violin-shaped leaves"
+    },
+    {
+      "slug": "paulownia",
+      "nome": "Paulównia",
+      "referencia": "empress tree (paulownia)",
+      "elementos": "upright clusters of lavender foxglove-like flowers on bare branches"
+    },
+    {
+      "slug": "albizia",
+      "nome": "Albízia",
+      "referencia": "Persian silk tree (albizia)",
+      "elementos": "pink silky powder-puff flowers on a wide feathery crown"
+    }
+  ]
+}

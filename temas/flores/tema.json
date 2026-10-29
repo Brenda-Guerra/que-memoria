@@ -1,0 +1,611 @@
+{
+  "id": "flores",
+  "nome": "Flores",
+  "tipo": "flower",
+  "cor": "#f7e3e3",
+  "capa": "girassol",
+  "ordem": 140,
+  "composicao": "a single bloom (or a small cluster of the same flower) with its stem and leaves, centered in the upper 80% of the card",
+  "itens": [
+    {
+      "slug": "rosa",
+      "nome": "Rosa",
+      "referencia": "red rose",
+      "elementos": "layered velvety red petals, thorny stem, dew drops"
+    },
+    {
+      "slug": "tulipa",
+      "nome": "Tulipa",
+      "referencia": "tulip",
+      "elementos": "cup-shaped red-and-yellow petals, long smooth leaves"
+    },
+    {
+      "slug": "girassol",
+      "nome": "Girassol",
+      "referencia": "sunflower",
+      "elementos": "large yellow petals around a big brown seed center, facing the sun"
+    },
+    {
+      "slug": "margarida",
+      "nome": "Margarida",
+      "referencia": "daisy",
+      "elementos": "white petals around a yellow center, small meadow"
+    },
+    {
+      "slug": "lirio",
+      "nome": "Lírio",
+      "referencia": "white lily",
+      "elementos": "large trumpet petals with orange stamens"
+    },
+    {
+      "slug": "orquidea",
+      "nome": "Orquídea",
+      "referencia": "phalaenopsis orchid",
+      "elementos": "moth-shaped white-and-pink flowers on an arching stem"
+    },
+    {
+      "slug": "flor-de-lotus",
+      "nome": "Flor de lótus",
+      "referencia": "lotus flower",
+      "elementos": "pink petals rising above round leaves on a pond"
+    },
+    {
+      "slug": "flor-de-cerejeira",
+      "nome": "Flor de cerejeira",
+      "referencia": "cherry blossom",
+      "elementos": "clusters of pale pink five-petal flowers on a dark branch"
+    },
+    {
+      "slug": "lavanda",
+      "nome": "Lavanda",
+      "referencia": "lavender",
+      "elementos": "purple spikes of tiny flowers, sprigs tied together"
+    },
+    {
+      "slug": "hortensia",
+      "nome": "Hortênsia",
+      "referencia": "hydrangea",
+      "elementos": "big round cluster of small blue and pink flowers"
+    },
+    {
+      "slug": "peonia",
+      "nome": "Peônia",
+      "referencia": "peony",
+      "elementos": "huge fluffy ruffled pink bloom"
+    },
+    {
+      "slug": "cravo",
+      "nome": "Cravo",
+      "referencia": "carnation",
+      "elementos": "frilly-edged red petals, slender stem"
+    },
+    {
+      "slug": "crisantemo",
+      "nome": "Crisântemo",
+      "referencia": "chrysanthemum",
+      "elementos": "dense pom-pom of many thin yellow petals"
+    },
+    {
+      "slug": "dalia",
+      "nome": "Dália",
+      "referencia": "dahlia",
+      "elementos": "geometric spiral of pointed magenta petals"
+    },
+    {
+      "slug": "gerbera",
+      "nome": "Gérbera",
+      "referencia": "gerbera daisy",
+      "elementos": "bright orange large daisy with a dark center"
+    },
+    {
+      "slug": "papoula",
+      "nome": "Papoula",
+      "referencia": "red poppy",
+      "elementos": "four papery scarlet petals with a black center, hairy stem"
+    },
+    {
+      "slug": "iris",
+      "nome": "Íris",
+      "referencia": "iris",
+      "elementos": "purple petals with three falls and a yellow beard"
+    },
+    {
+      "slug": "magnolia",
+      "nome": "Magnólia",
+      "referencia": "magnolia",
+      "elementos": "big goblet-shaped white-and-pink petals on a bare branch"
+    },
+    {
+      "slug": "hibisco",
+      "nome": "Hibisco",
+      "referencia": "hibiscus",
+      "elementos": "large red flower with a long central stamen"
+    },
+    {
+      "slug": "jasmim-manga",
+      "nome": "Jasmim-manga",
+      "referencia": "frangipani (plumeria)",
+      "elementos": "five waxy white petals with a yellow center, spiral shape"
+    },
+    {
+      "slug": "camelia",
+      "nome": "Camélia",
+      "referencia": "camellia",
+      "elementos": "perfectly layered pink petals, glossy dark leaves"
+    },
+    {
+      "slug": "gardenia",
+      "nome": "Gardênia",
+      "referencia": "gardenia",
+      "elementos": "creamy white spiraled petals, glossy leaves"
+    },
+    {
+      "slug": "jasmim",
+      "nome": "Jasmim",
+      "referencia": "jasmine",
+      "elementos": "small white star-shaped flowers on a climbing vine"
+    },
+    {
+      "slug": "lilas",
+      "nome": "Lilás",
+      "referencia": "lilac",
+      "elementos": "cone-shaped clusters of tiny light purple flowers"
+    },
+    {
+      "slug": "narciso",
+      "nome": "Narciso",
+      "referencia": "daffodil",
+      "elementos": "yellow trumpet center with a ring of pale petals"
+    },
+    {
+      "slug": "jacinto",
+      "nome": "Jacinto",
+      "referencia": "hyacinth",
+      "elementos": "dense spike of small fragrant blue bell flowers"
+    },
+    {
+      "slug": "acafrao",
+      "nome": "Açafrão",
+      "referencia": "crocus",
+      "elementos": "purple cup flower with orange stigma, peeking through snow"
+    },
+    {
+      "slug": "anemona",
+      "nome": "Anêmona",
+      "referencia": "anemone",
+      "elementos": "red petals around a black center with dark stamens"
+    },
+    {
+      "slug": "ranunculo",
+      "nome": "Ranúnculo",
+      "referencia": "ranunculus",
+      "elementos": "many thin paper-like layers of coral petals"
+    },
+    {
+      "slug": "copo-de-leite",
+      "nome": "Copo-de-leite",
+      "referencia": "calla lily",
+      "elementos": "elegant white trumpet spathe with a yellow spadix"
+    },
+    {
+      "slug": "estrelicia",
+      "nome": "Estrelícia",
+      "referencia": "bird of paradise (strelitzia)",
+      "elementos": "orange and blue flower shaped like a bird's head"
+    },
+    {
+      "slug": "protea",
+      "nome": "Protea",
+      "referencia": "king protea",
+      "elementos": "huge pink crown of pointed bracts around a fuzzy center"
+    },
+    {
+      "slug": "anturio",
+      "nome": "Antúrio",
+      "referencia": "anthurium",
+      "elementos": "glossy red heart-shaped spathe with a yellow spike"
+    },
+    {
+      "slug": "primavera",
+      "nome": "Primavera",
+      "referencia": "bougainvillea",
+      "elementos": "bright magenta papery bracts cascading over a wall"
+    },
+    {
+      "slug": "azaleia",
+      "nome": "Azaleia",
+      "referencia": "azalea",
+      "elementos": "bush covered in pink funnel-shaped flowers"
+    },
+    {
+      "slug": "begonia",
+      "nome": "Begônia",
+      "referencia": "begonia",
+      "elementos": "rounded coral-pink petals, asymmetric leaves with red veins"
+    },
+    {
+      "slug": "violeta",
+      "nome": "Violeta",
+      "referencia": "African violet",
+      "elementos": "small purple velvety flowers over fuzzy round leaves in a pot"
+    },
+    {
+      "slug": "amor-perfeito",
+      "nome": "Amor-perfeito",
+      "referencia": "pansy",
+      "elementos": "purple and yellow petals with a dark face-like center"
+    },
+    {
+      "slug": "petunia",
+      "nome": "Petúnia",
+      "referencia": "petunia",
+      "elementos": "trumpet flowers in purple and white stripes spilling from a pot"
+    },
+    {
+      "slug": "tagetes",
+      "nome": "Tagetes",
+      "referencia": "marigold",
+      "elementos": "ruffled orange pom-pom flowers"
+    },
+    {
+      "slug": "zinia",
+      "nome": "Zínia",
+      "referencia": "zinnia",
+      "elementos": "bright layered flat flower in hot pink with yellow center"
+    },
+    {
+      "slug": "cosmos",
+      "nome": "Cosmos",
+      "referencia": "cosmos",
+      "elementos": "delicate pink petals with notched tips, feathery leaves"
+    },
+    {
+      "slug": "boca-de-leao",
+      "nome": "Boca-de-leão",
+      "referencia": "snapdragon",
+      "elementos": "tall spike of pink dragon-mouth flowers"
+    },
+    {
+      "slug": "dedaleira",
+      "nome": "Dedaleira",
+      "referencia": "foxglove",
+      "elementos": "tall spike of purple bell flowers with spotted throats"
+    },
+    {
+      "slug": "ervilha-de-cheiro",
+      "nome": "Ervilha-de-cheiro",
+      "referencia": "sweet pea",
+      "elementos": "ruffled pastel butterfly-like petals on curling tendrils"
+    },
+    {
+      "slug": "tremoco",
+      "nome": "Tremoço",
+      "referencia": "lupine",
+      "elementos": "tall colorful spikes of pea flowers in purple and pink"
+    },
+    {
+      "slug": "delfinio",
+      "nome": "Delfínio",
+      "referencia": "delphinium",
+      "elementos": "tall spike of vivid blue flowers"
+    },
+    {
+      "slug": "gladiolo",
+      "nome": "Gladíolo",
+      "referencia": "gladiolus",
+      "elementos": "tall sword-like stem with ruffled red flowers opening upward"
+    },
+    {
+      "slug": "fresia",
+      "nome": "Frésia",
+      "referencia": "freesia",
+      "elementos": "arching stem of yellow funnel flowers in a row"
+    },
+    {
+      "slug": "amarilis",
+      "nome": "Amarílis",
+      "referencia": "amaryllis",
+      "elementos": "big red trumpet flowers on a tall hollow stem"
+    },
+    {
+      "slug": "bico-de-papagaio",
+      "nome": "Bico-de-papagaio",
+      "referencia": "poinsettia",
+      "elementos": "red star-shaped leaves around tiny yellow flowers"
+    },
+    {
+      "slug": "edelvais",
+      "nome": "Edelvais",
+      "referencia": "edelweiss",
+      "elementos": "white woolly star-shaped flower on an alpine rock"
+    },
+    {
+      "slug": "lirio-do-vale",
+      "nome": "Lírio-do-vale",
+      "referencia": "lily of the valley",
+      "elementos": "tiny white bells hanging from an arching stem, broad leaves"
+    },
+    {
+      "slug": "nao-me-esquecas",
+      "nome": "Não-me-esqueças",
+      "referencia": "forget-me-not",
+      "elementos": "clusters of tiny sky-blue flowers with yellow eyes"
+    },
+    {
+      "slug": "centaurea",
+      "nome": "Centáurea",
+      "referencia": "cornflower",
+      "elementos": "bright blue fringed flower"
+    },
+    {
+      "slug": "dente-de-leao",
+      "nome": "Dente-de-leão",
+      "referencia": "dandelion",
+      "elementos": "yellow flower beside a white fluffy seed head with seeds flying"
+    },
+    {
+      "slug": "ninfeia",
+      "nome": "Ninfeia",
+      "referencia": "water lily",
+      "elementos": "white floating flower on round lily pads, pond"
+    },
+    {
+      "slug": "gloria-da-manha",
+      "nome": "Glória-da-manhã",
+      "referencia": "morning glory",
+      "elementos": "blue trumpet flowers on a climbing vine"
+    },
+    {
+      "slug": "brinco-de-princesa",
+      "nome": "Brinco-de-princesa",
+      "referencia": "fuchsia",
+      "elementos": "hanging pink-and-purple ballerina-shaped flowers"
+    },
+    {
+      "slug": "glicinia",
+      "nome": "Glicínia",
+      "referencia": "wisteria",
+      "elementos": "long hanging cascades of lilac flowers"
+    },
+    {
+      "slug": "madressilva",
+      "nome": "Madressilva",
+      "referencia": "honeysuckle",
+      "elementos": "tubular cream and yellow flowers on a vine"
+    },
+    {
+      "slug": "clematite",
+      "nome": "Clematite",
+      "referencia": "clematis",
+      "elementos": "large flat purple star-shaped flower on a trellis"
+    },
+    {
+      "slug": "aquilegia",
+      "nome": "Aquilégia",
+      "referencia": "columbine",
+      "elementos": "nodding flower with long backward spurs, purple and white"
+    },
+    {
+      "slug": "coracao-sangrento",
+      "nome": "Coração-sangrento",
+      "referencia": "bleeding heart",
+      "elementos": "row of pink heart-shaped flowers hanging from an arching stem"
+    },
+    {
+      "slug": "rosa-de-natal",
+      "nome": "Rosa-de-natal",
+      "referencia": "hellebore",
+      "elementos": "nodding creamy-white flower in winter snow"
+    },
+    {
+      "slug": "primula",
+      "nome": "Prímula",
+      "referencia": "primrose",
+      "elementos": "small yellow flowers with a darker center, rosette of leaves"
+    },
+    {
+      "slug": "ciclamen",
+      "nome": "Ciclâmen",
+      "referencia": "cyclamen",
+      "elementos": "pink flowers with swept-back petals, heart-shaped marbled leaves"
+    },
+    {
+      "slug": "geranio",
+      "nome": "Gerânio",
+      "referencia": "geranium",
+      "elementos": "round clusters of red flowers in a terracotta pot by a window"
+    },
+    {
+      "slug": "verbena",
+      "nome": "Verbena",
+      "referencia": "verbena",
+      "elementos": "flat clusters of tiny purple flowers"
+    },
+    {
+      "slug": "crista-de-galo",
+      "nome": "Crista-de-galo",
+      "referencia": "celosia",
+      "elementos": "fiery red plume like a flame"
+    },
+    {
+      "slug": "alho-ornamental",
+      "nome": "Alho-ornamental",
+      "referencia": "allium",
+      "elementos": "perfect purple sphere of tiny star flowers on a tall stem"
+    },
+    {
+      "slug": "agapanto",
+      "nome": "Agapanto",
+      "referencia": "agapanthus",
+      "elementos": "round burst of blue trumpet flowers on a tall stem"
+    },
+    {
+      "slug": "equinacea",
+      "nome": "Equinácea",
+      "referencia": "echinacea",
+      "elementos": "pink drooping petals around a spiky orange cone"
+    },
+    {
+      "slug": "rudbequia",
+      "nome": "Rudbéquia",
+      "referencia": "black-eyed Susan",
+      "elementos": "golden petals with a dark brown center"
+    },
+    {
+      "slug": "aster",
+      "nome": "Áster",
+      "referencia": "aster",
+      "elementos": "purple daisy-like flower with a yellow center"
+    },
+    {
+      "slug": "urze",
+      "nome": "Urze",
+      "referencia": "heather",
+      "elementos": "purple carpet of tiny bell flowers on a moor"
+    },
+    {
+      "slug": "cardo",
+      "nome": "Cardo",
+      "referencia": "thistle",
+      "elementos": "spiky purple flower head on a prickly stem"
+    },
+    {
+      "slug": "rafflesia",
+      "nome": "Rafflesia",
+      "referencia": "rafflesia",
+      "elementos": "enormous red flower with white spots on the forest floor"
+    },
+    {
+      "slug": "flor-cadaver",
+      "nome": "Flor-cadáver",
+      "referencia": "titan arum",
+      "elementos": "gigantic dark red frilly spathe with a tall yellow spike"
+    },
+    {
+      "slug": "bastao-do-imperador",
+      "nome": "Bastão-do-imperador",
+      "referencia": "torch ginger",
+      "elementos": "red waxy cone of petals like a torch"
+    },
+    {
+      "slug": "rosa-do-deserto",
+      "nome": "Rosa-do-deserto",
+      "referencia": "desert rose (adenium)",
+      "elementos": "pink-and-white flowers on a swollen bonsai-like trunk"
+    },
+    {
+      "slug": "ixora",
+      "nome": "Ixora",
+      "referencia": "ixora",
+      "elementos": "dense round cluster of small red star flowers"
+    },
+    {
+      "slug": "lantana",
+      "nome": "Lantana",
+      "referencia": "lantana",
+      "elementos": "small clusters of orange, yellow and pink flowers together"
+    },
+    {
+      "slug": "calanchoe",
+      "nome": "Calanchoê",
+      "referencia": "kalanchoe",
+      "elementos": "clusters of tiny orange flowers over thick succulent leaves"
+    },
+    {
+      "slug": "onze-horas",
+      "nome": "Onze-horas",
+      "referencia": "portulaca",
+      "elementos": "bright magenta silky flowers on succulent stems"
+    },
+    {
+      "slug": "beijo-pintado",
+      "nome": "Beijo-pintado",
+      "referencia": "impatiens",
+      "elementos": "flat pink flowers covering a small plant in the shade"
+    },
+    {
+      "slug": "lirio-tigre",
+      "nome": "Lírio-tigre",
+      "referencia": "tiger lily",
+      "elementos": "orange recurved petals with dark spots"
+    },
+    {
+      "slug": "orquidea-sapatinho",
+      "nome": "Orquídea-sapatinho",
+      "referencia": "lady's slipper orchid",
+      "elementos": "pouch-shaped lip like a little shoe, striped petals"
+    },
+    {
+      "slug": "mimosa",
+      "nome": "Mimosa",
+      "referencia": "mimosa (acacia dealbata)",
+      "elementos": "fluffy yellow pom-pom flowers on silvery branches"
+    },
+    {
+      "slug": "camomila",
+      "nome": "Camomila",
+      "referencia": "chamomile",
+      "elementos": "tiny white daisies with domed yellow centers, teacup"
+    },
+    {
+      "slug": "calendula",
+      "nome": "Calêndula",
+      "referencia": "calendula",
+      "elementos": "bright orange daisy-like flower with layered petals"
+    },
+    {
+      "slug": "vinca",
+      "nome": "Vinca",
+      "referencia": "periwinkle",
+      "elementos": "five flat pink petals with a darker eye"
+    },
+    {
+      "slug": "gazania",
+      "nome": "Gazânia",
+      "referencia": "gazania",
+      "elementos": "striped orange and yellow petals with dark eye spots"
+    },
+    {
+      "slug": "ave-do-paraiso-branca",
+      "nome": "Ave-do-paraíso-branca",
+      "referencia": "white bird of paradise",
+      "elementos": "white and blue-purple bird-shaped flower among big banana-like leaves"
+    },
+    {
+      "slug": "sapatinho-de-judia",
+      "nome": "Sapatinho-de-judia",
+      "referencia": "thunbergia",
+      "elementos": "hanging racemes of yellow-and-red flowers"
+    },
+    {
+      "slug": "flor-de-lis",
+      "nome": "Flor-de-lis",
+      "referencia": "fleur-de-lis iris (yellow flag iris)",
+      "elementos": "yellow iris by a stream"
+    },
+    {
+      "slug": "malva",
+      "nome": "Malva",
+      "referencia": "hollyhock",
+      "elementos": "tall spike of large pink saucer flowers by a cottage wall"
+    },
+    {
+      "slug": "cravina",
+      "nome": "Cravina",
+      "referencia": "dianthus pinks",
+      "elementos": "small fringed pink-and-white flowers with a dark eye"
+    },
+    {
+      "slug": "estrela-do-egito",
+      "nome": "Estrela-do-egito",
+      "referencia": "pentas",
+      "elementos": "clusters of small pink five-pointed star flowers with butterflies"
+    },
+    {
+      "slug": "clivia",
+      "nome": "Clívia",
+      "referencia": "clivia",
+      "elementos": "cluster of orange trumpet flowers on a thick stem, strap-like dark leaves"
+    }
+  ]
+}

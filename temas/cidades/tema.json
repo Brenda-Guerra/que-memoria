@@ -1,0 +1,611 @@
+{
+  "id": "cidades",
+  "nome": "Cidades",
+  "tipo": "city in the world",
+  "cor": "#e4ebf0",
+  "capa": "paris",
+  "ordem": 100,
+  "composicao": "one iconic, centered scene with the city's main landmark large and clear, and one or two smaller secondary landmarks or symbols in the background, in the upper 80% of the card",
+  "itens": [
+    {
+      "slug": "rio-de-janeiro",
+      "nome": "Rio de Janeiro",
+      "referencia": "Rio de Janeiro, Brazil",
+      "elementos": "Sugarloaf Mountain, a tall rounded granite dome rising from the blue water of Guanabara Bay, with a thin cable line and a small cable car gondola running to its top; in the background: the curved black-and-white wave-pattern sidewalk of Copacabana beach with a few palm trees; one single green peak behind, with one single tiny pale statue with open arms on its top"
+    },
+    {
+      "slug": "sao-paulo",
+      "nome": "São Paulo",
+      "referencia": "São Paulo, Brazil",
+      "elementos": "the MASP museum: a long, low, horizontal dark glass box, about four times wider than tall, held high above the ground by two giant red concrete frames, one at each end; each red frame is rectangular with sharp square corners, two straight vertical red pillars joined at the top by a straight thick horizontal red beam; the glass box hangs between the two frames, just below their red top beams, with an empty open plaza underneath; in the background: a dense skyline of towers including the Altino Arantes (Banespa) tower with its spire; yellow and pink ipê trees in bloom"
+    },
+    {
+      "slug": "salvador",
+      "nome": "Salvador",
+      "referencia": "Salvador, Bahia, Brazil",
+      "elementos": "the Pelourinho historic square: a steep cobblestone street lined with two-story colonial houses painted in bright blue, yellow, pink and green, with a blue baroque church with two white bell towers at the top of the slope; in the background: a berimbau musical bow leaning against a wall in the foreground; a glimpse of the blue bay behind"
+    },
+    {
+      "slug": "brasilia",
+      "nome": "Brasília",
+      "referencia": "Brasília, Brazil",
+      "elementos": "the National Congress: two slim twin towers between a downturned dome and an upturned bowl, with a reflecting pool; in the background: the crown-shaped Cathedral of Brasília with white curved columns; red earth under a wide open sky"
+    },
+    {
+      "slug": "curitiba",
+      "nome": "Curitiba",
+      "referencia": "Curitiba, Brazil",
+      "elementos": "the Botanical Garden greenhouse: a white iron-and-glass greenhouse with a central dome and two lower side wings, with a geometric French flower garden in front; in the background: two or three araucaria pine trees with their candelabra-shaped crowns"
+    },
+    {
+      "slug": "manaus",
+      "nome": "Manaus",
+      "referencia": "Manaus, Brazil",
+      "elementos": "the Amazon Theatre: a pink neoclassical facade crowned by a dome of green, yellow and blue tiles; in the background: the Meeting of the Waters, a dark river and a sandy river flowing side by side; the edge of the rainforest"
+    },
+    {
+      "slug": "recife",
+      "nome": "Recife",
+      "referencia": "Recife, Brazil",
+      "elementos": "the colorful two-story colonial facades of Rua do Bom Jesus in old Recife; in the background: one small full-body frevo dancer holding up a tiny frevo umbrella with yellow, red, green and blue segments; one low bridge over the Capibaribe river behind"
+    },
+    {
+      "slug": "florianopolis",
+      "nome": "Florianópolis",
+      "referencia": "Florianópolis, Brazil",
+      "elementos": "the Hercílio Luz bridge: a long white-gray steel suspension bridge with two tall slender steel towers; between the towers, instead of thin cables, a thick rigid steel lattice truss curves down from each tower top and meets the road deck at the center, forming a long lens shape; in the background: calm blue bay water; low, gently rounded green hills of the island"
+    },
+    {
+      "slug": "porto-alegre",
+      "nome": "Porto Alegre",
+      "referencia": "Porto Alegre, Brazil",
+      "elementos": "the Usina do Gasômetro: a red-brick power-plant building with one very tall brick chimney on the shore of Guaíba lake; in the background: a chimarrão gourd with a metal straw in the foreground; a purple-flowering jacarandá tree"
+    },
+    {
+      "slug": "foz-do-iguacu",
+      "nome": "Foz do Iguaçu",
+      "referencia": "Foz do Iguaçu, Brazil",
+      "elementos": "the Devil's Throat of Iguaçu Falls seen from above: a wide U-shaped, horseshoe-shaped chasm where dozens of separate waterfalls pour side by side all around its rim, with thick white mist rising and a soft rainbow; in the background: lush green jungle along the rim; a thin wooden walkway over the water"
+    },
+    {
+      "slug": "ouro-preto",
+      "nome": "Ouro Preto",
+      "referencia": "Ouro Preto, Brazil",
+      "elementos": "a white baroque church with two round bell towers on top of a hill; in the background: a steep cobblestone street of white colonial houses with blue and yellow window frames; misty green mountains"
+    },
+    {
+      "slug": "fortaleza",
+      "nome": "Fortaleza",
+      "referencia": "Fortaleza, Brazil",
+      "elementos": "a jangada fishing raft: a completely flat rectangular wooden platform of logs tied side by side, like a floating wooden deck with no hull and no raised sides, sitting flat on the green-turquoise sea, with one tall white triangular sail on a single mast; in the background: a few coconut palms and soft white sand dunes on the shore"
+    },
+    {
+      "slug": "belem",
+      "nome": "Belém",
+      "referencia": "Belém, Brazil",
+      "elementos": "the Ver-o-Peso market: a blue-gray iron building with four small pointed corner turrets on the riverbank; in the background: colorful wooden river boats; a woven basket of dark purple açaí berries"
+    },
+    {
+      "slug": "belo-horizonte",
+      "nome": "Belo Horizonte",
+      "referencia": "Belo Horizonte, Brazil",
+      "elementos": "the Pampulha church: a row of wavy white modernist concrete vaults with a blue-and-white tile panel; in the background: the calm Pampulha lagoon; the Serra do Curral mountains on the horizon"
+    },
+    {
+      "slug": "gramado",
+      "nome": "Gramado",
+      "referencia": "Gramado, Brazil",
+      "elementos": "a half-timbered Bavarian-style house with a steep dark roof; in the background: clusters of blue hydrangeas; tall dark-green pine trees"
+    },
+    {
+      "slug": "paraty",
+      "nome": "Paraty",
+      "referencia": "Paraty, Brazil",
+      "elementos": "white colonial houses with brightly colored doors and window frames along an irregular stone street; in the background: small colorful wooden fishing boats; green mountains over the bay"
+    },
+    {
+      "slug": "natal",
+      "nome": "Natal",
+      "referencia": "Natal, Brazil",
+      "elementos": "high golden sand dunes with one small beach buggy driving over them; in the background: the star-shaped stone Forte dos Reis Magos at the edge of the sea"
+    },
+    {
+      "slug": "nova-york",
+      "nome": "Nova York",
+      "referencia": "New York City, USA",
+      "elementos": "the green copper Statue of Liberty holding up her torch; in the background: the Manhattan skyline with the Empire State Building; the Brooklyn Bridge"
+    },
+    {
+      "slug": "sao-francisco",
+      "nome": "São Francisco",
+      "referencia": "San Francisco, USA",
+      "elementos": "the red-orange Golden Gate Bridge with light morning fog; in the background: one small cable car climbing a steep street; Victorian pastel houses"
+    },
+    {
+      "slug": "los-angeles",
+      "nome": "Los Angeles",
+      "referencia": "Los Angeles, USA",
+      "elementos": "the white Griffith Observatory with its three domes on a dry golden hill; in the background: a row of very tall slender palm trees; the Santa Monica pier Ferris wheel in the distance"
+    },
+    {
+      "slug": "las-vegas",
+      "nome": "Las Vegas",
+      "referencia": "Las Vegas, USA",
+      "elementos": "the Las Vegas Strip in daylight: a row of tall curved glittering resort hotel towers in the desert, their facades and rooftops completely blank and plain, with a long lake of tall dancing water fountains in front; in the background: the slender Strat tower with a round observation pod on top; bare reddish desert mountains on the horizon"
+    },
+    {
+      "slug": "chicago",
+      "nome": "Chicago",
+      "referencia": "Chicago, USA",
+      "elementos": "the Cloud Gate sculpture: a giant, smooth, seamless, mirror-polished silver sculpture shaped like a kidney bean lying flat and horizontal directly on the plaza floor, much wider than tall, like a huge drop of mercury, with a low arched opening underneath, reflecting the sky and the skyline; in the background: the black Willis Tower, a boxy skyscraper made of stacked rectangular blocks of different heights with two white antennas on top; the blue water of Lake Michigan"
+    },
+    {
+      "slug": "washington",
+      "nome": "Washington",
+      "referencia": "Washington D.C., USA",
+      "elementos": "the white dome of the United States Capitol; in the background: the tall white Washington Monument obelisk; pink cherry blossom trees"
+    },
+    {
+      "slug": "miami",
+      "nome": "Miami",
+      "referencia": "Miami, USA",
+      "elementos": "pastel art deco hotels on Ocean Drive with rounded corners and horizontal stripes; in the background: a colorful wooden lifeguard tower on the white beach; a few palm trees"
+    },
+    {
+      "slug": "nova-orleans",
+      "nome": "Nova Orleans",
+      "referencia": "New Orleans, USA",
+      "elementos": "a French Quarter townhouse with ornate wrought-iron lace balconies and hanging ferns; in the background: one green vintage streetcar; a small brass jazz trumpet"
+    },
+    {
+      "slug": "toronto",
+      "nome": "Toronto",
+      "referencia": "Toronto, Canada",
+      "elementos": "the slender CN Tower rising above the skyline on Lake Ontario; in the background: a few red maple leaves floating in the foreground"
+    },
+    {
+      "slug": "quebec",
+      "nome": "Québec",
+      "referencia": "Quebec City, Canada",
+      "elementos": "the Château Frontenac castle hotel with green copper roofs above the St. Lawrence river; in the background: an old stone street with a light dusting of snow"
+    },
+    {
+      "slug": "cidade-do-mexico",
+      "nome": "Cidade do México",
+      "referencia": "Mexico City, Mexico",
+      "elementos": "the Palacio de Bellas Artes: white marble palace with an orange and gold dome; in the background: one colorful trajinera boat of Xochimilco; strings of plain colorful papel picado banners"
+    },
+    {
+      "slug": "havana",
+      "nome": "Havana",
+      "referencia": "Havana, Cuba",
+      "elementos": "a pastel 1950s classic convertible car driving along the Malecón seawall; in the background: colorful crumbling colonial facades; the Capitolio dome in the distance"
+    },
+    {
+      "slug": "buenos-aires",
+      "nome": "Buenos Aires",
+      "referencia": "Buenos Aires, Argentina",
+      "elementos": "the white Obelisco in the middle of a very wide avenue; in the background: the colorful corrugated-tin houses of Caminito in La Boca; one small full-body tango couple"
+    },
+    {
+      "slug": "santiago",
+      "nome": "Santiago",
+      "referencia": "Santiago, Chile",
+      "elementos": "the snowy peaks of the Andes rising behind the city skyline with the tall Gran Torre Santiago; in the background: the white Virgin Mary statue on top of San Cristóbal hill"
+    },
+    {
+      "slug": "lima",
+      "nome": "Lima",
+      "referencia": "Lima, Peru",
+      "elementos": "the yellow colonial buildings of the Plaza de Armas with carved dark wooden balconies and the cathedral; in the background: the cliffs of Miraflores over the Pacific with one small paraglider"
+    },
+    {
+      "slug": "cusco",
+      "nome": "Cusco",
+      "referencia": "Cusco, Peru",
+      "elementos": "a wall of perfectly fitted large Inca stones in a narrow street; in the background: the colonial cathedral of the Plaza de Armas; one llama with a colorful woven blanket"
+    },
+    {
+      "slug": "cartagena",
+      "nome": "Cartagena",
+      "referencia": "Cartagena, Colombia",
+      "elementos": "colorful colonial houses with wooden balconies covered in pink bougainvillea; in the background: the thick old stone city walls; one small full-body palenquera fruit seller with a bowl of fruit on her head"
+    },
+    {
+      "slug": "montevideu",
+      "nome": "Montevidéu",
+      "referencia": "Montevideo, Uruguay",
+      "elementos": "the tall ornate Palacio Salvo tower; in the background: the long seaside rambla promenade by the wide river; a mate gourd with a metal straw"
+    },
+    {
+      "slug": "paris",
+      "nome": "Paris",
+      "referencia": "Paris, France",
+      "elementos": "the Eiffel Tower; in the background: the Seine river with an old stone bridge; a small café table with two bistro chairs"
+    },
+    {
+      "slug": "londres",
+      "nome": "Londres",
+      "referencia": "London, United Kingdom",
+      "elementos": "the Big Ben clock tower and the Houses of Parliament; in the background: a red double-decker bus; a red telephone box"
+    },
+    {
+      "slug": "roma",
+      "nome": "Roma",
+      "referencia": "Rome, Italy",
+      "elementos": "the Colosseum; in the background: umbrella pine trees; a small pastel Vespa scooter"
+    },
+    {
+      "slug": "veneza",
+      "nome": "Veneza",
+      "referencia": "Venice, Italy",
+      "elementos": "the white stone Rialto Bridge over the Grand Canal; in the background: two black gondolas with a gondolier in a striped shirt"
+    },
+    {
+      "slug": "florenca",
+      "nome": "Florença",
+      "referencia": "Florence, Italy",
+      "elementos": "the terracotta brick dome of the Florence Cathedral with Giotto's bell tower; in the background: the Ponte Vecchio over the Arno; tall Tuscan cypress trees"
+    },
+    {
+      "slug": "pisa",
+      "nome": "Pisa",
+      "referencia": "Pisa, Italy",
+      "elementos": "the white marble Leaning Tower of Pisa, clearly leaning; in the background: the white marble cathedral beside it; a bright green lawn"
+    },
+    {
+      "slug": "barcelona",
+      "nome": "Barcelona",
+      "referencia": "Barcelona, Spain",
+      "elementos": "the tall spires of the Sagrada Família basilica; in the background: the colorful mosaic lizard of Park Güell in the foreground"
+    },
+    {
+      "slug": "madri",
+      "nome": "Madri",
+      "referencia": "Madrid, Spain",
+      "elementos": "the Cibeles fountain: a goddess on a chariot pulled by two lions; in the background: the Puerta de Alcalá triumphal gate in the background"
+    },
+    {
+      "slug": "sevilha",
+      "nome": "Sevilha",
+      "referencia": "Seville, Spain",
+      "elementos": "the Plaza de España: a curved brick palace with two towers, a canal and tiled bridges; in the background: one small full-body flamenco dancer in a red dress; an orange tree"
+    },
+    {
+      "slug": "lisboa",
+      "nome": "Lisboa",
+      "referencia": "Lisbon, Portugal",
+      "elementos": "a yellow vintage tram climbing a steep narrow street; in the background: a facade of blue-and-white azulejo tiles; the Belém Tower small in the distance"
+    },
+    {
+      "slug": "porto",
+      "nome": "Porto",
+      "referencia": "Porto, Portugal",
+      "elementos": "the Dom Luís I iron arch bridge over the Douro river; in the background: the colorful stacked houses of Ribeira; two wooden rabelo boats"
+    },
+    {
+      "slug": "amsterda",
+      "nome": "Amsterdã",
+      "referencia": "Amsterdam, Netherlands",
+      "elementos": "narrow tall canal houses with stepped and bell-shaped gables along a canal; in the background: bicycles leaning on a small arched bridge; red and yellow tulips"
+    },
+    {
+      "slug": "berlim",
+      "nome": "Berlim",
+      "referencia": "Berlin, Germany",
+      "elementos": "the Brandenburg Gate with the quadriga on top; in the background: the Berlin TV tower with its round sphere in the background"
+    },
+    {
+      "slug": "munique",
+      "nome": "Munique",
+      "referencia": "Munich, Germany",
+      "elementos": "the two brick towers of the Frauenkirche with green onion-shaped domes; in the background: a giant pretzel in the foreground"
+    },
+    {
+      "slug": "viena",
+      "nome": "Viena",
+      "referencia": "Vienna, Austria",
+      "elementos": "St. Stephen's Cathedral with its tall gothic spire and colorful zigzag tiled roof; in the background: the Prater giant Ferris wheel in the distance"
+    },
+    {
+      "slug": "praga",
+      "nome": "Praga",
+      "referencia": "Prague, Czech Republic",
+      "elementos": "the Charles Bridge with its stone statues and gothic tower over the Vltava river; in the background: Prague Castle on the hill behind"
+    },
+    {
+      "slug": "budapeste",
+      "nome": "Budapeste",
+      "referencia": "Budapest, Hungary",
+      "elementos": "the Hungarian Parliament building with its red dome on the bank of the Danube; in the background: the Chain Bridge"
+    },
+    {
+      "slug": "bruxelas",
+      "nome": "Bruxelas",
+      "referencia": "Brussels, Belgium",
+      "elementos": "the Atomium: nine large silver spheres connected by tubes; in the background: a gilded guild-house facade of the Grand Place; a Belgian waffle"
+    },
+    {
+      "slug": "zurique",
+      "nome": "Zurique",
+      "referencia": "Zurich, Switzerland",
+      "elementos": "the Grossmünster church with its two towers on the bank of the river; in the background: snowy Alps on the horizon over the lake"
+    },
+    {
+      "slug": "copenhague",
+      "nome": "Copenhague",
+      "referencia": "Copenhagen, Denmark",
+      "elementos": "the colorful gabled houses of Nyhavn along the canal; in the background: old wooden sailing boats moored in the canal"
+    },
+    {
+      "slug": "estocolmo",
+      "nome": "Estocolmo",
+      "referencia": "Stockholm, Sweden",
+      "elementos": "Stockholm City Hall: a long red-brick building on the waterfront with one tall square red-brick tower topped by a green-gold spire with three small golden crowns; in the background: the blue water of the lake with small white boats; the tall colorful houses of Gamla Stan across the water"
+    },
+    {
+      "slug": "oslo",
+      "nome": "Oslo",
+      "referencia": "Oslo, Norway",
+      "elementos": "the Holmenkollen ski jump: a giant, long, curved white steel ski-jump ramp rising high above a forested hill, its inrun sloping steeply down to a wide landing slope; in the background: the blue Oslofjord far below with small islands; a small Viking longship with a dragon head on the water"
+    },
+    {
+      "slug": "dublin",
+      "nome": "Dublin",
+      "referencia": "Dublin, Ireland",
+      "elementos": "the white cast-iron Ha'penny Bridge over the Liffey river; in the background: a row of colorful Georgian doors; a green shamrock"
+    },
+    {
+      "slug": "edimburgo",
+      "nome": "Edimburgo",
+      "referencia": "Edinburgh, Scotland",
+      "elementos": "Edinburgh Castle on top of a dark volcanic rock; in the background: one small full-body bagpiper in a tartan kilt; a purple thistle"
+    },
+    {
+      "slug": "atenas",
+      "nome": "Atenas",
+      "referencia": "Athens, Greece",
+      "elementos": "the Parthenon on top of the Acropolis hill; in the background: an olive branch in the foreground"
+    },
+    {
+      "slug": "santorini",
+      "nome": "Santorini",
+      "referencia": "Santorini, Greece",
+      "elementos": "white cubic houses with blue domes on the cliff above the Aegean Sea; in the background: pink bougainvillea"
+    },
+    {
+      "slug": "istambul",
+      "nome": "Istambul",
+      "referencia": "Istanbul, Turkey",
+      "elementos": "the Blue Mosque with its domes and slender minarets; in the background: a ferry on the Bosphorus; colorful mosaic lamps"
+    },
+    {
+      "slug": "moscou",
+      "nome": "Moscou",
+      "referencia": "Moscow, Russia",
+      "elementos": "St. Basil's Cathedral with its colorful striped onion domes; in the background: the red Kremlin wall with a tower"
+    },
+    {
+      "slug": "dubrovnik",
+      "nome": "Dubrovnik",
+      "referencia": "Dubrovnik, Croatia",
+      "elementos": "the walled old town with orange roofs on the blue Adriatic; in the background: stone fortress walls; a few small sailboats"
+    },
+    {
+      "slug": "reykjavik",
+      "nome": "Reykjavík",
+      "referencia": "Reykjavík, Iceland",
+      "elementos": "the Hallgrímskirkja church with its stepped concrete tower; in the background: small colorful houses with tin roofs; a snowy mountain across the bay"
+    },
+    {
+      "slug": "nice",
+      "nome": "Nice",
+      "referencia": "Nice, France",
+      "elementos": "the Promenade des Anglais with a row of blue chairs facing the turquoise Bay of Angels; in the background: palm trees; a pebble beach"
+    },
+    {
+      "slug": "monaco",
+      "nome": "Mônaco",
+      "referencia": "Monaco",
+      "elementos": "white yachts in the harbor below the cliffside Prince's Palace; in the background: the belle époque Monte Carlo casino building; the Mediterranean"
+    },
+    {
+      "slug": "cairo",
+      "nome": "Cairo",
+      "referencia": "Cairo, Egypt",
+      "elementos": "the pyramids of Giza and the Sphinx; in the background: one camel; a white-sailed felucca on the Nile"
+    },
+    {
+      "slug": "marrakech",
+      "nome": "Marrakech",
+      "referencia": "Marrakech, Morocco",
+      "elementos": "the tall Koutoubia minaret; in the background: hanging pierced metal lanterns; a terracotta tagine pot; a touch of Majorelle blue"
+    },
+    {
+      "slug": "cidade-do-cabo",
+      "nome": "Cidade do Cabo",
+      "referencia": "Cape Town, South Africa",
+      "elementos": "the flat-topped Table Mountain above the city and the sea; in the background: the bright colorful houses of Bo-Kaap; two small African penguins"
+    },
+    {
+      "slug": "nairobi",
+      "nome": "Nairóbi",
+      "referencia": "Nairobi, Kenya",
+      "elementos": "a tall giraffe in the golden savanna with the city skyline far behind; in the background: flat-topped acacia trees"
+    },
+    {
+      "slug": "zanzibar",
+      "nome": "Zanzibar",
+      "referencia": "Zanzibar, Tanzania",
+      "elementos": "a wooden dhow sailboat with a triangular sail on turquoise water; in the background: an ornately carved wooden door of Stone Town"
+    },
+    {
+      "slug": "jerusalem",
+      "nome": "Jerusalém",
+      "referencia": "Jerusalem",
+      "elementos": "the Dome of the Rock: an octagonal building with walls covered in blue and turquoise tiles under a large shining golden dome topped by a small simple golden finial; in the background: the ancient pale stone walls of the Old City; olive trees"
+    },
+    {
+      "slug": "dubai",
+      "nome": "Dubai",
+      "referencia": "Dubai, United Arab Emirates",
+      "elementos": "the very tall needle-shaped Burj Khalifa; in the background: the sail-shaped Burj Al Arab; soft desert dunes"
+    },
+    {
+      "slug": "toquio",
+      "nome": "Tóquio",
+      "referencia": "Tokyo, Japan",
+      "elementos": "the red-and-white Tokyo Tower; in the background: Mount Fuji with snow in the distance; pink cherry blossoms"
+    },
+    {
+      "slug": "quioto",
+      "nome": "Quioto",
+      "referencia": "Kyoto, Japan",
+      "elementos": "the golden pavilion Kinkaku-ji reflected on its pond; in the background: a short row of red torii gates; red maple leaves"
+    },
+    {
+      "slug": "osaka",
+      "nome": "Osaka",
+      "referencia": "Osaka, Japan",
+      "elementos": "Osaka Castle: white walls, green roofs and gold details on a high stone base; in the background: the moat and pink cherry trees"
+    },
+    {
+      "slug": "nara",
+      "nome": "Nara",
+      "referencia": "Nara, Japan",
+      "elementos": "a friendly spotted sika deer bowing; in the background: the giant wooden Todai-ji temple hall behind; a stone lantern"
+    },
+    {
+      "slug": "seul",
+      "nome": "Seul",
+      "referencia": "Seoul, South Korea",
+      "elementos": "a gate of Gyeongbokgung palace with colorful painted eaves; in the background: N Seoul Tower on the green mountain behind"
+    },
+    {
+      "slug": "pequim",
+      "nome": "Pequim",
+      "referencia": "Beijing, China",
+      "elementos": "the Temple of Heaven: a perfectly round, circular wooden temple hall with three stacked circular conical roofs of dark blue glazed tiles, getting smaller toward the top, crowned by a small golden ball, standing on a round three-level white marble terrace; in the background: the Great Wall winding over green hills in the distance"
+    },
+    {
+      "slug": "xangai",
+      "nome": "Xangai",
+      "referencia": "Shanghai, China",
+      "elementos": "the Oriental Pearl Tower with its pink spheres; in the background: the Huangpu river with boats; the colonial buildings of the Bund"
+    },
+    {
+      "slug": "hong-kong",
+      "nome": "Hong Kong",
+      "referencia": "Hong Kong",
+      "elementos": "a traditional junk boat with red sails in Victoria Harbour; in the background: the dense skyline under green hills"
+    },
+    {
+      "slug": "taipe",
+      "nome": "Taipé",
+      "referencia": "Taipei, Taiwan",
+      "elementos": "the Taipei 101 skyscraper: a very tall green-glass tower made of eight identical stacked segments, each segment slightly flaring outward toward its top like sections of bamboo, with a thin spire on top; in the background: a few plain red paper lanterns; green mountains behind the city"
+    },
+    {
+      "slug": "bangkok",
+      "nome": "Bangkok",
+      "referencia": "Bangkok, Thailand",
+      "elementos": "the tall spires of Wat Arun temple on the river; in the background: a floating market boat full of tropical fruit"
+    },
+    {
+      "slug": "singapura",
+      "nome": "Singapura",
+      "referencia": "Singapore",
+      "elementos": "Marina Bay Sands: three towers joined by a ship-shaped rooftop; in the background: the white Merlion fountain; the Supertree Grove"
+    },
+    {
+      "slug": "kuala-lumpur",
+      "nome": "Kuala Lumpur",
+      "referencia": "Kuala Lumpur, Malaysia",
+      "elementos": "the silver Petronas Twin Towers joined by a skybridge; in the background: tropical palm trees"
+    },
+    {
+      "slug": "hanoi",
+      "nome": "Hanói",
+      "referencia": "Hanoi, Vietnam",
+      "elementos": "the small Turtle Tower on Hoan Kiem lake; in the background: a conical leaf hat; colorful silk lanterns"
+    },
+    {
+      "slug": "bali",
+      "nome": "Bali",
+      "referencia": "Bali, Indonesia",
+      "elementos": "bright green rice terraces; in the background: a split stone temple gate; white frangipani flowers"
+    },
+    {
+      "slug": "siem-reap",
+      "nome": "Siem Reap",
+      "referencia": "Siem Reap, Cambodia",
+      "elementos": "the towers of Angkor Wat reflected in a pond; in the background: pink lotus flowers"
+    },
+    {
+      "slug": "xi-an",
+      "nome": "Xi'an",
+      "referencia": "Xi'an, China",
+      "elementos": "rows of terracotta warrior statues; in the background: the ancient city wall with a bell tower behind"
+    },
+    {
+      "slug": "mumbai",
+      "nome": "Mumbai",
+      "referencia": "Mumbai, India",
+      "elementos": "the Gateway of India stone arch by the sea; in the background: a black-and-yellow taxi"
+    },
+    {
+      "slug": "agra",
+      "nome": "Agra",
+      "referencia": "Agra, India",
+      "elementos": "the white marble Taj Mahal with its long reflecting pool; in the background: rows of cypress trees"
+    },
+    {
+      "slug": "jaipur",
+      "nome": "Jaipur",
+      "referencia": "Jaipur, India",
+      "elementos": "the pink honeycomb facade of the Hawa Mahal palace; in the background: a decorated elephant"
+    },
+    {
+      "slug": "varanasi",
+      "nome": "Varanasi",
+      "referencia": "Varanasi, India",
+      "elementos": "stone ghat steps descending into the Ganges river in soft morning light; in the background: wooden boats; small floating marigold candle lamps"
+    },
+    {
+      "slug": "katmandu",
+      "nome": "Katmandu",
+      "referencia": "Kathmandu, Nepal",
+      "elementos": "the white Boudhanath stupa with painted eyes on its golden tower; in the background: strings of plain colorful prayer flags; Himalayan peaks"
+    },
+    {
+      "slug": "sydney",
+      "nome": "Sydney",
+      "referencia": "Sydney, Australia",
+      "elementos": "the white sail-shaped shells of the Sydney Opera House; in the background: the Sydney Harbour Bridge arch; small sailboats"
+    },
+    {
+      "slug": "melbourne",
+      "nome": "Melbourne",
+      "referencia": "Melbourne, Australia",
+      "elementos": "the yellow facade of Flinders Street Station with its green copper dome; in the background: a green tram"
+    },
+    {
+      "slug": "auckland",
+      "nome": "Auckland",
+      "referencia": "Auckland, New Zealand",
+      "elementos": "the Sky Tower above the harbor full of sailboats; in the background: green volcanic hills; a silver fern frond"
+    },
+    {
+      "slug": "queenstown",
+      "nome": "Queenstown",
+      "referencia": "Queenstown, New Zealand",
+      "elementos": "deep blue Lake Wakatipu under jagged snowy mountains; in the background: a vintage steamship with a red funnel"
+    },
+    {
+      "slug": "honolulu",
+      "nome": "Honolulu",
+      "referencia": "Honolulu, Hawaii, USA",
+      "elementos": "the Diamond Head crater above Waikiki beach; in the background: colorful surfboards; red hibiscus flowers; palm trees"
+    }
+  ]
+}

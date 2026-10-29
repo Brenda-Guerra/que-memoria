@@ -1,0 +1,611 @@
+{
+  "id": "fauna-e-flora-brasileira",
+  "nome": "Fauna e flora brasileira",
+  "tipo": "Brazilian native species",
+  "cor": "#dfeccf",
+  "capa": "onca-pintada",
+  "ordem": 180,
+  "composicao": "one animal or plant shown full in its natural Brazilian habitat (Amazon, Pantanal, Cerrado, Caatinga, Atlantic Forest or Pampa), centered in the upper 80% of the card",
+  "itens": [
+    {
+      "slug": "onca-pintada",
+      "nome": "Onça-pintada",
+      "referencia": "jaguar",
+      "elementos": "golden coat with black rosettes, by a Pantanal river"
+    },
+    {
+      "slug": "arara-azul",
+      "nome": "Arara-azul",
+      "referencia": "hyacinth macaw",
+      "elementos": "cobalt blue feathers, yellow eye ring and chin, on a palm"
+    },
+    {
+      "slug": "arara-vermelha",
+      "nome": "Arara-vermelha",
+      "referencia": "scarlet macaw",
+      "elementos": "red, yellow and blue wings flying over the forest"
+    },
+    {
+      "slug": "tucano-toco",
+      "nome": "Tucano-toco",
+      "referencia": "toco toucan",
+      "elementos": "huge orange bill with black tip, black body, white throat"
+    },
+    {
+      "slug": "capivara",
+      "nome": "Capivara",
+      "referencia": "capybara",
+      "elementos": "large rodent, brown fur, resting by a lake with a bird on its back"
+    },
+    {
+      "slug": "tamandua-bandeira",
+      "nome": "Tamanduá-bandeira",
+      "referencia": "giant anteater",
+      "elementos": "long tubular snout, bushy tail like a flag, black-and-white stripe"
+    },
+    {
+      "slug": "bicho-preguica",
+      "nome": "Bicho-preguiça",
+      "referencia": "three-toed sloth",
+      "elementos": "hanging from a branch, smiling face, long claws, Cecropia tree"
+    },
+    {
+      "slug": "boto-cor-de-rosa",
+      "nome": "Boto-cor-de-rosa",
+      "referencia": "Amazon river dolphin (boto)",
+      "elementos": "pink skin, long beak, dark Amazon river"
+    },
+    {
+      "slug": "mico-leao-dourado",
+      "nome": "Mico-leão-dourado",
+      "referencia": "golden lion tamarin",
+      "elementos": "bright orange-golden mane, Atlantic Forest branch"
+    },
+    {
+      "slug": "tatu-bola",
+      "nome": "Tatu-bola",
+      "referencia": "Brazilian three-banded armadillo",
+      "elementos": "rolling into a ball, armored shell, Caatinga soil"
+    },
+    {
+      "slug": "quati",
+      "nome": "Quati",
+      "referencia": "coati",
+      "elementos": "long ringed tail held up, long snout, near Iguaçu Falls"
+    },
+    {
+      "slug": "lobo-guara",
+      "nome": "Lobo-guará",
+      "referencia": "maned wolf",
+      "elementos": "tall red fox-like wolf with long black legs, Cerrado grassland"
+    },
+    {
+      "slug": "tuiuiu",
+      "nome": "Tuiuiú",
+      "referencia": "jabiru stork",
+      "elementos": "white body, black bare head and neck with red collar, Pantanal"
+    },
+    {
+      "slug": "jacare-do-pantanal",
+      "nome": "Jacaré-do-pantanal",
+      "referencia": "yacare caiman",
+      "elementos": "caiman resting in shallow water with water hyacinths"
+    },
+    {
+      "slug": "ariranha",
+      "nome": "Ariranha",
+      "referencia": "giant otter",
+      "elementos": "brown sleek fur, cream throat patch, eating a fish in a river"
+    },
+    {
+      "slug": "anta",
+      "nome": "Anta",
+      "referencia": "South American tapir",
+      "elementos": "short trunk-like snout, dark body, swimming in a river"
+    },
+    {
+      "slug": "sucuri",
+      "nome": "Sucuri",
+      "referencia": "green anaconda",
+      "elementos": "huge olive snake with black spots coiled in the water"
+    },
+    {
+      "slug": "peixe-boi",
+      "nome": "Peixe-boi",
+      "referencia": "Amazonian manatee",
+      "elementos": "gentle grey manatee grazing underwater plants"
+    },
+    {
+      "slug": "harpia",
+      "nome": "Harpia",
+      "referencia": "harpy eagle",
+      "elementos": "giant eagle with double crest and powerful talons, rainforest canopy"
+    },
+    {
+      "slug": "ema",
+      "nome": "Ema",
+      "referencia": "greater rhea",
+      "elementos": "large flightless grey bird running in the Cerrado"
+    },
+    {
+      "slug": "seriema",
+      "nome": "Seriema",
+      "referencia": "red-legged seriema",
+      "elementos": "crest of feathers on the forehead, long red legs, singing"
+    },
+    {
+      "slug": "papagaio-verdadeiro",
+      "nome": "Papagaio-verdadeiro",
+      "referencia": "blue-fronted amazon parrot",
+      "elementos": "green body, blue forehead, yellow face"
+    },
+    {
+      "slug": "saira-sete-cores",
+      "nome": "Saíra-sete-cores",
+      "referencia": "green-headed tanager (seven-colored tanager)",
+      "elementos": "tiny bird with turquoise, green, yellow, orange and black feathers"
+    },
+    {
+      "slug": "bem-te-vi",
+      "nome": "Bem-te-vi",
+      "referencia": "great kiskadee",
+      "elementos": "yellow belly, black-and-white striped head, perched on a wire"
+    },
+    {
+      "slug": "sabia-laranjeira",
+      "nome": "Sabiá-laranjeira",
+      "referencia": "rufous-bellied thrush",
+      "elementos": "brown bird with orange belly singing on an orange tree"
+    },
+    {
+      "slug": "joao-de-barro",
+      "nome": "João-de-barro",
+      "referencia": "rufous hornero",
+      "elementos": "small brown bird building its round clay oven nest on a post"
+    },
+    {
+      "slug": "quero-quero",
+      "nome": "Quero-quero",
+      "referencia": "southern lapwing",
+      "elementos": "grey bird with black chest and crest, red spurs, open field"
+    },
+    {
+      "slug": "coruja-buraqueira",
+      "nome": "Coruja-buraqueira",
+      "referencia": "burrowing owl",
+      "elementos": "small owl with long legs standing by its burrow, yellow eyes"
+    },
+    {
+      "slug": "gralha-azul",
+      "nome": "Gralha-azul",
+      "referencia": "azure jay",
+      "elementos": "bright blue bird carrying an araucaria pine nut"
+    },
+    {
+      "slug": "guara",
+      "nome": "Guará",
+      "referencia": "scarlet ibis",
+      "elementos": "vivid scarlet bird with curved bill, mangrove"
+    },
+    {
+      "slug": "urubu-rei",
+      "nome": "Urubu-rei",
+      "referencia": "king vulture",
+      "elementos": "white body, colorful orange-red-purple bare head"
+    },
+    {
+      "slug": "jaguatirica",
+      "nome": "Jaguatirica",
+      "referencia": "ocelot",
+      "elementos": "spotted and striped coat, big eyes, on a tree at night"
+    },
+    {
+      "slug": "sagui-de-tufo-branco",
+      "nome": "Sagui-de-tufo-branco",
+      "referencia": "common marmoset",
+      "elementos": "tiny monkey with white ear tufts, striped tail"
+    },
+    {
+      "slug": "bugio",
+      "nome": "Bugio",
+      "referencia": "howler monkey",
+      "elementos": "red-brown monkey howling from the treetop"
+    },
+    {
+      "slug": "macaco-prego",
+      "nome": "Macaco-prego",
+      "referencia": "tufted capuchin",
+      "elementos": "cap of dark hair, using a stone to crack a nut"
+    },
+    {
+      "slug": "tartaruga-marinha",
+      "nome": "Tartaruga-marinha",
+      "referencia": "green sea turtle",
+      "elementos": "swimming over a reef near Fernando de Noronha"
+    },
+    {
+      "slug": "baleia-jubarte",
+      "nome": "Baleia-jubarte",
+      "referencia": "humpback whale",
+      "elementos": "breaching with long white pectoral fins, Abrolhos"
+    },
+    {
+      "slug": "golfinho-rotador",
+      "nome": "Golfinho-rotador",
+      "referencia": "spinner dolphin",
+      "elementos": "spinning jump out of turquoise water"
+    },
+    {
+      "slug": "pirarucu",
+      "nome": "Pirarucu",
+      "referencia": "arapaima (pirarucu)",
+      "elementos": "giant fish with red-edged scales surfacing in the Amazon"
+    },
+    {
+      "slug": "piranha",
+      "nome": "Piranha",
+      "referencia": "red-bellied piranha",
+      "elementos": "sharp teeth, red belly, dark river water"
+    },
+    {
+      "slug": "tucunare",
+      "nome": "Tucunaré",
+      "referencia": "peacock bass",
+      "elementos": "golden fish with dark bars and an eye spot on the tail"
+    },
+    {
+      "slug": "jabuti",
+      "nome": "Jabuti",
+      "referencia": "red-footed tortoise",
+      "elementos": "domed dark shell with yellow patches, red scales on legs"
+    },
+    {
+      "slug": "sapo-cururu",
+      "nome": "Sapo-cururu",
+      "referencia": "cane toad",
+      "elementos": "big warty brown toad on wet forest floor at night"
+    },
+    {
+      "slug": "perereca-macaco",
+      "nome": "Perereca-macaco",
+      "referencia": "waxy monkey tree frog (Phyllomedusa)",
+      "elementos": "bright green tree frog with orange-tinted legs walking slowly along a branch"
+    },
+    {
+      "slug": "cobra-coral",
+      "nome": "Cobra-coral",
+      "referencia": "coral snake",
+      "elementos": "red, black and white rings on leaf litter"
+    },
+    {
+      "slug": "teiu",
+      "nome": "Teiú",
+      "referencia": "tegu lizard",
+      "elementos": "large black-and-white banded lizard with forked tongue"
+    },
+    {
+      "slug": "borboleta-azul",
+      "nome": "Borboleta-azul",
+      "referencia": "blue morpho butterfly",
+      "elementos": "large iridescent bright blue wings"
+    },
+    {
+      "slug": "sauva",
+      "nome": "Saúva",
+      "referencia": "leafcutter ant",
+      "elementos": "ants carrying green leaf pieces in a line"
+    },
+    {
+      "slug": "cupinzeiro",
+      "nome": "Cupinzeiro",
+      "referencia": "termite mound",
+      "elementos": "tall red earth mound in the Cerrado at night with glowing larvae"
+    },
+    {
+      "slug": "veado-campeiro",
+      "nome": "Veado-campeiro",
+      "referencia": "pampas deer",
+      "elementos": "small deer with three-tine antlers in a grassland"
+    },
+    {
+      "slug": "cervo-do-pantanal",
+      "nome": "Cervo-do-pantanal",
+      "referencia": "marsh deer",
+      "elementos": "large reddish deer with black legs in a flooded field"
+    },
+    {
+      "slug": "tatu-canastra",
+      "nome": "Tatu-canastra",
+      "referencia": "giant armadillo",
+      "elementos": "huge armadillo with flexible armor and giant claws"
+    },
+    {
+      "slug": "cutia",
+      "nome": "Cutia",
+      "referencia": "agouti",
+      "elementos": "orange-brown rodent holding a Brazil nut"
+    },
+    {
+      "slug": "ourico-cacheiro",
+      "nome": "Ouriço-cacheiro",
+      "referencia": "Brazilian porcupine",
+      "elementos": "spiny body, prehensile tail wrapped around a branch"
+    },
+    {
+      "slug": "queixada",
+      "nome": "Queixada",
+      "referencia": "white-lipped peccary",
+      "elementos": "dark pig-like animal with white chin, herd in the forest"
+    },
+    {
+      "slug": "mutum",
+      "nome": "Mutum",
+      "referencia": "bare-faced curassow",
+      "elementos": "black bird with curly crest and yellow face"
+    },
+    {
+      "slug": "aracari",
+      "nome": "Araçari",
+      "referencia": "chestnut-eared aracari",
+      "elementos": "small toucan with striped colorful bill and red band"
+    },
+    {
+      "slug": "uirapuru",
+      "nome": "Uirapuru",
+      "referencia": "musician wren (uirapuru)",
+      "elementos": "small brown bird singing in the Amazon understory"
+    },
+    {
+      "slug": "araponga",
+      "nome": "Araponga",
+      "referencia": "bare-throated bellbird",
+      "elementos": "white bird with bare blue-green throat calling loudly"
+    },
+    {
+      "slug": "caranguejo-uca",
+      "nome": "Caranguejo-uçá",
+      "referencia": "mangrove crab",
+      "elementos": "blue-brown crab with orange legs in the mangrove mud"
+    },
+    {
+      "slug": "mao-pelada",
+      "nome": "Mão-pelada",
+      "referencia": "crab-eating raccoon",
+      "elementos": "grey raccoon with black mask fishing in a mangrove"
+    },
+    {
+      "slug": "cachorro-vinagre",
+      "nome": "Cachorro-vinagre",
+      "referencia": "bush dog",
+      "elementos": "small stocky reddish dog with short legs, swimming"
+    },
+    {
+      "slug": "onca-parda",
+      "nome": "Onça-parda",
+      "referencia": "cougar (puma)",
+      "elementos": "plain tawny coat, long tail, rocky hill"
+    },
+    {
+      "slug": "beija-flor-tesoura",
+      "nome": "Beija-flor-tesoura",
+      "referencia": "swallow-tailed hummingbird",
+      "elementos": "iridescent blue-green with long forked tail, hovering at a flower"
+    },
+    {
+      "slug": "ipe-amarelo",
+      "nome": "Ipê-amarelo",
+      "referencia": "yellow ipê tree",
+      "elementos": "crown completely covered in bright yellow flowers, dry season"
+    },
+    {
+      "slug": "ipe-roxo",
+      "nome": "Ipê-roxo",
+      "referencia": "pink ipê tree",
+      "elementos": "crown covered in pink-purple trumpet flowers, carpet of petals"
+    },
+    {
+      "slug": "pau-brasil",
+      "nome": "Pau-brasil",
+      "referencia": "brazilwood tree",
+      "elementos": "thorny trunk, yellow flowers, cut wood showing red heartwood"
+    },
+    {
+      "slug": "araucaria",
+      "nome": "Araucária",
+      "referencia": "Paraná pine (araucaria)",
+      "elementos": "candelabra-shaped crown, pine cones with pinhão seeds, southern highlands"
+    },
+    {
+      "slug": "vitoria-regia",
+      "nome": "Vitória-régia",
+      "referencia": "Victoria water lily",
+      "elementos": "giant round floating leaves with upturned rims, white flower, Amazon"
+    },
+    {
+      "slug": "jabuticabeira",
+      "nome": "Jabuticabeira",
+      "referencia": "jabuticaba tree",
+      "elementos": "shiny black fruits growing directly on the trunk"
+    },
+    {
+      "slug": "jequitiba",
+      "nome": "Jequitibá",
+      "referencia": "jequitibá tree",
+      "elementos": "giant emergent tree above the Atlantic Forest canopy"
+    },
+    {
+      "slug": "castanheira-do-para",
+      "nome": "Castanheira-do-pará",
+      "referencia": "Brazil nut tree",
+      "elementos": "towering tree, round woody pod opened with nuts inside"
+    },
+    {
+      "slug": "seringueira",
+      "nome": "Seringueira",
+      "referencia": "rubber tree",
+      "elementos": "trunk with diagonal cuts dripping white latex into a cup"
+    },
+    {
+      "slug": "buriti",
+      "nome": "Buriti",
+      "referencia": "buriti palm",
+      "elementos": "tall fan palm in a wet Cerrado path (vereda), reddish scaly fruits"
+    },
+    {
+      "slug": "carnauba",
+      "nome": "Carnaúba",
+      "referencia": "carnauba palm",
+      "elementos": "fan palm on a dry northeastern plain, waxy leaves"
+    },
+    {
+      "slug": "acaizeiro",
+      "nome": "Açaizeiro",
+      "referencia": "açaí palm",
+      "elementos": "slender palms with clusters of purple açaí berries, river bank"
+    },
+    {
+      "slug": "sumauma",
+      "nome": "Sumaúma",
+      "referencia": "kapok tree (sumaúma)",
+      "elementos": "giant tree with huge buttress roots, Amazon"
+    },
+    {
+      "slug": "embauba",
+      "nome": "Embaúba",
+      "referencia": "cecropia tree",
+      "elementos": "umbrella-like silver leaves, sloth hanging"
+    },
+    {
+      "slug": "cajueiro",
+      "nome": "Cajueiro",
+      "referencia": "cashew tree",
+      "elementos": "red and yellow cashew apples with the nut hanging below"
+    },
+    {
+      "slug": "maracuja",
+      "nome": "Maracujá",
+      "referencia": "passion flower",
+      "elementos": "intricate purple and white flower with fringed crown, passion fruit"
+    },
+    {
+      "slug": "bromelia",
+      "nome": "Bromélia",
+      "referencia": "bromeliad",
+      "elementos": "rosette of leaves holding water, bright red center, on a tree"
+    },
+    {
+      "slug": "heliconia",
+      "nome": "Helicônia",
+      "referencia": "heliconia (lobster claw)",
+      "elementos": "hanging red-and-yellow zigzag bracts, hummingbird"
+    },
+    {
+      "slug": "orquidea-cattleya",
+      "nome": "Orquídea Cattleya",
+      "referencia": "Cattleya labiata orchid",
+      "elementos": "large lilac flower with ruffled purple lip"
+    },
+    {
+      "slug": "flor-de-maio",
+      "nome": "Flor-de-maio",
+      "referencia": "Christmas cactus (Schlumbergera)",
+      "elementos": "pink layered flowers on segmented flat stems"
+    },
+    {
+      "slug": "quaresmeira",
+      "nome": "Quaresmeira",
+      "referencia": "glory tree (quaresmeira)",
+      "elementos": "tree covered in purple flowers"
+    },
+    {
+      "slug": "manaca-da-serra",
+      "nome": "Manacá-da-serra",
+      "referencia": "manacá-da-serra tree",
+      "elementos": "flowers in white, pink and purple on the same tree, Serra do Mar"
+    },
+    {
+      "slug": "guarana",
+      "nome": "Guaraná",
+      "referencia": "guaraná plant",
+      "elementos": "red fruit capsules opening to show black seeds like eyes"
+    },
+    {
+      "slug": "mandacaru",
+      "nome": "Mandacaru",
+      "referencia": "mandacaru cactus",
+      "elementos": "tall candelabra cactus with white night flower, Caatinga"
+    },
+    {
+      "slug": "coroa-de-frade",
+      "nome": "Coroa-de-frade",
+      "referencia": "Turk's cap cactus",
+      "elementos": "round cactus with a red woolly cap, dry rocks"
+    },
+    {
+      "slug": "pequizeiro",
+      "nome": "Pequizeiro",
+      "referencia": "pequi tree",
+      "elementos": "twisted Cerrado tree with green pequi fruits and yellow pulp"
+    },
+    {
+      "slug": "babacu",
+      "nome": "Babaçu",
+      "referencia": "babassu palm",
+      "elementos": "tall palm with long arched leaves, nut clusters, Maranhão"
+    },
+    {
+      "slug": "mangue",
+      "nome": "Mangue",
+      "referencia": "red mangrove",
+      "elementos": "stilt roots in brackish water, crabs, tide"
+    },
+    {
+      "slug": "samambaiacu",
+      "nome": "Samambaiaçu",
+      "referencia": "Brazilian tree fern",
+      "elementos": "tall trunk with huge lacy fronds in the Atlantic Forest"
+    },
+    {
+      "slug": "caliandra",
+      "nome": "Caliandra",
+      "referencia": "calliandra (powder puff)",
+      "elementos": "red fluffy pom-pom flowers, hummingbird"
+    },
+    {
+      "slug": "sempre-viva",
+      "nome": "Sempre-viva",
+      "referencia": "everlasting flower (sempre-viva)",
+      "elementos": "tiny white dry flower heads on long stems, Serra do Espinhaço"
+    },
+    {
+      "slug": "erva-mate",
+      "nome": "Erva-mate",
+      "referencia": "yerba mate plant",
+      "elementos": "green leaves, gourd with mate tea, southern field"
+    },
+    {
+      "slug": "jatoba",
+      "nome": "Jatobá",
+      "referencia": "jatobá tree",
+      "elementos": "brown hard pods with powdery pulp, large Cerrado tree"
+    },
+    {
+      "slug": "pitangueira",
+      "nome": "Pitangueira",
+      "referencia": "pitanga (Surinam cherry)",
+      "elementos": "ribbed red pitanga fruits among small leaves"
+    },
+    {
+      "slug": "palmito-jucara",
+      "nome": "Palmito-juçara",
+      "referencia": "juçara palm",
+      "elementos": "slender palm with purple fruit clusters, Atlantic Forest"
+    },
+    {
+      "slug": "chuva-de-ouro",
+      "nome": "Chuva-de-ouro",
+      "referencia": "golden shower orchid (Oncidium)",
+      "elementos": "cascade of tiny yellow dancing-lady flowers"
+    }
+  ]
+}

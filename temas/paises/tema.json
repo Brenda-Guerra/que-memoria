@@ -1,0 +1,611 @@
+{
+  "id": "paises",
+  "nome": "Países",
+  "tipo": "country in the world",
+  "cor": "#f6e6c8",
+  "capa": "japao",
+  "ordem": 120,
+  "composicao": "one iconic, centered scene that mixes the country's landmark with one or two cultural symbols, in the upper 80% of the card",
+  "itens": [
+    {
+      "slug": "brasil",
+      "nome": "Brasil",
+      "referencia": "Brazil",
+      "elementos": "Christ the Redeemer above Rio, Amazon rainforest, toucan, a football, touches of green and yellow"
+    },
+    {
+      "slug": "argentina",
+      "nome": "Argentina",
+      "referencia": "Argentina",
+      "elementos": "Perito Moreno blue glacier, mate gourd with bombilla, tango shoes, Andes peaks"
+    },
+    {
+      "slug": "chile",
+      "nome": "Chile",
+      "referencia": "Chile",
+      "elementos": "Easter Island moai stone heads, snowy Andes, cactus of the Atacama desert"
+    },
+    {
+      "slug": "peru",
+      "nome": "Peru",
+      "referencia": "Peru",
+      "elementos": "Machu Picchu ruins on a green mountain, llama, colorful Andean woven textile"
+    },
+    {
+      "slug": "bolivia",
+      "nome": "Bolívia",
+      "referencia": "Bolivia",
+      "elementos": "Salar de Uyuni white salt flat reflecting the sky like a mirror, pink flamingos, Andean bowler hat"
+    },
+    {
+      "slug": "uruguai",
+      "nome": "Uruguai",
+      "referencia": "Uruguay",
+      "elementos": "giant hand sculpture emerging from the sand of Punta del Este, mate gourd, gaucho hat"
+    },
+    {
+      "slug": "paraguai",
+      "nome": "Paraguai",
+      "referencia": "Paraguay",
+      "elementos": "red stone Jesuit ruins of Trinidad, ñandutí spider-web lace, tereré guampa cup"
+    },
+    {
+      "slug": "colombia",
+      "nome": "Colômbia",
+      "referencia": "Colombia",
+      "elementos": "very tall wax palms of the Cocora valley, coffee branches with red cherries, colorful chiva bus, yellow butterflies"
+    },
+    {
+      "slug": "venezuela",
+      "nome": "Venezuela",
+      "referencia": "Venezuela",
+      "elementos": "Angel Falls dropping from a flat-topped tepui, scarlet ibis, arepas"
+    },
+    {
+      "slug": "equador",
+      "nome": "Equador",
+      "referencia": "Ecuador",
+      "elementos": "Galápagos giant tortoise, snow-capped Cotopaxi volcano, woven straw toquilla hat"
+    },
+    {
+      "slug": "panama",
+      "nome": "Panamá",
+      "referencia": "Panama",
+      "elementos": "ship passing through the Panama Canal locks, colorful mola textile, red poison frog"
+    },
+    {
+      "slug": "costa-rica",
+      "nome": "Costa Rica",
+      "referencia": "Costa Rica",
+      "elementos": "Arenal cone volcano, red-eyed tree frog on a leaf, hand-painted ox cart wheel"
+    },
+    {
+      "slug": "mexico",
+      "nome": "México",
+      "referencia": "Mexico",
+      "elementos": "Chichén Itzá step pyramid, saguaro cactus, sombrero, colorful sugar skull, papel picado"
+    },
+    {
+      "slug": "cuba",
+      "nome": "Cuba",
+      "referencia": "Cuba",
+      "elementos": "pastel 1950s classic car, Havana colonial facades, maracas, royal palm trees"
+    },
+    {
+      "slug": "jamaica",
+      "nome": "Jamaica",
+      "referencia": "Jamaica",
+      "elementos": "Dunn's River waterfall, steel drum, doctor bird hummingbird with long tail, Blue Mountains"
+    },
+    {
+      "slug": "estados-unidos",
+      "nome": "Estados Unidos",
+      "referencia": "United States",
+      "elementos": "Statue of Liberty, Grand Canyon, bald eagle in flight"
+    },
+    {
+      "slug": "canada",
+      "nome": "Canadá",
+      "referencia": "Canada",
+      "elementos": "red maple leaf, moose by a turquoise mountain lake (Moraine Lake), wooden canoe, Rocky Mountains"
+    },
+    {
+      "slug": "islandia",
+      "nome": "Islândia",
+      "referencia": "Iceland",
+      "elementos": "geyser erupting, puffin, northern lights over a black sand beach"
+    },
+    {
+      "slug": "noruega",
+      "nome": "Noruega",
+      "referencia": "Norway",
+      "elementos": "deep fjord between cliffs, Viking longship with dragon head, wooden stave church"
+    },
+    {
+      "slug": "suecia",
+      "nome": "Suécia",
+      "referencia": "Sweden",
+      "elementos": "red wooden cottages with white trim, red Dala horse, midsummer maypole with flowers"
+    },
+    {
+      "slug": "finlandia",
+      "nome": "Finlândia",
+      "referencia": "Finland",
+      "elementos": "wooden sauna cabin by a blue lake, birch forest, reindeer in the snow"
+    },
+    {
+      "slug": "dinamarca",
+      "nome": "Dinamarca",
+      "referencia": "Denmark",
+      "elementos": "colorful harbor houses of Nyhavn, Little Mermaid statue, bicycles, red-and-white pennants"
+    },
+    {
+      "slug": "reino-unido",
+      "nome": "Reino Unido",
+      "referencia": "United Kingdom",
+      "elementos": "Big Ben, red double-decker bus, Stonehenge, cup of tea"
+    },
+    {
+      "slug": "irlanda",
+      "nome": "Irlanda",
+      "referencia": "Ireland",
+      "elementos": "Cliffs of Moher, green fields with stone walls, shamrock, Celtic harp"
+    },
+    {
+      "slug": "franca",
+      "nome": "França",
+      "referencia": "France",
+      "elementos": "Eiffel Tower, purple lavender fields, baguette, Mont Saint-Michel"
+    },
+    {
+      "slug": "espanha",
+      "nome": "Espanha",
+      "referencia": "Spain",
+      "elementos": "Sagrada Família, flamenco fan, paella pan, white windmills of La Mancha"
+    },
+    {
+      "slug": "portugal",
+      "nome": "Portugal",
+      "referencia": "Portugal",
+      "elementos": "Belém Tower, blue azulejo tiles, colorful Barcelos rooster, yellow tram"
+    },
+    {
+      "slug": "italia",
+      "nome": "Itália",
+      "referencia": "Italy",
+      "elementos": "Colosseum, Leaning Tower of Pisa, Venetian gondola, pizza"
+    },
+    {
+      "slug": "alemanha",
+      "nome": "Alemanha",
+      "referencia": "Germany",
+      "elementos": "fairytale Neuschwanstein castle, Brandenburg Gate, pretzel, Black Forest"
+    },
+    {
+      "slug": "holanda",
+      "nome": "Holanda",
+      "referencia": "Netherlands",
+      "elementos": "windmills by a canal, rows of tulip fields, wooden clogs"
+    },
+    {
+      "slug": "belgica",
+      "nome": "Bélgica",
+      "referencia": "Belgium",
+      "elementos": "Atomium, Belgian waffle, pralines, gilded houses of the Grand Place"
+    },
+    {
+      "slug": "suica",
+      "nome": "Suíça",
+      "referencia": "Switzerland",
+      "elementos": "Matterhorn pointed peak, cow with a big bell, cuckoo clock, chocolate bar"
+    },
+    {
+      "slug": "austria",
+      "nome": "Áustria",
+      "referencia": "Austria",
+      "elementos": "Hallstatt lakeside village under mountains, violin, Sachertorte cake"
+    },
+    {
+      "slug": "polonia",
+      "nome": "Polônia",
+      "referencia": "Poland",
+      "elementos": "Wawel castle in Kraków, pierogi dumplings, colorful wycinanki paper cutouts"
+    },
+    {
+      "slug": "tchequia",
+      "nome": "Tchéquia",
+      "referencia": "Czech Republic",
+      "elementos": "Charles Bridge, Prague astronomical clock, wooden marionette puppet"
+    },
+    {
+      "slug": "hungria",
+      "nome": "Hungria",
+      "referencia": "Hungary",
+      "elementos": "Hungarian Parliament on the Danube, strings of red paprika peppers, thermal bath"
+    },
+    {
+      "slug": "croacia",
+      "nome": "Croácia",
+      "referencia": "Croatia",
+      "elementos": "turquoise waterfalls of the Plitvice lakes, Dubrovnik walls, Dalmatian dog"
+    },
+    {
+      "slug": "grecia",
+      "nome": "Grécia",
+      "referencia": "Greece",
+      "elementos": "Parthenon, white houses and blue domes of Santorini, olive branch"
+    },
+    {
+      "slug": "turquia",
+      "nome": "Turquia",
+      "referencia": "Turkey",
+      "elementos": "hot-air balloons over the fairy chimneys of Cappadocia, Hagia Sophia, mosaic lamps"
+    },
+    {
+      "slug": "russia",
+      "nome": "Rússia",
+      "referencia": "Russia",
+      "elementos": "St. Basil's Cathedral colorful onion domes, matryoshka dolls, snowy birch forest"
+    },
+    {
+      "slug": "ucrania",
+      "nome": "Ucrânia",
+      "referencia": "Ukraine",
+      "elementos": "golden sunflower field under blue sky, painted pysanka eggs, embroidered red-and-black pattern"
+    },
+    {
+      "slug": "romenia",
+      "nome": "Romênia",
+      "referencia": "Romania",
+      "elementos": "Bran Castle on a rocky hill, Carpathian mountains, painted monastery walls"
+    },
+    {
+      "slug": "bulgaria",
+      "nome": "Bulgária",
+      "referencia": "Bulgaria",
+      "elementos": "Rila Monastery with striped red-and-white arches, Valley of Roses, rose oil flask"
+    },
+    {
+      "slug": "malta",
+      "nome": "Malta",
+      "referencia": "Malta",
+      "elementos": "colorful luzzu fishing boats with painted eyes, golden limestone walls of Valletta, Blue Lagoon"
+    },
+    {
+      "slug": "bosnia-e-herzegovina",
+      "nome": "Bósnia e Herzegovina",
+      "referencia": "Bosnia and Herzegovina",
+      "elementos": "Stari Most arched stone bridge in Mostar over an emerald river, Ottoman stone houses"
+    },
+    {
+      "slug": "eslovenia",
+      "nome": "Eslovênia",
+      "referencia": "Slovenia",
+      "elementos": "Lake Bled with a tiny island church, Julian Alps, cream cake"
+    },
+    {
+      "slug": "montenegro",
+      "nome": "Montenegro",
+      "referencia": "Montenegro",
+      "elementos": "Bay of Kotor fjord with the two island churches of Perast, mountains"
+    },
+    {
+      "slug": "georgia",
+      "nome": "Geórgia",
+      "referencia": "Georgia (the country in the Caucasus)",
+      "elementos": "Gergeti Trinity Church below snowy Mount Kazbek, clay qvevri wine jars, boat-shaped khachapuri bread"
+    },
+    {
+      "slug": "armenia",
+      "nome": "Armênia",
+      "referencia": "Armenia",
+      "elementos": "Mount Ararat behind Khor Virap monastery, apricots, duduk flute"
+    },
+    {
+      "slug": "marrocos",
+      "nome": "Marrocos",
+      "referencia": "Morocco",
+      "elementos": "blue-washed streets of Chefchaouen, tagine pot, camel in Sahara dunes, metal lanterns"
+    },
+    {
+      "slug": "egito",
+      "nome": "Egito",
+      "referencia": "Egypt",
+      "elementos": "pyramids of Giza and the Sphinx, felucca on the Nile, golden pharaoh mask"
+    },
+    {
+      "slug": "tunisia",
+      "nome": "Tunísia",
+      "referencia": "Tunisia",
+      "elementos": "white walls and blue doors of Sidi Bou Said, Roman amphitheater of El Jem, desert"
+    },
+    {
+      "slug": "africa-do-sul",
+      "nome": "África do Sul",
+      "referencia": "South Africa",
+      "elementos": "Table Mountain, king protea flower, African penguins on the beach"
+    },
+    {
+      "slug": "quenia",
+      "nome": "Quênia",
+      "referencia": "Kenya",
+      "elementos": "giraffes and acacia trees on the savanna, safari jeep, colorful beaded necklace"
+    },
+    {
+      "slug": "tanzania",
+      "nome": "Tanzânia",
+      "referencia": "Tanzania",
+      "elementos": "snowy Mount Kilimanjaro over the savanna, zebra herd, carved Zanzibar door"
+    },
+    {
+      "slug": "madagascar",
+      "nome": "Madagascar",
+      "referencia": "Madagascar",
+      "elementos": "Avenue of the Baobabs at sunset, ring-tailed lemur, chameleon"
+    },
+    {
+      "slug": "etiopia",
+      "nome": "Etiópia",
+      "referencia": "Ethiopia",
+      "elementos": "cross-shaped rock-hewn church of Lalibela, clay jebena coffee pot, Simien mountains"
+    },
+    {
+      "slug": "nigeria",
+      "nome": "Nigéria",
+      "referencia": "Nigeria",
+      "elementos": "huge Zuma Rock, talking drum, colorful indigo adire fabric"
+    },
+    {
+      "slug": "gana",
+      "nome": "Gana",
+      "referencia": "Ghana",
+      "elementos": "bright kente cloth pattern, white Cape Coast Castle by the sea, cocoa pods"
+    },
+    {
+      "slug": "senegal",
+      "nome": "Senegal",
+      "referencia": "Senegal",
+      "elementos": "pink Lake Retba, colorful painted pirogue boats, baobab tree"
+    },
+    {
+      "slug": "namibia",
+      "nome": "Namíbia",
+      "referencia": "Namibia",
+      "elementos": "red dunes of Sossusvlei, dead camelthorn trees of Deadvlei, oryx with long horns"
+    },
+    {
+      "slug": "angola",
+      "nome": "Angola",
+      "referencia": "Angola",
+      "elementos": "Kalandula waterfalls, wooden Pensador thinker sculpture, Luanda bay"
+    },
+    {
+      "slug": "mocambique",
+      "nome": "Moçambique",
+      "referencia": "Mozambique",
+      "elementos": "dhow sailboat, turquoise islands of Bazaruto, colorful capulana fabric, cashew nuts"
+    },
+    {
+      "slug": "cabo-verde",
+      "nome": "Cabo Verde",
+      "referencia": "Cape Verde",
+      "elementos": "Fogo volcano, colorful little houses on the hills, cavaquinho guitar"
+    },
+    {
+      "slug": "seicheles",
+      "nome": "Seicheles",
+      "referencia": "Seychelles",
+      "elementos": "giant granite boulders on a white beach (Anse Source d'Argent), coco de mer palm, giant tortoise"
+    },
+    {
+      "slug": "israel",
+      "nome": "Israel",
+      "referencia": "Israel",
+      "elementos": "salt formations of the Dead Sea, ancient stone walls of Jerusalem, pomegranates"
+    },
+    {
+      "slug": "jordania",
+      "nome": "Jordânia",
+      "referencia": "Jordan",
+      "elementos": "Treasury of Petra carved in rose-colored rock, red desert of Wadi Rum, camel"
+    },
+    {
+      "slug": "libano",
+      "nome": "Líbano",
+      "referencia": "Lebanon",
+      "elementos": "cedar tree, Roman columns of Baalbek, mountains by the Mediterranean"
+    },
+    {
+      "slug": "emirados-arabes",
+      "nome": "Emirados Árabes",
+      "referencia": "United Arab Emirates",
+      "elementos": "Burj Khalifa, falcon, golden desert dunes"
+    },
+    {
+      "slug": "arabia-saudita",
+      "nome": "Arábia Saudita",
+      "referencia": "Saudi Arabia",
+      "elementos": "Elephant Rock of AlUla in the desert, date palms, brass dallah coffee pot"
+    },
+    {
+      "slug": "ira",
+      "nome": "Irã",
+      "referencia": "Iran",
+      "elementos": "Pink Mosque with colorful stained-glass light, Persian carpet, pomegranates"
+    },
+    {
+      "slug": "uzbequistao",
+      "nome": "Uzbequistão",
+      "referencia": "Uzbekistan",
+      "elementos": "blue-tiled madrasas of the Registan in Samarkand, suzani embroidery, melons"
+    },
+    {
+      "slug": "paquistao",
+      "nome": "Paquistão",
+      "referencia": "Pakistan",
+      "elementos": "K2 mountain, colorfully decorated truck art, Badshahi Mosque"
+    },
+    {
+      "slug": "india",
+      "nome": "Índia",
+      "referencia": "India",
+      "elementos": "Taj Mahal, Bengal tiger, bowls of colorful spices, marigold garlands"
+    },
+    {
+      "slug": "nepal",
+      "nome": "Nepal",
+      "referencia": "Nepal",
+      "elementos": "Mount Everest, colorful prayer flags, Boudhanath stupa with painted eyes"
+    },
+    {
+      "slug": "butao",
+      "nome": "Butão",
+      "referencia": "Bhutan",
+      "elementos": "Tiger's Nest monastery on a cliff, prayer flags, white dzong fortress"
+    },
+    {
+      "slug": "sri-lanka",
+      "nome": "Sri Lanka",
+      "referencia": "Sri Lanka",
+      "elementos": "Sigiriya Lion Rock, green tea plantation hills, stilt fishermen in the sea"
+    },
+    {
+      "slug": "maldivas",
+      "nome": "Maldivas",
+      "referencia": "Maldives",
+      "elementos": "overwater bungalows, turquoise atolls, manta ray"
+    },
+    {
+      "slug": "mianmar",
+      "nome": "Mianmar",
+      "referencia": "Myanmar",
+      "elementos": "thousands of temples of Bagan with hot-air balloons, golden Shwedagon pagoda"
+    },
+    {
+      "slug": "tailandia",
+      "nome": "Tailândia",
+      "referencia": "Thailand",
+      "elementos": "golden temple spires, elephant, floating market boat with fruit"
+    },
+    {
+      "slug": "vietna",
+      "nome": "Vietnã",
+      "referencia": "Vietnam",
+      "elementos": "limestone islands of Ha Long Bay with a junk boat, conical leaf hat, rice paddies"
+    },
+    {
+      "slug": "camboja",
+      "nome": "Camboja",
+      "referencia": "Cambodia",
+      "elementos": "Angkor Wat temple at sunrise reflected in a lotus pond"
+    },
+    {
+      "slug": "malasia",
+      "nome": "Malásia",
+      "referencia": "Malaysia",
+      "elementos": "Petronas Twin Towers, orangutan, giant red rafflesia flower"
+    },
+    {
+      "slug": "singapura",
+      "nome": "Singapura",
+      "referencia": "Singapore",
+      "elementos": "Marina Bay Sands, Merlion fountain, Supertree Grove"
+    },
+    {
+      "slug": "indonesia",
+      "nome": "Indonésia",
+      "referencia": "Indonesia",
+      "elementos": "Borobudur temple stupas, Komodo dragon, green rice terraces"
+    },
+    {
+      "slug": "filipinas",
+      "nome": "Filipinas",
+      "referencia": "Philippines",
+      "elementos": "Chocolate Hills, colorful jeepney, tiny tarsier with huge eyes"
+    },
+    {
+      "slug": "china",
+      "nome": "China",
+      "referencia": "China",
+      "elementos": "Great Wall on the hills, giant panda eating bamboo, red lanterns"
+    },
+    {
+      "slug": "japao",
+      "nome": "Japão",
+      "referencia": "Japan",
+      "elementos": "Mount Fuji, red torii gate, cherry blossoms, origami crane"
+    },
+    {
+      "slug": "coreia-do-sul",
+      "nome": "Coreia do Sul",
+      "referencia": "South Korea",
+      "elementos": "Gyeongbokgung palace with painted eaves, onggi kimchi jars, hanbok"
+    },
+    {
+      "slug": "mongolia",
+      "nome": "Mongólia",
+      "referencia": "Mongolia",
+      "elementos": "white ger yurts on the green steppe, golden eagle, Bactrian camel"
+    },
+    {
+      "slug": "taiwan",
+      "nome": "Taiwan",
+      "referencia": "Taiwan",
+      "elementos": "Taipei 101 tower, sky lanterns floating up, bubble tea"
+    },
+    {
+      "slug": "australia",
+      "nome": "Austrália",
+      "referencia": "Australia",
+      "elementos": "Sydney Opera House, kangaroo, red Uluru rock, koala"
+    },
+    {
+      "slug": "nova-zelandia",
+      "nome": "Nova Zelândia",
+      "referencia": "New Zealand",
+      "elementos": "kiwi bird, Milford Sound fjord with waterfalls, silver fern"
+    },
+    {
+      "slug": "fiji",
+      "nome": "Fiji",
+      "referencia": "Fiji",
+      "elementos": "palm islands in a turquoise lagoon, outrigger canoe, hibiscus, coral reef"
+    },
+    {
+      "slug": "guatemala",
+      "nome": "Guatemala",
+      "referencia": "Guatemala",
+      "elementos": "Tikal pyramid rising from the jungle, resplendent quetzal bird, volcanoes of Lake Atitlán"
+    },
+    {
+      "slug": "belize",
+      "nome": "Belize",
+      "referencia": "Belize",
+      "elementos": "Great Blue Hole seen from above, coral reef, keel-billed toucan"
+    },
+    {
+      "slug": "haiti",
+      "nome": "Haiti",
+      "referencia": "Haiti",
+      "elementos": "Citadelle Laferrière fortress on a mountain top, colorful tap-tap bus, metal art"
+    },
+    {
+      "slug": "republica-dominicana",
+      "nome": "República Dominicana",
+      "referencia": "Dominican Republic",
+      "elementos": "coconut palms leaning over a white beach, merengue accordion, blue larimar stone"
+    },
+    {
+      "slug": "bahamas",
+      "nome": "Bahamas",
+      "referencia": "Bahamas",
+      "elementos": "pigs swimming at a turquoise beach, pink flamingos, conch shell"
+    },
+    {
+      "slug": "vaticano",
+      "nome": "Vaticano",
+      "referencia": "Vatican City",
+      "elementos": "dome of St. Peter's Basilica, crossed golden keys, colonnade of St. Peter's Square"
+    }
+  ]
+}
