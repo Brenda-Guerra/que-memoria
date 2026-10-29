@@ -9,16 +9,23 @@
 // (Supabase → Project Settings → API Keys → Secret keys)
 //
 // Pode rodar de novo quando adicionar ou refizer artes: substitui o que mudou.
+// As artes sobem convertidas para WebP pequeno (a original de ~1,5 MB vira ~50 KB),
+// senão o celular baixa e decodifica dezenas de PNGs enormes e a virada trava.
 // Item sem arte na pasta fica de fora (e é listado no fim).
 
 import { existsSync, readFileSync } from 'node:fs'
 import { join } from 'node:path'
 
 import { createClient } from '@supabase/supabase-js'
+import sharp from 'sharp'
 
 import { CARTAS_POR_TEMA } from './gerar-prompts.mjs'
 
 const BUCKET = 'que-memoria'
+
+/** Tamanho final da arte (proporção 4:5 da carta): o dobro do maior zoom na tela. */
+const LARGURA_ARTE = 640
+const ALTURA_ARTE = 800
 
 const TIPOS = {
   webp: 'image/webp',
@@ -85,12 +92,17 @@ async function main() {
 
   // 1. Arquivos no Storage (blobs)
   for (const [i, item] of comArte.entries()) {
-    item.caminho = `${tema.id}/${item.slug}.${item.extensao}`
+    item.caminho = `${tema.id}/${item.slug}.webp`
+
+    const arte = await sharp(readFileSync(item.arquivo))
+      .resize(LARGURA_ARTE, ALTURA_ARTE, { fit: 'cover', withoutEnlargement: true })
+      .webp({ quality: 80 })
+      .toBuffer()
 
     const { error } = await supabase.storage
       .from(BUCKET)
-      .upload(item.caminho, readFileSync(item.arquivo), {
-        contentType: TIPOS[item.extensao],
+      .upload(item.caminho, arte, {
+        contentType: 'image/webp',
         cacheControl: '31536000',
         upsert: true,
       })

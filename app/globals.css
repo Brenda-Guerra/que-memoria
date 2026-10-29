@@ -2667,7 +2667,9 @@ a {
 
   .jogo-corpo {
     grid-template-columns: minmax(0, 1fr);
-    grid-template-rows: auto auto;
+    /* max-content: com "auto" a linha da mesa encolhe para caber na tela e
+       os jogadores vão parar em cima das cartas (mesas de 60+ cartas) */
+    grid-template-rows: max-content max-content;
     align-content: start;
     overflow-y: auto;
     overflow-x: hidden;

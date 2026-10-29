@@ -208,6 +208,9 @@ export default function Jogo() {
 
     const filtro = `room_id=eq.${roomId}`
 
+    // Atualizações já trazem a linha nova: aplico direto, sem ir ao banco de
+    // novo (a carta vira mais rápido na tela de quem assiste). Elas chegam na
+    // ordem em que foram gravadas, então o par marcado vem antes da sala limpa.
     const channel = supabase
       .channel(`memoria-jogo-${roomId}`)
       .on(
@@ -218,7 +221,12 @@ export default function Jogo() {
           table: 'que_memoria_rooms',
           filter: `id=eq.${roomId}`,
         },
-        () => buscarMesa(roomId)
+        (mudanca) => {
+          if (mudanca.eventType !== 'UPDATE') return buscarMesa(roomId)
+
+          const sala = mudanca.new as Room
+          setRoom((atual) => mesclarSala(atual, sala, viradasPendentes.current))
+        }
       )
       .on(
         'postgres_changes',
@@ -228,7 +236,14 @@ export default function Jogo() {
       .on(
         'postgres_changes',
         { event: '*', schema: 'public', table: 'que_memoria_cards', filter: filtro },
-        () => buscarMesa(roomId)
+        (mudanca) => {
+          if (mudanca.eventType !== 'UPDATE') return buscarMesa(roomId)
+
+          const carta = mudanca.new as Card
+          setCards((atuais) =>
+            atuais.map((card) => (card.id === carta.id ? carta : card))
+          )
+        }
       )
       .subscribe((status) => {
         // Recarrega tudo ao (re)conectar, para não perder nada
